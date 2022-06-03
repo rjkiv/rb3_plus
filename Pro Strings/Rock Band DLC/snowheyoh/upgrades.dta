@@ -1,0 +1,12 @@
+(snowheyoh
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/snowheyoh_plus.mid")
+   (song_id 1005160)
+   (rank
+      (real_guitar 385)
+      (real_bass 215)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rbhp_author RK)
+)

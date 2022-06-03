@@ -1,0 +1,12 @@
+(ithinkimparanoid
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/ithinkimparanoid_plus.mid")
+   (song_id 23)
+   (rank
+      (real_guitar 180)
+      (real_bass 125)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (-2 0 0 0))
+   ;(rbhp_author RK)
+)

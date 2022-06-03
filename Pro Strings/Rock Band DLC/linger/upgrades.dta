@@ -1,0 +1,12 @@
+(linger
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/linger_plus.mid")
+   (song_id 1005571)
+   (rank
+      (real_guitar 165)
+      (real_bass 100)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rbhp_author RK)
+)
