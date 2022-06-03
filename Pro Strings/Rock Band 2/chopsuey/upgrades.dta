@@ -1,0 +1,12 @@
+(chopsuey
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/chopsuey_plus.mid")
+   (song_id 263)
+   (rank
+      (real_guitar 500)
+      (real_bass 440)
+   )
+   (real_guitar_tuning (-2 0 0 0 0 0)) ; real tuning is drop C, in game is drop D
+   (real_bass_tuning (-2 0 0 0)) ; same tuning as guitar
+   ;(rbhp_authors Ziggy (initial pro guitar), RK (pro guitar tweaks, pro bass))
+)
