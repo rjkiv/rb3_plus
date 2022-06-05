@@ -1,0 +1,12 @@
+(rebelgirl
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/rebelgirl_plus.mid")
+   (song_id 305)
+   (rank
+      (real_guitar 157)
+      (real_bass 42)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0)) ; real tuning is capo on 1st fret, in game is standard
+   (real_bass_tuning (0 0 0 0)) ; ditto
+   ;(rbhp_author RK)
+)
