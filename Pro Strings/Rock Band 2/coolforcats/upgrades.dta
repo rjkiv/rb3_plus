@@ -1,0 +1,12 @@
+(coolforcats
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/coolforcats_plus.mid")
+   (song_id 266)
+   (rank
+      (real_guitar 167)
+      (real_bass 254)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rbhp_author hughjniss35)
+)
