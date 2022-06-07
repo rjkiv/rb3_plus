@@ -1,0 +1,12 @@
+(kidsinamerica
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/kidsinamerica_plus.mid")
+   (song_id 282)
+   (rank
+      (real_guitar 327)
+      (real_bass 347)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0)) ; real tuning is one step down, in-game is standard
+   (real_bass_tuning (0 0 0 0)) ; ditto
+   ;(rbhp_author RK)
+)
