@@ -1,0 +1,12 @@
+(crushcrushcrush
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/crushcrushcrush_plus.mid")
+   (song_id 1005067)
+   (rank
+      (real_guitar 268)
+      (real_bass 145)
+   )
+   (real_guitar_tuning (-2 0 0 0 0 0)) ; real tuning is drop C#, in game is drop D
+   (real_bass_tuning (-2 0 0 0)) ; ditto
+   ;(rbhp_authors Ziggy (initial pro guitar), RK (final pro guitar, pro bass))
+)
