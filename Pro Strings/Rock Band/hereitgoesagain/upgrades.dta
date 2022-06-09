@@ -1,0 +1,12 @@
+(hereitgoesagain
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/hereitgoesagain_plus.mid")
+   (song_id 20)
+   (rank
+      (real_guitar 130)
+      (real_bass 130)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rbhp_authors Ruggy (expert pro strings), RK (manual EMH reductions))
+)

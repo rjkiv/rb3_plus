@@ -1,0 +1,12 @@
+(inbloom
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/inbloom_plus.mid")
+   (song_id 22)
+   (rank
+      (real_guitar 155)
+      (real_bass 100)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rbhp_authors Ruggy (expert pro strings), RK (manual EMH reductions))
+)

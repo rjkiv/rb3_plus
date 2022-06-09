@@ -1,0 +1,12 @@
+(highwaystar
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/highwaystar_plus.mid")
+   (song_id 21)
+   (rank
+      (real_guitar 442)
+      (real_bass 430)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rbhp_authors Ruggy (expert pro strings), RK (manual EMH reductions))
+)
