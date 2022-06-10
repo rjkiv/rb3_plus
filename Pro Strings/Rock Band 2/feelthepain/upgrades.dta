@@ -1,0 +1,12 @@
+(feelthepain
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/feelthepain_plus.mid")
+   (song_id 273)
+   (rank
+      (real_guitar 335)
+      (real_bass 320)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0)) ; real guitar has a capo on 3rd fret, in game is standard
+   (real_bass_tuning (0 0 0 0)) ; played standard
+   ;(rbhp_author RK)
+)
