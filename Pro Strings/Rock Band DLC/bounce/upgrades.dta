@@ -1,0 +1,12 @@
+(bounce
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/bounce_plus.mid")
+   (song_id 1005317)
+   (rank
+      (real_guitar 250)
+      (real_bass 220)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rbhp_author RK)
+)
