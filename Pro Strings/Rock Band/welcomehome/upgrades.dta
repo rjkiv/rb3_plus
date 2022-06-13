@@ -1,0 +1,12 @@
+(welcomehome
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/welcomehome_plus.mid")
+   (song_id 43)
+   (rank
+      (real_guitar 470)
+      (real_bass 302)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0)) ; real tuning is one step down, in-game is standard
+   (real_bass_tuning (0 0 0 0)) ; ditto
+   ;(rbhp_authors Ziggy (initial pro guitar), RK (pro guitar tweaks, pro bass))
+)
