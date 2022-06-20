@@ -1,0 +1,12 @@
+(flirtinwithdisaster
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/flirtinwithdisaster_plus.mid")
+   (song_id 15)
+   (rank
+      (real_guitar 475)
+      (real_bass 425)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rbhp_author RK)
+)
