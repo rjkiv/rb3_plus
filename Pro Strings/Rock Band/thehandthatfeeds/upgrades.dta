@@ -1,0 +1,13 @@
+(thehandthatfeeds
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/thehandthatfeeds_plus.mid")
+   (song_id 37)
+   (rank
+      (real_guitar 170)
+      (real_bass 170)
+   )
+   (real_guitar_tuning (-2 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rbhp_authors Ruggy (expert pro strings), RK (manual EMH reductions))
+   ;(rbhp_version 1)
+)
