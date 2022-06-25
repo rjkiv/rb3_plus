@@ -1,0 +1,13 @@
+(detroitrockcity
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/detroitrockcity_plus.mid")
+   (song_id 10)
+   (rank
+      (real_guitar 220)
+      (real_bass 280)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0)) ; real tuning is one step down, in-game is standard
+   (real_bass_tuning (0 0 0 0)) ; ditto
+   ;(rbhp_authors Ruggy (expert pro strings), RK (manual EMH reductions))
+   ;(rbhp_version 1)
+)
