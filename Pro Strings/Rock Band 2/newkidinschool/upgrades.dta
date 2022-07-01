@@ -1,0 +1,12 @@
+(newkidinschool
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/newkidinschool_plus.mid")
+   (song_id 291)
+   (rank
+      (real_guitar 225)
+      (real_bass 215)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rbhp_author RK)
+)
