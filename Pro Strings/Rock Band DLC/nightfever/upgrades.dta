@@ -1,0 +1,12 @@
+(nightfever
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/nightfever_plus.mid")
+   (song_id 1010057)
+   (rank
+      (real_guitar 232)
+      (real_bass 202)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rbhp_author RK)
+)
