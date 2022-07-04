@@ -1,0 +1,12 @@
+(marryyou
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/marryyou_plus.mid")
+   (song_id 1010287)
+   (rank
+      (real_guitar 118)
+      (real_bass 128)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rbhp_author RK)
+)
