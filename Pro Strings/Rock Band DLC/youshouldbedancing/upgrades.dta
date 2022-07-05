@@ -1,0 +1,12 @@
+(youshouldbedancing
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/youshouldbedancing_plus.mid")
+   (song_id 1010024)
+   (rank
+      (real_guitar 275)
+      (real_bass 435)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rbhp_author RK)
+)
