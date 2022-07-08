@@ -1,6 +1,8 @@
 # Welcome to Rock Band 3 Plus!
 This repository contains upgrades for songs in RB3 intended to enhance the playing experience. It aims to have as many harmonies, pro strings, and pro keys upgrades for legacy songs as possible.
 
+# Available Upgrades
+
 ## Harmonies
 
 Harmony upgrades allow for all applicable pre-RB3 songs to be sang with up to 3 people via the addition of harmony vocal tubes. All harmony files (with the exception of the forbidden harmonies) have been authored by [Rock Band: Harmonies Project (RBHP)](https://github.com/FujiSkunk/rbhp). However, many of these upgrades contained bugs such as lyrics displaying twice or vocal tubes being disconnected, so I went ahead and tweaked all of them. These fixed upgrades can also be found built-in to another RB3 project, [Rock Band 3 Deluxe](https://github.com/jnackmclain/rock-band-3-deluxe).
@@ -11,11 +13,29 @@ Pro string upgrades allow for all applicable songs to be played in either the Pr
 ## Pro Keys
 TBA
 
-## How to install these into my copy of RB3?
+# How do I install these upgrades into my copy of RB3?
 
-In order to play all the upgraded harmonies, I'd recommend downloading and installing Rock Band 3 Deluxe - it has all my fixed upgrade files, plus additional quality-of-life upgrades and features.
+## Harmonies
+Installing one harmony upgrade is a rather lengthy and involved process (even moreso if you are playing on a retail console). For this reason, in order to play all the upgraded harmonies, I highly recommend downloading and installing Rock Band 3 Deluxe instead - it has every last one of my fixed upgrade files (which I implemented so you don't have to), plus additional quality-of-life upgrades and features.
 
-In order to play a pro string upgrade, you will need C3ConTools for its CON Creator. Launch the CON Creator, and make sure the root folder is titled "songs_upgrades" and NOT "songs" like it defaults to. Then, within this folder, insert both a song's plus.mid and upgrades.dta file. Name the package whatever you like, then build the package as a LIVE file. Go onto your JTAG/RGH Xbox, open the File Manager, navigate to Hdd1/Content/0000000000000000/45410914/00000002, and paste the upgrade there. Finally, boot up Rock Band 3 and enjoy your pro strings upgrade!
+## Pro Strings
+To install a pro strings upgrade, you will need C3CONTools, and a USB drive if you are playing on a physical game console.
 
-## Contributing
+### Xbox 360 (JTAG/RGH)
+- Open up C3CONTools, and launch the CON Creator.
+- Make sure the root folder is titled "songs_upgrades" and NOT "songs" like it defaults to. Then, within this folder, insert both a pro string's *_plus.mid file and upgrades.dta file. The end file structure should look like this: ![example_CON_structure](example_CON.PNG?raw=true "Example CON structure")
+- Name the package whatever you like, then create the package as a LIVE file.
+- On your JTAG/RGH Xbox, open the File Manager. Navigate to ```Hdd1/Content/0000000000000000/45410914/00000002```, and paste the LIVE file you created earlier in there.
+- That's it! Boot up Rock Band 3 and enjoy your upgrade!
+
+### RPCS3
+- Open up your system's file explorer, and navigate to where you have RPCS3 installed. 
+- Go to ```dev_hdd0\game\BLUS30463\USRDIR```. Create the folder ```HMX0756``` if it does not exist. Then, navigate inside this folder.
+- Paste the *_plus.mid file in the folder, and depending on if you have previously placed upgrades in this folder, do one of the following:
+  - If you have never posted an upgrade here before, simply paste the pro string's upgrades.dta file in.
+  - If you HAVE posted an upgrade here before, open up the existing upgrades.dta, scroll down to the very bottom, and paste in the contents of the pro strings' upgrades.dta file.
+- Finally, open up C3CONTools, and launch the PS3 Converter. Then click Encryption Options --> Encrypt replacement MIDI file(s). Navigate to the ```HMX0756``` folder from your RPCS3 install, and select the pro string's *_plus.mid you placed in there. The midi should now be encrypted and recognizable by RPCS3.
+- That's it! Boot up RB3 on RPCS3 and enjoy your upgrade!
+
+# Contributing
 I would love contributions from other passionate, dedicated upgrade authors! If you would like to contribute an upgrade of your own, please fork this repository and submit a pull request containing your upgrade.
