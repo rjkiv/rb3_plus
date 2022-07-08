@@ -1,0 +1,12 @@
+(apunk
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/apunk_plus.mid")
+   (song_id 753)
+   (rank
+      (real_guitar 407)
+      (real_bass 177)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rbhp_author RK)
+)
