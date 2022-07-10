@@ -1,0 +1,12 @@
+(everlong
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/everlong_plus.mid")
+   (song_id 271)
+   (rank
+      (real_guitar 286)
+      (real_bass 186)
+   )
+   (real_guitar_tuning (-2 0 0 0 0 0))
+   (real_bass_tuning (-2 0 0 0))
+   ;(rbhp_author RK)
+)
