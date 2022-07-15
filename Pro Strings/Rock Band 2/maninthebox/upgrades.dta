@@ -1,0 +1,12 @@
+(maninthebox
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/maninthebox_plus.mid")
+   (song_id 287)
+   (rank
+      (real_guitar 200)
+      (real_bass 150)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0)) ; real tuning is one step down, in-game is standard
+   (real_bass_tuning (0 0 0 0)) ; ditto
+   ;(rbhp_author RK)
+)
