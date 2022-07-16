@@ -1,0 +1,12 @@
+(peacesells
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/peacesells_plus.mid")
+   (song_id 299)
+   (rank
+      (real_guitar 460)
+      (real_bass 400)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rbhp_author RK)
+)
