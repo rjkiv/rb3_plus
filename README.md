@@ -39,3 +39,6 @@ To install a pro strings upgrade, you will need C3CONTools, and a USB drive if y
 
 # Contributing
 I would love contributions from other passionate, dedicated upgrade authors! If you would like to contribute an upgrade of your own, please fork this repository and submit a pull request containing your upgrade.
+
+# Questions?
+If you have an issue or comment, please open up an issue on this repo, or comment on the YouTube videos that showcase these upgrades.
