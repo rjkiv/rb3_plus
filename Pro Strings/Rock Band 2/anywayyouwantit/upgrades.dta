@@ -1,0 +1,12 @@
+(anywayyouwantit
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/anywayyouwantit_plus.mid")
+   (song_id 257)
+   (rank
+      (real_guitar 350)
+      (real_bass 250)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rbhp_author RK)
+)
