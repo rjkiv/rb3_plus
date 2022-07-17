@@ -8,5 +8,5 @@
    )
    (real_guitar_tuning (-2 0 0 0 0 0)) ; real tuning is drop C#, in game is drop D
    (real_bass_tuning (-2 0 0 0)) ; ditto
-   ;(rbhp_authors Ziggy (initial pro guitar), RK (final pro guitar, pro bass))
+   ;(rb3_plus_authors Ziggy (initial pro guitar), RK (final pro guitar, pro bass))
 )
