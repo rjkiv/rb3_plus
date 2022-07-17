@@ -8,5 +8,5 @@
    )
    (real_guitar_tuning (-2 0 0 0 0 0))
    (real_bass_tuning (-2 0 0 0))
-   ;(rbhp_authors Ziggy (initial PG), RK (final PG and PB))
+   ;(rb3_plus_authors Ziggy (initial PG), RK (final PG and PB))
 )

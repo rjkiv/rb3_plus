@@ -3,10 +3,10 @@
    (midi_file "songs_upgrades/naturaldisaster_plus.mid")
    (song_id 1005210)
    (rank
-      (real_guitar 243) ; mid-high 2 dot
-      (real_bass 203) ; high 1 dot
+      (real_guitar 243)
+      (real_bass 203)
    )
    (real_guitar_tuning (-2 0 0 0 0 0))
    (real_bass_tuning (-2 0 0 0))
-   ;(rbhp_author hughjniss35)
+   ;(rb3_plus_author RK)
 )
