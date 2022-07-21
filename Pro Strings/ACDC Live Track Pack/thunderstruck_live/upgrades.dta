@@ -1,0 +1,12 @@
+(thunderstruck_live
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/thunderstruck_live_plus.mid")
+   (song_id 1005298)
+   (rank
+      (real_guitar 396)
+      (real_bass 96)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rb3_plus_author RK)
+)
