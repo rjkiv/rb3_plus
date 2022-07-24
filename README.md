@@ -23,7 +23,7 @@ To install a pro strings upgrade, you will need C3CONTools, and a USB drive if y
 
 ### Xbox 360 (JTAG/RGH)
 - Open up C3CONTools, and launch the CON Creator.
-- Make sure the root folder is titled "songs_upgrades" and NOT "songs" like it defaults to. Then, within this folder, insert both a pro string's *_plus.mid file and upgrades.dta file. The end file structure should look like this: ![example_CON_structure](example_CON.PNG?raw=true "Example CON structure")
+- Make sure the root folder is titled "songs_upgrades" and NOT "songs" like it defaults to. Then, within this folder, insert both a pro string's *_plus.mid file and upgrades.dta file. The end file structure should look like this: ![example_CON_structure](readme_assets/example_CON.PNG?raw=true "Example CON structure")
 - Name the package whatever you like, then create the package as a LIVE file.
 - On your JTAG/RGH Xbox, open the File Manager. Navigate to ```Hdd1/Content/0000000000000000/45410914/00000002```, and paste the LIVE file you created earlier in there.
 - That's it! Boot up Rock Band 3 and enjoy your upgrade!
