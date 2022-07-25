@@ -5,19 +5,15 @@
 # Installation
 
 ## Rock Band 3 Deluxe
-If you have RB3DX installed onto your system, then good news - you do not need to take any further steps, as RB3DX has all of my fixed upgrade files built-in. However, if you do not have RB3DX installed, the process to install harmonies is rather involved (especially if you are on PS3/RPCS3), but it can be done, as demonstrated below.
+If you have RB3DX installed onto your system, then good news - you do not need to take any further steps, as RB3DX has all of my fixed upgrade files built-in. However, if you do not have RB3DX installed, the process to install harmonies is rather involved (particularly if you are on PS3/RPCS3), but it can be done.
 
 ## Xbox
-In order to install a harmony upgrade for a particular song on Xbox, you will need C3CONTools, as well as the song's original CON file. You will also need your preferred DAW (I personally use Reaper).
-
-- Launch C3CONTools, drag the CON file directly onto the window, and extract the midi file.
-- In your DAW, import the midi file you just extracted, and then import the song's upgrade file you got from this repo.
-- Export the midi file from your DAW. What you should have is a new midi file with the same name as the originally extracted midi file, but now with the addition of the harmony tracks from the repo.
-- Go back to C3CONTools, with the CON file dragged into the window, and replace the original midi file with the one you just exported from your DAW.
-- Exit out of that window, and then launch C3CONTools' Quick DTA Editor. Drag the song's CON onto it.
-- Within the song array, add the attribute (vocal_parts X), where X is the number of harm tracks you placed in your modified midi file.
-- Save and exit the dta file window, wait for the CON to rebuild.
+In order to install a harmony upgrade for a particular song on Xbox, you will need C3CONTools, as well as the song's original CON file.
+- Launch C3CONTools, and open up the Upgrade Bundler.
+- Place the song's original CON file in the left window, and the song's corresponding *_plus.mid file into the right window. Then, click the "Bundle!" button. A window may pop up expressing the song ID is "NOT FOUND IN DTA"; you can skip this by clicking OK.
+- After the upgrade bundler finishes up, you should have an upgraded version of your CON. It will have the same name as the original CON, but with "(bundled)" at the end.
 - Finally, take the CON file and place it in the same location you pulled it from on your Xbox. Then, boot up RB3 and enjoy your upgrade!
+- IMPORTANT NOTE: the above method will work for every legacy song except for songs obtained by exporting from Rock Band. To apply harmonies to Rock Band export songs, you will need to create an upgrade CON similar to a pro strings upgrade (see the pro strings tutorial for more info on building an upgrade CON), and then add a line in the original song's songs.dta file indicating the number of vocal parts (see the RPCS3 harmony tutorial for more info on adding this line).
 
 ## RPCS3
 Installing a harmony upgrade on RPCS3 requires a little more work than Xbox (or using RB3DX), as you will see. You will need C3CONTools, and the original song to be installed on your system in order to access the songs.dta file.
@@ -28,6 +24,6 @@ Installing a harmony upgrade on RPCS3 requires a little more work than Xbox (or 
   - If you have never posted an upgrade here before, simply paste the harmony's upgrades.dta file in.
   - If you HAVE posted an upgrade here before, open up the existing upgrades.dta, scroll down to the very bottom, and paste in the contents of the harmony's upgrades.dta file. 
   - IMPORTANT NOTE: if you have previously applied a pro string upgrade from this repo into this upgrades.dta AND it shares a name with the harmony upgrade (i.e. you applied a Blitzkrieg Bop pro string upgrade and you're trying to install the harmonies), you will need to either delete the pro string midi and corresponding upgrade info, or merge their harmony and pro string midis together.
-- Navigate to the directory where the original song's files are located, and open up the songs.dta file. Within the (songs ) array, add the line (vocal_parts X), where X is the number of harm parts you saw in the *_plus.mid.
+- Navigate to the directory where the original song's files are located, and open up the songs.dta file. Within the ```(songs )``` array, add the line ```(vocal_parts X)```, where ```X``` is the number of harm parts you saw in the *_plus.mid.
 - Finally, open up C3CONTools, and launch the PS3 Converter. Then click Encryption Options --> Encrypt replacement MIDI file(s). Navigate to the ```HMX0756``` folder from your RPCS3 install, and select the *_plus.mid file you placed in there. The midi should now be encrypted and recognizable by RPCS3.
 - That's it! Boot up RB3 on RPCS3 and enjoy your upgrade!
