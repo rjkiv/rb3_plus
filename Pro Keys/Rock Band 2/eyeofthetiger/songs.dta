@@ -36,10 +36,10 @@
       (guitar 100)
       (bass 100)
       (vocals 210)
+      ; credit for authoring key chart goes to LinosM
+      ; credit for new mogg with key stem goes to RK
       (keys 153)
-      (real_guitar 0)
-      (real_bass 0)
-      (real_keys 153) ; key upgrade courtesy of LinosM
+      (real_keys 153)
       (band 100)
    )
    (format 10)

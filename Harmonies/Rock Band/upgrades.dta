@@ -1,0 +1,261 @@
+; Rock Band upgrade arrays
+; All initial authoring credits for these harmony upgrades go to Espher of RBHP
+; PLEASE NOTE: if you want to pick and choose singular harmony upgrades to apply, only paste the relevant song arrays into your local upgrades.dta
+
+(29fingers
+	(upgrade_version 1)
+	(midi_file "songs_upgrades/29fingers_plus.mid")
+	(song_id 46)
+)
+
+(ballroomblitz
+	(upgrade_version 1)
+	(midi_file "songs_upgrades/ballroomblitz_plus.mid")
+	(song_id 2)
+)
+
+(blackholesun
+	(upgrade_version 1)
+	(midi_file "songs_upgrades/blackholesun_plus.mid")
+	(song_id 3)
+)
+
+(blitzkriegbop
+	(upgrade_version 1)
+	(midi_file "songs_upgrades/blitzkriegbop_plus.mid")
+	(song_id 4)
+)
+
+(brainpower
+	(upgrade_version 1)
+	(midi_file "songs_upgrades/brainpower_plus.mid")
+	(song_id 48)
+)
+
+(cantletgo
+   	(upgrade_version 1)
+   	(midi_file "songs_upgrades/cantletgo_plus.mid")
+   	(song_id 49)
+)
+
+(celebrityskin
+	(upgrade_version 1)
+	(midi_file "songs_upgrades/celebrityskin_plus.mid")
+	(song_id 5)
+)
+
+(cherubrock
+	(upgrade_version 1)
+	(midi_file "songs_upgrades/cherubrock_plus.mid")
+	(song_id 6)
+)
+
+(danicalifornia
+	(upgrade_version 1)
+	(midi_file "songs_upgrades/danicalifornia_plus.mid")
+	(song_id 8)
+)
+
+(daylatedollarshort
+	(upgrade_version 1)
+	(midi_file "songs_upgrades/daylatedollarshort_plus.mid")
+	(song_id 50)
+)
+
+(deadonarrival
+	(upgrade_version 1)
+	(midi_file "songs_upgrades/deadonarrival_plus.mid")
+	(song_id 9)
+)
+
+(detroitrockcity
+	(upgrade_version 1)
+	(midi_file "songs_upgrades/detroitrockcity_plus.mid")
+	(song_id 10)
+)
+
+(dontfearthereaper
+	(upgrade_version 1)
+	(midi_file "songs_upgrades/dontfearthereaper_plus.mid")
+	(song_id 11)
+)
+
+(electricversion
+	(upgrade_version 1)
+	(midi_file "songs_upgrades/electricversion_plus.mid")
+	(song_id 12)
+)
+
+(epic
+	(upgrade_version 1)
+	(midi_file "songs_upgrades/epic_plus.mid")
+	(song_id 14)
+)
+
+(foreplaylongtime
+	(upgrade_version 1)
+	(midi_file "songs_upgrades/foreplaylongtime_plus.mid")
+	(song_id 16)
+)
+
+(gimmeshelter
+	(upgrade_version 1)
+	(midi_file "songs_upgrades/gimmeshelter_plus.mid")
+	(song_id 17)
+)
+
+(gowiththeflow
+	(upgrade_version 1)
+	(midi_file "songs_upgrades/gowiththeflow_plus.mid")
+	(song_id 18)
+)
+
+(greengrass
+	(upgrade_version 1)
+	(midi_file "songs_upgrades/greengrass_plus.mid")
+	(song_id 19)
+)
+
+(hereitgoesagain
+	(upgrade_version 1)
+	(midi_file "songs_upgrades/hereitgoesagain_plus.mid")
+	(song_id 20)
+)
+
+(highwaystar
+	(upgrade_version 1)
+	(midi_file "songs_upgrades/highwaystar_plus.mid")
+	(song_id 21)
+)
+
+(igetby
+	(upgrade_version 1)
+	(midi_file "songs_upgrades/igetby_plus.mid")
+	(song_id 51)
+)
+
+(imsosick
+	(upgrade_version 1)
+	(midi_file "songs_upgrades/imsosick_plus.mid")
+	(song_id 52)
+)
+
+(inbloom
+	(upgrade_version 1)
+	(midi_file "songs_upgrades/inbloom_plus.mid")
+	(song_id 22)
+)
+
+(ithinkimparanoid
+	(upgrade_version 1)
+	(midi_file "songs_upgrades/ithinkimparanoid_plus.mid")
+	(song_id 23)
+)
+
+(mainoffender
+	(upgrade_version 1)
+	(midi_file "songs_upgrades/mainoffender_plus.mid")
+	(song_id 25)
+)
+
+(nexttoyou
+	(upgrade_version 1)
+	(midi_file "songs_upgrades/nexttoyou_plus.mid")
+	(song_id 28)
+)
+
+(nightmare
+	(upgrade_version 1)
+	(midi_file "songs_upgrades/nightmare_plus.mid")
+	(song_id 53)
+)
+
+(orangecrush
+	(upgrade_version 1)
+	(midi_file "songs_upgrades/orangecrush_plus.mid")
+	(song_id 29)
+)
+
+(outside
+	(upgrade_version 1)
+	(midi_file "songs_upgrades/outside_plus.mid")
+	(song_id 54)
+)
+
+(pleasure
+	(upgrade_version 1)
+	(midi_file "songs_upgrades/pleasure_plus.mid")
+	(song_id 55)
+)
+
+(sabotage
+	(upgrade_version 1)
+	(midi_file "songs_upgrades/sabotage_plus.mid")
+	(song_id 33)
+)
+
+(sayitaintso
+	(upgrade_version 1)
+	(midi_file "songs_upgrades/sayitaintso_plus.mid")
+	(song_id 34)
+)
+
+(seven
+	(upgrade_version 1)
+	(midi_file "songs_upgrades/seven_plus.mid")
+	(song_id 56)
+)
+
+(shouldistay
+	(upgrade_version 1)
+	(midi_file "songs_upgrades/shouldistay_plus.mid")
+	(song_id 35)
+)
+
+(suffragettecity
+	(upgrade_version 1)
+	(midi_file "songs_upgrades/suffragettecity_plus.mid")
+	(song_id 36)
+)
+
+(thehandthatfeeds
+   	(upgrade_version 1)
+   	(midi_file "songs_upgrades/thehandthatfeeds_plus.mid")
+   	(song_id 37)
+)
+
+(timewehad
+	(upgrade_version 1)
+	(midi_file "songs_upgrades/timewehad_plus.mid")
+	(song_id 57)
+)
+
+(timmy
+	(upgrade_version 1)
+	(midi_file "songs_upgrades/timmy_plus.mid")
+	(song_id 58)
+)
+
+(vasoline
+	(upgrade_version 1)
+	(midi_file "songs_upgrades/vasoline_plus.mid")
+	(song_id 40)
+)
+
+(welcomehome
+	(upgrade_version 1)
+	(midi_file "songs_upgrades/welcomehome_plus.mid")
+	(song_id 43)
+)
+
+(whenyouwereyoung
+	(upgrade_version 1)
+	(midi_file "songs_upgrades/whenyouwereyoung_plus.mid")
+	(song_id 44)
+)
+
+(wontgetfooled
+	(upgrade_version 1)
+	(midi_file "songs_upgrades/wontgetfooled_plus.mid")
+	(song_id 45)
+)
