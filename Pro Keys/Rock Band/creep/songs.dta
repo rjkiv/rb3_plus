@@ -35,8 +35,10 @@
       (guitar 225)
       (bass 225)
       (vocals 110)
+      ; credit for authoring key chart goes to FujiSkunk
+      ; credit for new mogg with key stem goes to RK
       (keys 211)
-      (real_keys 211) ; key upgrade courtesy of FujiSkunk
+      (real_keys 211)
       (band 140)
    )
    (genre alternative)
