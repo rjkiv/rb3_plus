@@ -1,6 +1,6 @@
 # Harmonies 
 
-<img src="../readme_assets/harm3.png" width="10%" height="10%" align="left"> Harmony upgrades allow for all applicable pre-RB3 songs to be sang with up to 3 people via the addition of harmony vocal tubes. All harmony files (with the exception of the forbidden harmonies) have been authored by [Rock Band: Harmonies Project (RBHP)](https://github.com/FujiSkunk/rbhp). However, many of these upgrades contained visual bugs such as lyrics displaying twice or vocal tubes being disconnected, so I went ahead and tweaked all of them. Along with being in this repo, these fixed upgrades can also be found built-in to another RB3 project, [Rock Band 3 Deluxe](https://github.com/jnackmclain/rock-band-3-deluxe).
+<img src="../readme_assets/harm3.png" width="20%" height="20%" align="left"> Harmony upgrades allow for all applicable pre-RB3 songs to be sang with up to 3 people via the addition of harmony vocal tubes. All harmony files (with the exception of the forbidden harmonies) have been authored by [Rock Band: Harmonies Project (RBHP)](https://github.com/FujiSkunk/rbhp). However, many of these upgrades contained visual bugs such as lyrics displaying twice or vocal tubes being disconnected, so I went ahead and tweaked all of them. Along with being in this repo, these fixed upgrades can also be found built-in to another RB3 project, [Rock Band 3 Deluxe](https://github.com/jnackmclain/rock-band-3-deluxe).
 
 # Installation
 
