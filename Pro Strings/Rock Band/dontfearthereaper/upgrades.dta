@@ -1,0 +1,12 @@
+(dontfearthereaper
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/dontfearthereaper_plus.mid")
+   (song_id 11)
+   (rank
+      (real_guitar 370)
+      (real_bass 340)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rb3_plus_authors Ruggy (expert pro strings), RK (manual EMH reductions))
+)
