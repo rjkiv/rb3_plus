@@ -1,0 +1,12 @@
+(deadonarrival
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/deadonarrival_plus.mid")
+   (song_id 9)
+   (rank
+      (real_guitar 263)
+      (real_bass 333)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rb3_plus_authors Ziggy (initial pro guitar), RK (pro guitar tweaks, pro bass))
+)
