@@ -1,0 +1,12 @@
+(epic
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/epic_plus.mid")
+   (song_id 14)
+   (rank
+      (real_guitar 344)
+      (real_bass 304)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rb3_plus_author RK)
+)
