@@ -1,0 +1,12 @@
+(gimmeshelter
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/gimmeshelter_plus.mid")
+   (song_id 17)
+   (rank
+      (real_guitar 269)
+      (real_bass 369)
+   )
+   (real_guitar_tuning (0 2 2 1 0 0)) ; open E tuning
+   (real_bass_tuning (0 0 0 0)) ; standard tuning
+   ;(rb3_plus_author RK)
+)
