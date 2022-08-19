@@ -6,7 +6,7 @@
       (real_guitar 288)
       (real_bass 250)
    )
-   (real_guitar_tuning (0 0 0 0 0 0)) ; real tuning is 1 step down from standard
-   (real_bass_tuning (0 0 0 0)) ; real tuning is 1 step down from standard
+   (real_guitar_tuning (0 0 0 0 0 0)) ; real tuning is a half step down, in-game is standard
+   (real_bass_tuning (0 0 0 0)) ; ditto
    ;(rb3_plus_authors Ziggy (initial pro guitar), RK (final pro guitar, pro bass)
 )
