@@ -1,0 +1,12 @@
+(allofthis
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/allofthis_plus.mid")
+   (song_id 1005931)
+   (rank
+      (real_guitar 375)
+      (real_bass 175)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rb3_plus_author RK)
+)
