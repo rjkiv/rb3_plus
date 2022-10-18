@@ -1,0 +1,12 @@
+(yyz
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/yyz_plus.mid")
+   (song_id 1005229)
+   (rank
+      (real_guitar 444) ; devil
+      (real_bass 424) ; 5 dot
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rb3_plus_author RK)
+)
