@@ -1,10 +1,10 @@
-(yyz
+(yououghtaknow
    (upgrade_version 1)
-   (midi_file "songs_upgrades/yyz_plus.mid")
-   (song_id 1005229)
+   (midi_file "songs_upgrades/yououghtaknow_plus.mid")
+   (song_id 325)
    (rank
-      (real_guitar 444)
-      (real_bass 424)
+      (real_guitar 277)
+      (real_bass 447)
    )
    (real_guitar_tuning (0 0 0 0 0 0))
    (real_bass_tuning (0 0 0 0))
