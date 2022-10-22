@@ -1,0 +1,12 @@
+(ironic
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/ironic_plus.mid")
+   (song_id 1005733)
+   (rank
+      (real_guitar 232)
+      (real_bass 272)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0)) ; real guitar has a capo on 4th fret, in game is standard
+   (real_bass_tuning (0 0 0 0)) ; played standard
+   ;(rb3_plus_author RK)
+)
