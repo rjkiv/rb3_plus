@@ -1,0 +1,12 @@
+(sayitaintso
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/sayitaintso_plus.mid")
+   (song_id 34)
+   (rank
+      (real_guitar 348)
+      (real_bass 38)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0)) ; real tuning is a half step down, in-game is standard
+   (real_bass_tuning (0 0 0 0)) ; ditto
+   ;(rb3_plus_author RK)
+)
