@@ -1,0 +1,12 @@
+(ramblinman
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/ramblinman_plus.mid")
+   (song_id 304)
+   (rank
+      (real_guitar 466)
+      (real_bass 406)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0)) ; real guitar has a capo on 1st fret, in game is standard
+   (real_bass_tuning (0 0 0 0)) ; ditto
+   ;(rb3_plus_author RK)
+)
