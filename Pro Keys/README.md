@@ -4,7 +4,7 @@
 # Installation
 
 ## Rock Band 3 Deluxe
-If you consult the RB3DX repo, after running the initialization script, you will see two additional scripts - ```enable_keys``` and ```disable_keys```. Like the script names suggest, these will allow or forbid the key upgrades featured in RB3_plus to work natively in the RB3DX patch ark. Simply run the ```enable_keys``` script in order to enjoy these key upgrades baked into RB3DX.
+To play these upgrades on RB3DX, visit the repo, click the "Actions" tab, and select the build for your specific console that has keys enabled.
 
 Alternatively, if you do not have the means to install RB3DX onto your system, you can use the methods below in order to play these key upgrades - however, please note that due to how the vanilla version of RB3 handles legacy songs, the venue will be broken, and you will have one static camera angle throughout the song if you play on keys. If that does not bother you, please continue reading to see how to install these upgrades for your preferred system.
 
