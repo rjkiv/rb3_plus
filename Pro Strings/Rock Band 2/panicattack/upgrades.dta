@@ -1,0 +1,14 @@
+(panicattack
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/panicattack_plus.mid")
+   (song_id 297)
+   (rank
+      (real_guitar 557)
+      (real_bass 556)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0)) ; real tuning is A# standard, in-game is E standard 
+   (real_bass_tuning (0 0 0 0)) ; real bass is played with 5 strings tuned down to ADGCF
+   ; the charted tabs were tweaked to fit on a 4 string bass tuned to A standard (ADGC)
+   ; finally, in-game tuning is E standard
+   ;(rb3_plus_author RK)
+)
