@@ -31,6 +31,7 @@
 | Drain You | Nirvana | G: E Standard<br>B: E Standard | G: D Standard<br>B: D Standard |
 | Spirit in the Sky | Norman Greenbaum | G: E Standard<br>B: E Standard | same as in-game |
 | Alive | Pearl Jam | G: E Standard<br>B: E Standard | same as in-game |
+| Lump | The Presidents of the United States of America | G: Drop D<br>B: Drop D | G: Eb Drop Db<br>B: Eb Drop Db |
 | Testify | Rage Against the Machine | G: Drop D<br>B: Drop D | same as in-game |
 | The Trees (Vault Edition) | Rush | G: E Standard<br>B: E Standard | same as in-game |
 | Cool for Cats | Squeeze | G: E Standard<br>B: E Standard | same as in-game |
