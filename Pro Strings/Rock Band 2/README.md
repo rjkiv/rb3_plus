@@ -25,6 +25,7 @@
 | Painkiller | Judas Priest | G: E Standard<br>B: E Standard | same as in-game |
 | De-Luxe | Lush | G: E Standard<br>B: E Standard | same as in-game |
 | Peace Sells | Megadeth | G: E Standard<br>B: E Standard | same as in-game |
+| Battery | Metallica | G: E Standard<br>B: E Standard | same as in-game |
 | Ace of Spades '08 | Motörhead | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
 | Kids in America | The Muffs | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
 | Drain You | Nirvana | G: E Standard<br>B: E Standard | G: D Standard<br>B: D Standard |
