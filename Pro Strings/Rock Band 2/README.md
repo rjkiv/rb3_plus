@@ -6,6 +6,7 @@
 | You Oughta Know | Alanis Morissette | G: E Standard<br>B: E Standard | same as in-game |
 | Man in the Box | Alice in Chains | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
 | Ramblin' Man | The Allman Brothers Band | G: E Standard<br>B: E Standard | G: F Standard (E standard, capo on 1st fret)<br>B: F Standard (E standard, capo on 1st fret) |
+| Almost Easy | Avenged Sevenfold | G: Drop D<br>B: Drop D | G: Eb Drop Db<br>B: Eb Drop Db |
 | So What'cha Want | Beastie Boys | G: Drop D<br>B: Drop D | same as in-game |
 | E-Pro | Beck | G: E Standard<br>B: E Standard | same as in-game |
 | Rebel Girl | Bikini Kill | G: E Standard<br>B: E Standard | G: F Standard (E standard, capo on 1st fret)<br>B: F Standard (E standard, capo on 1st fret) |
