@@ -1,0 +1,12 @@
+(shacklersrevenge
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/shacklersrevenge_plus.mid")
+   (song_id 308)
+   (rank
+      (real_guitar 444)
+      (real_bass 414)
+   )
+   (real_guitar_tuning (-2 0 0 0 0 0)) ; real tuning is drop B, in game is drop D
+   (real_bass_tuning (-2 0 0 0)) ; ditto
+   ;(rb3_plus_author RK)
+)

@@ -18,6 +18,7 @@
 | Pump It Up | Elvis Costello | G: E Standard<br>B: E Standard | same as in-game |
 | Everlong | Foo Fighters | G: Drop D<br>B: Drop D | same as in-game |
 | American Woman | The Guess Who | G: E Standard<br>B: E Standard | same as in-game |
+| Shackler's Revenge | Guns N' Roses | G: Drop D<br>B: Drop D | G: Drop B<br>B: Drop B |
 | PDA | Interpol | G: E Standard<br>B: Drop D | same as in-game |
 | Mountain Song | Jane's Addiction | G: E Standard<br>B: E Standard | same as in-game |
 | Aqualung | Jethro Tull | G: E Standard<br>B: E Standard | same as in-game |
