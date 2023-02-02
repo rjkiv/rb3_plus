@@ -1,0 +1,12 @@
+(onewayoranother
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/onewayoranother_plus.mid")
+   (song_id 294)
+   (rank
+      (real_guitar 268)
+      (real_bass 328)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rb3_plus_author espher (initial pro charts), RK (final pro charts, manual EMH reductions)))
+)
