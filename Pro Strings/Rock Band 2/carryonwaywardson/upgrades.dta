@@ -1,0 +1,12 @@
+(carryonwaywardson
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/carryonwaywardson_plus.mid")
+   (song_id 262)
+   (rank
+      (real_guitar 373)
+      (real_bass 428)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rb3_plus_author espher (initial pro charts), RK (final pro charts, manual EMH reductions)))
+)

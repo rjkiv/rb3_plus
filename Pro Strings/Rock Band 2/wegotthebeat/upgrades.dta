@@ -1,0 +1,12 @@
+(wegotthebeat
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/wegotthebeat_plus.mid")
+   (song_id 322)
+   (rank
+      (real_guitar 33)
+      (real_bass 33)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rb3_plus_author espher (initial pro charts), RK (final pro charts, manual EMH reductions)))
+)

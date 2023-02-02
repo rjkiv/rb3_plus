@@ -1,0 +1,12 @@
+(iwaswrong
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/iwaswrong_plus.mid")
+   (song_id 281)
+   (rank
+      (real_guitar 199)
+      (real_bass 159)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0)) ; played standard
+   (real_bass_tuning (0 0 0 0)) ; real tuning is a half step down, in-game is standard
+   ;(rb3_plus_author espher (initial pro charts), RK (final pro charts, manual EMH reductions)))
+)

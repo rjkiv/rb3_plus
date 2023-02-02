@@ -1,0 +1,12 @@
+(masterexploder
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/masterexploder_plus.mid")
+   (song_id 288)
+   (rank
+      (real_guitar 449)
+      (real_bass 209)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rb3_plus_author espher (initial pro charts), RK (final pro charts, manual EMH reductions)))
+)

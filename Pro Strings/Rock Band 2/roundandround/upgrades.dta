@@ -1,0 +1,12 @@
+(roundandround
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/roundandround_plus.mid")
+   (song_id 307)
+   (rank
+      (real_guitar 388)
+      (real_bass 60)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0)) ; real tuning is one step down, in-game is standard
+   (real_bass_tuning (0 0 0 0)) ; ditto
+   ;(rb3_plus_author espher (initial pro charts), RK (final pro charts, manual EMH reductions)))
+)
