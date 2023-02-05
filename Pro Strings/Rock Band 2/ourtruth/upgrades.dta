@@ -1,0 +1,12 @@
+(ourtruth
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/ourtruth_plus.mid")
+   (song_id 295)
+   (rank
+      (real_guitar 222)
+      (real_bass 282)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0)) ; real tuning is B standard, in-game is E standard
+   (real_bass_tuning (0 0 0 0)) ; ditto
+   ;(rb3_plus_author RK)
+)

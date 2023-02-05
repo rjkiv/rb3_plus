@@ -30,6 +30,7 @@
 | Any Way You Want It | Journey | G: E Standard<br>B: E Standard | same as in-game |
 | Painkiller | Judas Priest | G: E Standard<br>B: E Standard | same as in-game |
 | Carry On Wayward Son | Kansas | G: E Standard<br>B: E Standard | same as in-game |
+| Our Truth | Lacuna Coil | G: E Standard<br>B: E Standard | G: B Standard<br>B: B Standard |
 | De-Luxe | Lush | G: E Standard<br>B: E Standard | same as in-game |
 | Peace Sells | Megadeth | G: E Standard<br>B: E Standard | same as in-game |
 | Battery | Metallica | G: E Standard<br>B: E Standard | same as in-game |
