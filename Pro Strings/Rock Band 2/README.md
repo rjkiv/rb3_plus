@@ -12,6 +12,7 @@
 | Rebel Girl | Bikini Kill | G: E Standard<br>B: E Standard | G: F Standard (E standard, capo on 1st fret)<br>B: F Standard (E standard, capo on 1st fret) |
 | White Wedding (Part 1) | Billy Idol | G: E Standard<br>B: E Standard | same as in-game |
 | One Way or Another | Blondie | G: E Standard<br>B: E Standard | same as in-game |
+| Tangled Up in Blue | Bob Dylan | G: E Standard<br>B: E Standard | same as in-game |
 | Uncontrollable Urge | Devo | G: E Standard<br>B: E Standard | same as in-game |
 | Feel the Pain | Dinosaur Jr. | G: E Standard<br>B: E Standard | G: G Standard (E standard, capo on 3rd fret)<br>B: same as in-game |
 | Down with the Sickness | Disturbed | G: Drop D<br>B: Drop D | G: Eb Drop Db<br>B: Eb Drop Db |
