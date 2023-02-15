@@ -1,0 +1,12 @@
+(alexchilton
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/alexchilton_plus.mid")
+   (song_id 253)
+   (rank
+      (real_guitar 424)
+      (real_bass 364)
+   )
+   (real_guitar_tuning (0 0 2 2 2 0)) ; open A tuning
+   (real_bass_tuning (0 0 0 0)) ; standard
+   ;(rb3_plus_author RK)
+)
