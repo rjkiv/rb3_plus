@@ -1,0 +1,12 @@
+(hungrylikethewolf
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/hungrylikethewolf_plus.mid")
+   (song_id 280)
+   (rank
+      (real_guitar 88)
+      (real_bass 178)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rb3_plus_author RK)
+)
