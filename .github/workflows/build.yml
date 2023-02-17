@@ -13,11 +13,10 @@ jobs:
           sudo apt install libfuse2
           sudo apt install wget
           sudo wget -P dependencies https://github.com/mtolly/onyxite-customs/releases/download/20230130/onyx-20230130-linux-x64.AppImage
-          ls dependencies
           sudo chmod a+x dependencies/onyx-20230130-linux-x64.AppImage
           ./dependencies/onyx-20230130-linux-x64.AppImage --appimage-extract
           ls dependencies
-          ./dependencies/onyx-20230130-linux-x64.AppImage stfs
+          ./dependencies/onyx-20230130-linux-x64.AppImage stfs --help
 
 
   # build_xbox_standard:
