@@ -7,7 +7,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-
+      - name: Set up Python 3.9
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
       - name: Set up Onyx
         run: |
           sudo apt install libfuse2
@@ -17,6 +20,8 @@ jobs:
           ./dependencies/onyx-20230130-linux-x64.AppImage --appimage-extract
           ls dependencies
           ./dependencies/onyx-20230130-linux-x64.AppImage stfs --help
+      - name: Create folder containing CON file's contents
+          python dependencies/pro_pack_prep.py
 
 
   # build_xbox_standard:
