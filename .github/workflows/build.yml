@@ -1,0 +1,35 @@
+name: CI
+
+on: [push, pull_request]
+
+jobs:
+  build_xbox_pro_strings_con:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python 3.9
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+      - name: Set up Onyx
+        run: |
+          sudo apt install libfuse2
+          sudo apt install wget
+          sudo wget -P dependencies https://github.com/mtolly/onyxite-customs/releases/download/20230130/onyx-20230130-linux-x64.AppImage
+          sudo chmod a+x dependencies/onyx-20230130-linux-x64.AppImage
+          ./dependencies/onyx-20230130-linux-x64.AppImage --appimage-extract
+          ls dependencies
+          ./dependencies/onyx-20230130-linux-x64.AppImage stfs --help
+      - name: Create folder containing CON file's contents
+        run: |
+          python dependencies/pro_pack_prep.py
+      - name: Create CON from content folder
+        run: |
+          mkdir output
+          ./dependencies/onyx-20230130-linux-x64.AppImage stfs _tmp --to output/RB3PlusProStrPack --game rb3
+      - name: Upload result
+        uses: actions/upload-artifact@v2
+        with:
+          name: RB3PlusProStrPack
+          path: |
+            output
