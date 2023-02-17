@@ -42,6 +42,8 @@
 | Kids in America | The Muffs | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
 | Drain You | Nirvana | G: E Standard<br>B: E Standard | G: D Standard<br>B: D Standard |
 | Spirit in the Sky | Norman Greenbaum | G: E Standard<br>B: E Standard | same as in-game |
+| Nine in the Afternoon | Panic! at the Disco | G: E Standard<br>B: E Standard | G: D Standard<br>B: D Standard |
+| That's What You Get | Paramore | G: Drop D<br>B: E Standard | G: Eb Drop Db<br>B: Eb Standard |
 | Alive | Pearl Jam | G: E Standard<br>B: E Standard | same as in-game |
 | Lump | The Presidents of the United States of America | G: Drop D<br>B: Drop D | G: Eb Drop Db<br>B: Eb Drop Db |
 | Testify | Rage Against the Machine | G: Drop D<br>B: Drop D | same as in-game |
@@ -55,3 +57,4 @@
 | Chop Suey | System of a Down | G: Drop D<br>B: Drop D | G: D Drop C<br>B: D Drop C |
 | Psycho Killer | Talking Heads | G: E Standard<br>B: E Standard | same as in-game |
 | Master Exploder | Tenacious D | G: E Standard<br>B: E Standard | same as in-game |
+| Pinball Wizard | The Who | G: E Standard<br>B: E Standard | same as in-game |
