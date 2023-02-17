@@ -10,6 +10,7 @@ jobs:
 
       - name: Set up Onyx
         run: |
+          sudo apt install libfuse2
           sudo apt install wget
           sudo wget -P dependencies https://github.com/mtolly/onyxite-customs/releases/download/20230130/onyx-20230130-linux-x64.AppImage
           ls dependencies
