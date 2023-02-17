@@ -15,6 +15,7 @@ jobs:
           sudo wget -P dependencies https://github.com/mtolly/onyxite-customs/releases/download/20230130/onyx-20230130-linux-x64.AppImage
           ls dependencies
           sudo chmod a+x dependencies/onyx-20230130-linux-x64.AppImage
+          export LD_LIBRARY_PATH=$(pwd)/dependencies/OnyxToolkit/lib
           ./dependencies/onyx-20230130-linux-x64.AppImage stfs
 
 
