@@ -21,6 +21,7 @@ jobs:
           ls dependencies
           ./dependencies/onyx-20230130-linux-x64.AppImage stfs --help
       - name: Create folder containing CON file's contents
+        run: |
           python dependencies/pro_pack_prep.py
 
 
