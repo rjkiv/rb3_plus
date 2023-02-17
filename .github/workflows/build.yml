@@ -23,6 +23,8 @@ jobs:
       - name: Create folder containing CON file's contents
         run: |
           python dependencies/pro_pack_prep.py
+          ls dependencies
+          ls _tmp
 
 
   # build_xbox_standard:
