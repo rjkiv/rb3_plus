@@ -1,0 +1,12 @@
+(funkymonks
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/funkymonks_plus.mid")
+   (song_id 1005244)
+   (rank
+      (real_guitar 400) ; high 5 dot
+      (real_bass 420) ; mid to high 5 dot
+   )
+   (real_guitar_tuning (0 0 0 0 0 0)) ; standard
+   (real_bass_tuning (0 0 0 0)) ; real tuning is B standard (BEAD), in-game is standard
+   ;(rb3_plus_author RK)
+)

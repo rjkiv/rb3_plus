@@ -1,0 +1,12 @@
+(suckmykiss
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/suckmykiss_plus.mid")
+   (song_id 1005243)
+   (rank
+      (real_guitar 328) ; low 4 dot
+      (real_bass 228) ; mid 2 dot
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rb3_plus_author RK)
+)
