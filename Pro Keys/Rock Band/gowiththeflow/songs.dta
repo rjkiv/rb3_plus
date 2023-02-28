@@ -44,4 +44,6 @@
    (genre rock)
    (decade the00s)
    (vocal_gender male)
+   (vocal_tonic_note 4)
+   (song_tonality 0)
 )
