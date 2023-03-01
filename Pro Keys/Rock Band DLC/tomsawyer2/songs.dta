@@ -36,8 +36,8 @@
       (vocals 157)
       ; credit for authoring key chart goes to GreenPanda12
       ; credit for new mogg with key stem goes to RK
-      (keys 211)
-      (real_keys 269)
+      (keys 217)
+      (real_keys 277)
       (band 248)
    )
    (genre prog)
@@ -53,4 +53,6 @@
    (album_name "Moving Pictures")
    (album_track_number 1)
    (base_points 266456)
+   (vocal_tonic_note 4)
+   (song_tonality 1)
 )

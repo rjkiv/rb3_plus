@@ -38,8 +38,8 @@
       (vocals 210)
       ; credit for authoring key chart goes to LinosM
       ; credit for new mogg with key stem goes to RK
-      (keys 153)
-      (real_keys 153)
+      (keys 173)
+      (real_keys 183)
       (band 100)
    )
    (format 10)
@@ -53,4 +53,6 @@
    (album_art TRUE)
    (album_name "Eye of the Tiger")
    (album_track_number 1)
+   (vocal_tonic_note 8)
+   (song_tonality 1)
 )

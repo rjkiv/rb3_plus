@@ -44,7 +44,7 @@
    (downloaded TRUE)
    (vocal_gender male)  ;; do we comment this out for instrumentals??
    (format 3)
-   (version 1)               ; Only modified by coders!
+   (version 30)               ; Only modified by coders!
    (fake {== $SONG_VERSION 0})	
    (downloaded {> $SONG_VERSION 0})
    (album_art TRUE)
@@ -52,4 +52,6 @@
    (album_name "Moving Pictures")
    (album_track_number 3) 
    (base_points 451441)
+   (vocal_tonic_note 7)
+   (song_tonality 0)
 )

@@ -54,4 +54,6 @@
    (album_track_number 2)  
    ;(pack_name "^^^Moonwalk (or die...) 3-pack^^^")  ; OPTIONAL
    (base_points 332505)
+   (vocal_tonic_note 9)
+   (song_tonality 0)
 )

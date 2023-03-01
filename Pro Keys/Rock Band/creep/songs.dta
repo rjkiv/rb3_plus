@@ -1,8 +1,8 @@
 (creep
    (name "Creep")
    (artist "Radiohead")
-   (master 1)
-   (context 4)
+   (master TRUE)
+   (song_id 7)
    (song
       (name "songs/creep/creep")
       (tracks
@@ -37,14 +37,16 @@
       (vocals 110)
       ; credit for authoring key chart goes to FujiSkunk
       ; credit for new mogg with key stem goes to RK
-      (keys 211)
-      (real_keys 211)
+      (keys 234)
+      (real_keys 234)
       (band 140)
    )
+   (format 10)
+   (version 30)
+   (game_origin rb1)
    (genre alternative)
    (decade the90s)
    (vocal_gender male)
-   (song_location 2)
-      (downloaded TRUE)
-      (exported TRUE)
+   (vocal_tonic_note 8)
+   (song_tonality 0)
 )
