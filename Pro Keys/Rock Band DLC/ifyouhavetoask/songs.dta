@@ -35,7 +35,7 @@
       (guitar 252)
       (bass 293)
       (vocals 215)
-      (keys 158)
+      (keys 128) ; key chart by RK
       (real_keys 128)
       (band 289)
    )
