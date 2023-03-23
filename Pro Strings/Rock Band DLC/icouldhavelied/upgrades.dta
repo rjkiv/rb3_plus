@@ -1,0 +1,12 @@
+(icouldhavelied
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/icouldhavelied_plus.mid")
+   (song_id 1005242)
+   (rank
+      (real_guitar 181)
+      (real_bass 81)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rb3_plus_author RK)
+)

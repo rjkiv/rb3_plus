@@ -23,13 +23,18 @@
 | Hit Me With Your Best Shot | Pat Benatar | G: E Standard<br>B: E Standard | same as in-game |
 | Natural Disaster | Plain White T's | G: Drop D<br>B: Drop D | same as in-game |
 | Don't Stop Me Now | Queen | G: E Standard<br>B: E Standard | same as in-game |
+| Blood Sugar Sex Magik | Red Hot Chili Peppers | G: E Standard<br>B: E Standard | same as in-game |
 | Breaking the Girl | Red Hot Chili Peppers | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: same as in-game |
 | Funky Monks | Red Hot Chili Peppers | G: E Standard<br>B: E Standard | G: same as in-game<br>B: B Standard |
+| I Could Have Lied | Red Hot Chili Peppers | G: E Standard<br>B: E Standard | same as in-game |
 | If You Have to Ask | Red Hot Chili Peppers | G: E Standard<br>B: Drop D | same as in-game |
+| Mellowship Slinky in B Major | Red Hot Chili Peppers | G: E Standard<br>B: E Standard | same as in-game |
+| Naked in the Rain | Red Hot Chili Peppers | G: E Standard<br>B: Drop D | same as in-game |
 | Snow ((Hey Oh)) | Red Hot Chili Peppers | G: E Standard<br>B: E Standard | same as in-game |
 | Suck My Kiss | Red Hot Chili Peppers | G: E Standard<br>B: E Standard | same as in-game |
 | Tell Me Baby | Red Hot Chili Peppers | G: E Standard<br>B: E Standard | same as in-game |
 | The Power of Equality | Red Hot Chili Peppers | G: E A D G B Eb<br>B: Eb A D G | same as in-game |
+| The Righteous and The Wicked | Red Hot Chili Peppers | G: E Standard<br>B: E Standard | G: same as in-game<br>B: B Standard |
 | Tom Sawyer (Original Version) | Rush | G: E Standard<br>B: E Standard | same as in-game |
 | YYZ | Rush | G: E Standard<br>B: E Standard | same as in-game |
 | All of This | Shaimus | G: E Standard<br>B: E Standard | same as in-game |
