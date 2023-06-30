@@ -1,0 +1,12 @@
+(thegreetingsong
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/thegreetingsong_plus.mid")
+   (song_id 1005235)
+   (rank
+      (real_guitar 248)
+      (real_bass 238)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rb3_plus_author RK)
+)
