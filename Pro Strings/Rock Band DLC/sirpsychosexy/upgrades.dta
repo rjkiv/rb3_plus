@@ -1,0 +1,12 @@
+(sirpsychosexy
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/sirpsychosexy_plus.mid")
+   (song_id 1005233)
+   (rank
+      (real_guitar 447)
+      (real_bass 236)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rb3_plus_author RK)
+)

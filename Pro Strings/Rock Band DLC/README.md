@@ -32,6 +32,7 @@
 | Mellowship Slinky in B Major | Red Hot Chili Peppers | G: E Standard<br>B: E Standard | same as in-game |
 | My Lovely Man | Red Hot Chili Peppers | G: E Standard<br>B: E Standard | same as in-game |
 | Naked in the Rain | Red Hot Chili Peppers | G: E Standard<br>B: Drop D | same as in-game |
+| Sir Psycho Sexy | Red Hot Chili Peppers | G: E Standard<br>B: E Standard | same as in-game |
 | Snow ((Hey Oh)) | Red Hot Chili Peppers | G: E Standard<br>B: E Standard | same as in-game |
 | Suck My Kiss | Red Hot Chili Peppers | G: E Standard<br>B: E Standard | same as in-game |
 | Tell Me Baby | Red Hot Chili Peppers | G: E Standard<br>B: E Standard | same as in-game |
