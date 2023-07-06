@@ -1,0 +1,13 @@
+; Chaotrope - The Hourglass Paroxysm - Part II
+(UGC_5010012
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/UGC_5010012_plus.mid")
+   (song_id 5010012)
+   (rank
+      (real_guitar 598)
+      (real_bass 588)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (-2 0 0 0))
+   ;(rb3_plus_author MatthNerd (expert tabs), RK (EMH reductions))
+)
