@@ -13,6 +13,7 @@
 | Marry You | Bruno Mars | G: E Standard<br>B: E Standard | same as in-game |
 | Bounce | The Cab | G: E Standard<br>B: E Standard | same as in-game |
 | Linger | The Cranberries | G: E Standard<br>B: E Standard | same as in-game |
+| Child in Time | Deep Purple | G: E Standard<br>B: E Standard | same as in-game |
 | Space Truckin' | Deep Purple | G: E Standard<br>B: E Standard | same as in-game |
 | Countdown to Insanity | H-Blockx | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
 | Run to the Hills (Original Version) | Iron Maiden | G: E Standard<br>B: E Standard | same as in-game |
