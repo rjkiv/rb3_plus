@@ -1,0 +1,12 @@
+(diaryofjane
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/diaryofjane_plus.mid")
+   (song_id 1005739)
+   (rank
+      (real_guitar 303)
+      (real_bass 223)
+   )
+   (real_guitar_tuning (-2 0 0 0 0 0)) ; real tuning is drop A#, in-game is drop D
+   (real_bass_tuning (-2 0 0 0)) ; ditto
+   ;(rb3_plus_author RK)
+)
