@@ -1,0 +1,12 @@
+(timmy
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/timmy_plus.mid")
+   (song_id 58)
+   (rank
+      (real_guitar 302)
+      (real_bass 269)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0)) ; real tuning is a half step down, in-game is standard
+   (real_bass_tuning (0 0 0 0)) ; ditto
+   ;(rb3_plus_author RK)
+)
