@@ -8,6 +8,7 @@
 | Foreplay/Long Time | Boston | G: E Standard<br>B: E Standard | same as in-game |
 | Should I Stay or Should I Go | The Clash | G: E Standard<br>B: E Standard | same as in-game |
 | Welcome Home | Coheed and Cambria | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
+| Nightmare | Crooked X | G: E Standard<br>B: E Standard | G: same as in-game<br>B: B Standard |
 | Suffragette City | David Bowie | G: E Standard<br>B: E Standard | same as in-game |
 | Highway Star | Deep Purple | G: E Standard<br>B: E Standard | same as in-game |
 | Epic | Faith No More | G: E Standard<br>B: E Standard | same as in-game |

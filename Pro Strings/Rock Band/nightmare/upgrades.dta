@@ -1,0 +1,12 @@
+(nightmare
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/nightmare_plus.mid")
+   (song_id 53)
+   (rank
+      (real_guitar 222)
+      (real_bass 178)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0)) ; standard
+   (real_bass_tuning (0 0 0 0)) ; real tuning is B standard (BEAD), in-game is standard
+   ;(rb3_plus_author RK)
+)
