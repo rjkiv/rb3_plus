@@ -17,6 +17,7 @@
 | I Think I'm Paranoid | Garbage | G: E Standard<br>B: Drop D | same as in-game |
 | Main Offender | The Hives | G: E Standard<br>B: E Standard | same as in-game |
 | Celebrity Skin | Hole | G: E Standard<br>B: E Standard | same as in-game |
+| I Get By | Honest Bob and the Factory-to-Dealer Incentives | G: Open G (D G D G B D)<br>B: E Standard | G: Low Open E (B E B E G# B)<br>B: same as in-game |
 | Run to the Hills | as made famous by Iron Maiden | G: E Standard<br>B: E Standard | same as in-game |
 | Are You Gonna Be My Girl | Jet | G: E Standard<br>B: E Standard | same as in-game |
 | When You Were Young | The Killers | G: E Standard<br>B: E Standard | same as in-game |

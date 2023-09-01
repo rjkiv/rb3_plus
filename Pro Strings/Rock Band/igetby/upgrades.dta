@@ -1,0 +1,12 @@
+(igetby
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/igetby_plus.mid")
+   (song_id 51)
+   (rank
+      (real_guitar 290)
+      (real_bass 280)
+   )
+   (real_guitar_tuning (-2 -2 0 0 0 -2)) ; real tuning is Low Open E (B E B E G# B), in-game is Open G
+   (real_bass_tuning (0 0 0 0))
+   ;(rb3_plus_author RK)
+)
