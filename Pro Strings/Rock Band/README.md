@@ -14,6 +14,7 @@
 | Epic | Faith No More | G: E Standard<br>B: E Standard | same as in-game |
 | Dead on Arrival | Fall Out Boy | G: E Standard<br>B: E Standard | same as in-game |
 | Learn to Fly | Foo Fighters | G: E Standard<br>B: E Standard | same as in-game |
+| Brainpower | Freezepop | G: E Standard<br>B: E Standard | same as in-game |
 | I Think I'm Paranoid | Garbage | G: E Standard<br>B: Drop D | same as in-game |
 | Main Offender | The Hives | G: E Standard<br>B: E Standard | same as in-game |
 | Celebrity Skin | Hole | G: E Standard<br>B: E Standard | same as in-game |

@@ -1,0 +1,12 @@
+(brainpower
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/brainpower_plus.mid")
+   (song_id 48)
+   (rank
+      (real_guitar 405)
+      (real_bass 310)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rb3_plus_author Ruggy)
+)
