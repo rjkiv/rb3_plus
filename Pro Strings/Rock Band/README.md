@@ -4,6 +4,7 @@
 | :--------: | :-------: | :---------------: | :------------: |
 | Day Late, Dollar Short | The Acro-brats | G: E Standard<br>B: E Standard | same as in-game |
 | Train Kept a Rollin' | as made famous by Aerosmith | G: E Standard<br>B: E Standard | same as in-game |
+| Sabotage | Beastie Boys | G: E Standard<br>B: E Standard | same as in-game |
 | Paranoid | as made famous by Black Sabbath | G: E Standard<br>B: E Standard | same as in-game |
 | (Don't Fear) The Reaper | Blue Öyster Cult | G: E Standard<br>B: E Standard | same as in-game |
 | Foreplay/Long Time | Boston | G: E Standard<br>B: E Standard | same as in-game |
