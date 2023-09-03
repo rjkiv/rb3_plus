@@ -1,0 +1,12 @@
+(daylatedollarshort
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/daylatedollarshort_plus.mid")
+   (song_id 50)
+   (rank
+      (real_guitar 297)
+      (real_bass 237)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rb3_plus_author RK)
+)
