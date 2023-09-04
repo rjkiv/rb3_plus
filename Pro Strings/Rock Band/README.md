@@ -25,6 +25,7 @@
 | Are You Gonna Be My Girl | Jet | G: E Standard<br>B: E Standard | same as in-game |
 | When You Were Young | The Killers | G: E Standard<br>B: E Standard | same as in-game |
 | Detroit Rock City | Kiss | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: same as in-game |
+| 29 Fingers | The Konks | G: E Standard<br>B: E Standard | same as in-game |
 | Enter Sandman | Metallica | G: E Standard<br>B: E Standard | same as in-game |
 | Flirtin' with Disaster | Molly Hatchet | G: E Standard<br>B: E Standard | same as in-game |
 | Mississippi Queen | as made famous by Mountain | G: E Standard<br>B: E Standard | same as in-game |

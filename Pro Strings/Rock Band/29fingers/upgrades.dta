@@ -1,0 +1,12 @@
+(29fingers
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/29fingers_plus.mid")
+   (song_id 46)
+   (rank
+      (real_guitar 180)
+      (real_bass 120)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rb3_plus_authors RK, Carl Mylo)
+)
