@@ -1,0 +1,12 @@
+(blooddoll
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/blooddoll_plus.mid")
+   (song_id 47)
+   (rank
+      (real_guitar 245)
+      (real_bass 205)
+   )
+   (real_guitar_tuning (-2 0 0 0 0 0))
+   (real_bass_tuning (-2 0 0 0))
+   ;(rb3_plus_author RK)
+)
