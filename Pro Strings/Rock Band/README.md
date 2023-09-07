@@ -15,6 +15,7 @@
 | Highway Star | Deep Purple | G: E Standard<br>B: E Standard | same as in-game |
 | Epic | Faith No More | G: E Standard<br>B: E Standard | same as in-game |
 | Dead on Arrival | Fall Out Boy | G: E Standard<br>B: E Standard | same as in-game |
+| I'm So Sick | Flyleaf | G: Drop D<br>B: Drop D | same as in-game |
 | Learn to Fly | Foo Fighters | G: E Standard<br>B: E Standard | same as in-game |
 | Brainpower | Freezepop | G: E Standard<br>B: E Standard | same as in-game |
 | I Think I'm Paranoid | Garbage | G: E Standard<br>B: Drop D | same as in-game |
