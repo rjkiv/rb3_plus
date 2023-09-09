@@ -1,0 +1,12 @@
+(myownworstenemy
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/myownworstenemy_plus.mid")
+   (song_id 290)
+   (rank
+      (real_guitar 132)
+      (real_bass 112)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rb3_plus_author RK)
+)
