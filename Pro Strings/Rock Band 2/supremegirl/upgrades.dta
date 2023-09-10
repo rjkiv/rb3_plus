@@ -1,0 +1,12 @@
+(supremegirl
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/supremegirl_plus.mid")
+   (song_id 332)
+   (rank
+      (real_guitar 405)
+      (real_bass 448)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rb3_plus_author RK)
+)
