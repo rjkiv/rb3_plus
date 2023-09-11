@@ -34,6 +34,7 @@
 | Painkiller | Judas Priest | G: E Standard<br>B: E Standard | same as in-game |
 | Carry On Wayward Son | Kansas | G: E Standard<br>B: E Standard | same as in-game |
 | Our Truth | Lacuna Coil | G: E Standard<br>B: E Standard | G: B Standard<br>B: B Standard |
+| Welcome to the Neighborhood | Libyans | G: E Standard<br>B: E Standard | same as in-game |
 | One Step Closer | Linkin Park | G: Drop D<br>B: Drop D | G: Eb Drop Db<br>B: Eb Drop Db |
 | My Own Worst Enemy | Lit | G: E Standard<br>B: E Standard | same as in-game |
 | De-Luxe | Lush | G: E Standard<br>B: E Standard | same as in-game |
