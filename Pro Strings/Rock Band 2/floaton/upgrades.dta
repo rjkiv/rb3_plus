@@ -1,0 +1,12 @@
+(floaton
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/floaton_plus.mid")
+   (song_id 274)
+   (rank
+      (real_guitar 123)
+      (real_bass 43)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rb3_plus_author RK)
+)
