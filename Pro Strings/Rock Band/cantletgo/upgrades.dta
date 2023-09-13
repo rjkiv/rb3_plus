@@ -1,0 +1,12 @@
+(cantletgo
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/cantletgo_plus.mid")
+   (song_id 49)
+   (rank
+      (real_guitar 350)
+      (real_bass 275)
+   )
+   (real_guitar_tuning (-2 0 0 0 0 0)) ; real tuning is F Drop Eb (Drop D but capo on 1st fret)
+   (real_bass_tuning (-2 0 0 0)) ; ditto
+   ;(rb3_plus_authors RK)
+)
