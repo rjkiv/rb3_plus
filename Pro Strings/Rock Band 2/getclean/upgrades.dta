@@ -1,0 +1,12 @@
+(getclean
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/getclean_plus.mid")
+   (song_id 328)
+   (rank
+      (real_guitar 443)
+      (real_bass 283)
+   )
+   (real_guitar_tuning (-2 0 0 0 0 0))
+   (real_bass_tuning (-2 0 0 0))
+   ;(rb3_plus_author RK)
+)
