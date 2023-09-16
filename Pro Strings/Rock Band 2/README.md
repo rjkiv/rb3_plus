@@ -34,6 +34,7 @@
 | Any Way You Want It | Journey | G: E Standard<br>B: E Standard | same as in-game |
 | Painkiller | Judas Priest | G: E Standard<br>B: E Standard | same as in-game |
 | Carry On Wayward Son | Kansas | G: E Standard<br>B: E Standard | same as in-game |
+| Pretend We're Dead | L7 | G: E Standard<br>B: E Standard | same as in-game |
 | Our Truth | Lacuna Coil | G: E Standard<br>B: E Standard | G: B Standard<br>B: B Standard |
 | Welcome to the Neighborhood | Libyans | G: E Standard<br>B: E Standard | same as in-game |
 | One Step Closer | Linkin Park | G: Drop D<br>B: Drop D | G: Eb Drop Db<br>B: Eb Drop Db |
