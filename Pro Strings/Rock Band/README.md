@@ -51,6 +51,7 @@
 | Reptilia | The Strokes | G: E Standard<br>B: E Standard | same as in-game |
 | Ballroom Blitz | as made famous by Sweet | G: E Standard<br>B: E Standard | same as in-game |
 | Timmy & The Lords of the Underworld | Timmy & The Lords of the Underworld | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
+| Outside | Tribe | G: E Standard<br>B: E Standard | same as in-game |
 | Seven | VAGIANT | G: E Standard<br>B: E Standard | same as in-game |
 | Say It Ain't So | Weezer | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
 | Maps | Yeah Yeah Yeahs | G: E Standard<br>B: E Standard | same as in-game |
