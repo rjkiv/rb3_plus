@@ -4,6 +4,7 @@
 | :--------: | :-------: | :---------------: | :------------: |
 | Head Over Feet | Alanis Morissette | G: E Standard<br>B: E Standard | same as in-game |
 | Ironic | Alanis Morissette | G: E Standard<br>B: E Standard | G: A Standard (E Standard, capo on 4th fret)<br>B: same as in-game |
+| No Regrets | Authority Zero | G: E Standard<br>B: E Standard | same as in-game |
 | So Far Away | Avenged Sevenfold | G: E Standard<br>B: E Standard | same as in-game |
 | Night Fever | Bee Gees | G: E Standard<br>B: E Standard | same as in-game |
 | You Should Be Dancing | Bee Gees | G: E Standard<br>B: E Standard | same as in-game |
