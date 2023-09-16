@@ -22,6 +22,7 @@
 | Panic Attack | Dream Theater | G: E Standard<br>B: E Standard | G: A# Standard<br>B: A Standard |
 | Hungry Like the Wolf | Duran Duran | G: E Standard<br>B: E Standard | same as in-game |
 | Pump It Up | Elvis Costello | G: E Standard<br>B: E Standard | same as in-game |
+| Go Your Own Way | Fleetwood Mac | G: E Standard<br>B: E Standard | same as in-game |
 | Everlong | Foo Fighters | G: Drop D<br>B: Drop D | same as in-game |
 | We Got the Beat | Go-Go's | G: E Standard<br>B: E Standard | same as in-game |
 | American Woman | The Guess Who | G: E Standard<br>B: E Standard | same as in-game |
