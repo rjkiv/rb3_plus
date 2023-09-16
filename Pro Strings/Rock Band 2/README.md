@@ -41,6 +41,7 @@
 | De-Luxe | Lush | G: E Standard<br>B: E Standard | same as in-game |
 | Peace Sells | Megadeth | G: E Standard<br>B: E Standard | same as in-game |
 | Battery | Metallica | G: E Standard<br>B: E Standard | same as in-game |
+| Where'd You Go? | The Mighty Mighty Bosstones | G: E Standard<br>B: E Standard | same as in-game |
 | Float On | Modest Mouse | G: E Standard<br>B: E Standard | same as in-game |
 | Ace of Spades '08 | Motörhead | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
 | Kids in America | The Muffs | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
