@@ -49,6 +49,7 @@
 | Kids in America | The Muffs | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
 | Drain You | Nirvana | G: E Standard<br>B: E Standard | G: D Standard<br>B: D Standard |
 | Spirit in the Sky | Norman Greenbaum | G: E Standard<br>B: E Standard | same as in-game |
+| Come Out and Play (Keep 'Em Separated) | The Offspring | G: E Standard<br>B: E Standard | same as in-game |
 | Nine in the Afternoon | Panic! at the Disco | G: E Standard<br>B: E Standard | G: D Standard<br>B: D Standard |
 | That's What You Get | Paramore | G: Drop D<br>B: E Standard | G: Eb Drop Db<br>B: Eb Standard |
 | Alive | Pearl Jam | G: E Standard<br>B: E Standard | same as in-game |
