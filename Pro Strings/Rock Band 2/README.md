@@ -62,6 +62,7 @@
 | Conventional Lover | Speck | G: E Standard<br>B: E Standard | same as in-game |
 | Cool for Cats | Squeeze | G: E Standard<br>B: E Standard | same as in-game |
 | Supreme Girl | The Sterns | G: E Standard<br>B: E Standard | same as in-game |
+| Rock'n Me | Steve Miller Band | G: E Standard<br>B: E Standard | same as in-game |
 | Eye of the Tiger | Survivor | G: E Standard<br>B: E Standard | same as in-game |
 | Chop Suey | System of a Down | G: Drop D<br>B: Drop D | G: D Drop C<br>B: D Drop C |
 | Psycho Killer | Talking Heads | G: E Standard<br>B: E Standard | same as in-game |
