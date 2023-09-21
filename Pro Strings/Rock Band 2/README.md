@@ -41,6 +41,7 @@
 | One Step Closer | Linkin Park | G: Drop D<br>B: Drop D | G: Eb Drop Db<br>B: Eb Drop Db |
 | My Own Worst Enemy | Lit | G: E Standard<br>B: E Standard | same as in-game |
 | De-Luxe | Lush | G: E Standard<br>B: E Standard | same as in-game |
+| Colony of Birchmen | Mastodon | G: E Standard<br>B: E Standard | G: D Standard<br>B: D Standard |
 | Peace Sells | Megadeth | G: E Standard<br>B: E Standard | same as in-game |
 | Battery | Metallica | G: E Standard<br>B: E Standard | same as in-game |
 | Where'd You Go? | The Mighty Mighty Bosstones | G: E Standard<br>B: E Standard | same as in-game |

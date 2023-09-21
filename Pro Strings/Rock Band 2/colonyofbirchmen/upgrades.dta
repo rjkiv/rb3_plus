@@ -1,0 +1,12 @@
+(colonyofbirchmen
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/colonyofbirchmen_plus.mid")
+   (song_id 264)
+   (rank
+      (real_guitar 484)
+      (real_bass 424)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0)) ; real tuning is D standard, in-game is E standard
+   (real_bass_tuning (0 0 0 0)) ; ditto
+   ;(rb3_plus_author RK)
+)
