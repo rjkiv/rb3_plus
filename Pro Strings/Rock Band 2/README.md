@@ -63,6 +63,7 @@
 | I Was Wrong | Social Distortion | G: E Standard<br>B: E Standard | G: same as in-game<br>B: Eb Standard |
 | Conventional Lover | Speck | G: E Standard<br>B: E Standard | same as in-game |
 | Cool for Cats | Squeeze | G: E Standard<br>B: E Standard | same as in-game |
+| Bodhisattva | Steely Dan | G: E Standard<br>B: E Standard | same as in-game |
 | Supreme Girl | The Sterns | G: E Standard<br>B: E Standard | same as in-game |
 | Rock'n Me | Steve Miller Band | G: E Standard<br>B: E Standard | same as in-game |
 | Eye of the Tiger | Survivor | G: E Standard<br>B: E Standard | same as in-game |
