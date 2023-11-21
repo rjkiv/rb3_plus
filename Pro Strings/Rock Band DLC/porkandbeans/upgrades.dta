@@ -1,0 +1,12 @@
+(porkandbeans
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/porkandbeans_plus.mid")
+   (song_id 1005716)
+   (rank
+      (real_guitar 45)
+      (real_bass 166)
+   )
+   (real_guitar_tuning (-1 -1 -1 -1 -1 -1)) ; Eb Standard
+   (real_bass_tuning (-1 -1 -1 -1)) ; Eb Standard
+   ;(rb3_plus_author K.TURN)
+)
