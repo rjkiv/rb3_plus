@@ -54,4 +54,5 @@
 | The Best Day Ever | SpongeBob SquarePants | G: E Standard<br>B: E Standard | same as in-game |
 | B.Y.O.B. | System of a Down | G: Drop D<br>B: Drop D | G: Eb Drop Db<br>B: Eb Drop Db |
 | Toxicity | System of a Down | G: Drop D<br>B: Drop D | G: D Drop C<br>B: D Drop C |
+| Head Over Heels | Tears for Fears | G: E Standard<br>B: E Standard | same as in-game |
 | Seven Nation Army | The White Stripes | G: E Standard<br>B: E Standard | same as in-game |
