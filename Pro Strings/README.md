@@ -22,6 +22,7 @@ However, if you are not on Xbox, or want to pick and choose singular pro string 
 ## RPCS3
 - Open up your system's file explorer, and navigate to where you have RPCS3 installed. 
 - Go to ```dev_hdd0\game\BLUS30463\USRDIR```. Create the folder ```HMX0756``` if it does not exist. Then, navigate inside this folder.
+- Inside this folder, if it does not already exist, make a new folder titled ```songs_upgrades```. Navigate inside this folder.
 - Paste the *_plus.mid file in the folder, and depending on if you have previously placed upgrades in this folder, do one of the following:
   - If you have never posted an upgrade here before, simply paste the pro string's upgrades.dta file in.
   - If you HAVE posted an upgrade here before, open up the existing upgrades.dta, scroll down to the very bottom, and paste in the contents of the pro strings' upgrades.dta file.
@@ -32,7 +33,7 @@ However, if you are not on Xbox, or want to pick and choose singular pro string 
 - In C3CONTools, launch the PS3 Converter. Then click Encryption Options --> Encrypt replacement MIDI file(s). Take the MIDI file from this repository, and encrypt it. You should end up with a file formatted as *_plus.mid.edat. You can then have this on hand for use with an FTP transfer, or put it on a flash drive with the associated upgrades.dta.
 - Using a tool on your PS3 like multiMAN or with an FTP connection, open up your PS3's file system. You will need a modded PS3 to do this.
 - Go to ```dev_hdd0\game\BLUS30463\USRDIR```. Create the folder ```HMX0756``` if it does not exist. Then, navigate inside this folder.
-- Inside this folder, if it does not already exist, make a new folder titled ```songs_upgrade```. Navigate inside this folder.
+- Inside this folder, if it does not already exist, make a new folder titled ```songs_upgrades```. Navigate inside this folder.
 - Paste the *_plus.mid.edat file in the folder, and depending on if you have previously placed upgrades in this folder, do one of the following:
   - If you have never posted an upgrade here before, simply paste the pro string's upgrades.dta file in.
   - If you HAVE posted an upgrade here before, open up the existing upgrades.dta, scroll down to the very bottom, and paste in the contents of the pro strings' upgrades.dta file.
