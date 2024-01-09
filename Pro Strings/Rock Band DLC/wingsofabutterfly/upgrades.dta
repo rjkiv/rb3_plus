@@ -6,7 +6,7 @@
       (real_guitar 274)
       (real_bass 178)
    )
-   (real_guitar_tuning (-4 -2 -2 -2 -2 -2)) ; Drop C C G C F A D irl
-   (real_bass_tuning (-4 -4 -4 -4)) ; C Standard C F A# D# irl
+   (real_guitar_tuning (-2 0 0 0 0 0)) ; Drop C C G C F A D irl
+   (real_bass_tuning (0 0 0 0)) ; C Standard C F A# D# irl
    ;(rb3_plus_author Carl Mylo, RK (QC))
 )
