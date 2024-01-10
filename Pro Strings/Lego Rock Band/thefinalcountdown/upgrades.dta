@@ -1,0 +1,12 @@
+(thefinalcountdown
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/thefinalcountdown_plus.mid")
+   (song_id 785)
+   (rank
+      (real_guitar 530)
+      (real_bass 275)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0)) ; E Standard
+   (real_bass_tuning (0 0 0 0)) ; E Standard
+   ;(rb3_plus_author Carl Mylo, RK (QC))
+)
