@@ -1,0 +1,12 @@
+(wakingthedemon
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/wakingthedemon_plus.mid")
+   (song_id 1005496)
+   (rank
+      (real_guitar 389) ; low to mid 5 dot
+      (real_bass 329) ; low 4 dot
+   )
+   (real_guitar_tuning (-2 0 0 0 0 0)) ; D Drop C irl
+   (real_bass_tuning (-2 0 0 0)) ; ditto
+   ;(rb3_plus_author HughToBasic35)
+)
