@@ -14,6 +14,7 @@
 | Just the Way You Are | Bruno Mars | G: E Standard<br>B: Drop D | same as in-game |
 | Marry You | Bruno Mars | G: E Standard<br>B: E Standard | same as in-game |
 | Tears Don't Fall | Bullet for my Valentine | G: Drop D<br>B: Drop D | G: D Drop C<br>B: D Drop C |
+| Waking the Demon | Bullet for my Valentine | G: Drop D<br>B: Drop D | G: D Drop C<br>B: D Drop C |
 | Bounce | The Cab | G: E Standard<br>B: E Standard | same as in-game |
 | Linger | The Cranberries | G: E Standard<br>B: E Standard | same as in-game |
 | Child in Time | Deep Purple | G: E Standard<br>B: E Standard | same as in-game |
