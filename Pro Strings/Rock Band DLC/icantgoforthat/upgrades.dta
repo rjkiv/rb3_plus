@@ -1,0 +1,12 @@
+(icantgoforthat
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/icantgoforthat_plus.mid")
+   (song_id 1010424)
+   (rank
+      (real_guitar 150)
+      (real_bass 267)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0)) ; E Standard
+   (real_bass_tuning (0 0 0 0)) ; E Standard
+   ;(rb3_plus_author Pro Strings: Carl Mylo, RK (QC))
+)
