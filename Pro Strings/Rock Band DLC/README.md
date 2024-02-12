@@ -26,6 +26,7 @@
 | Run to the Hills (Original Version) | Iron Maiden | G: E Standard<br>B: E Standard | same as in-game |
 | Don't Stop Believing | Journey | G: E Standard<br>B: E Standard | same as in-game |
 | Mr. Brightside | The Killers | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
+| Breaking the Habit | Linkin Park | G: E Standard<br>B: Drop D | same as in-game |
 | Burn It Down | Linkin Park | G: E Standard<br>B: Drop D | same as in-game |
 | Party in the U.S.A. | Miley Cyrus | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
 | Hella Good | No Doubt | G: E Standard<br>B: E Standard | same as in-game |
