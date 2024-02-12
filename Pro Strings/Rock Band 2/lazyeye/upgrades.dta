@@ -1,0 +1,12 @@
+(lazyeye
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/lazyeye_plus.mid")
+   (song_id 283)
+   (rank
+      (real_guitar 382)
+      (real_bass 208)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0)) ; E Standard
+   (real_bass_tuning (0 0 0 0)) ; E Standard
+   ;(rb3_plus_author Pro Strings: Carl Mylo, RK (QC))
+)
