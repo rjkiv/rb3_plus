@@ -60,6 +60,7 @@
 | Alex Chilton | The Replacements | G: Open A<br>B: E Standard | same as in-game |
 | Give It All | Rise Against | G: E Standard<br>B: E Standard | same as in-game |
 | The Trees (Vault Edition) | Rush | G: E Standard<br>B: E Standard | same as in-game |
+| Lazy Eye | Silversun Pickups | G: E Standard<br>B: E Standard | same as in-game |
 | I Was Wrong | Social Distortion | G: E Standard<br>B: E Standard | G: same as in-game<br>B: Eb Standard |
 | Conventional Lover | Speck | G: E Standard<br>B: E Standard | same as in-game |
 | Cool for Cats | Squeeze | G: E Standard<br>B: E Standard | same as in-game |
