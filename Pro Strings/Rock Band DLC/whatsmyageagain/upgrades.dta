@@ -1,0 +1,12 @@
+(whatsmyageagain
+   (upgrade_version 1)
+   (song_id 1005625)
+   (midi_file "songs_upgrades/whatsmyageagain_plus.mid")
+   (rank
+      (real_guitar 199)
+      (real_bass 199)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   (strings_author "dirkNlerxst")
+)
