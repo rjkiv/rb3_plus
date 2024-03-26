@@ -1,0 +1,12 @@
+(rhiannon
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/rhiannonpro.mid")
+   (song_id 1010254)
+   (rank
+      (real_guitar 390)
+      (real_bass 210)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rb3_plus_author JDK_13)
+)
