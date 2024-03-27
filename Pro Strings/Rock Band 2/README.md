@@ -9,7 +9,7 @@
 | Ramblin' Man | The Allman Brothers Band | G: E Standard<br>B: E Standard | G: F Standard (E standard, capo on 1st fret)<br>B: F Standard (E standard, capo on 1st fret) |
 | Get Clean | Anarchy Club | G: Drop D<br>B: Drop D | same as in-game |
 | Almost Easy | Avenged Sevenfold | G: Drop D<br>B: Drop D | G: Eb Drop Db<br>B: Eb Drop Db |
-| So What'cha Want | Beastie Boys | G: Drop D<br>B: Drop D | same as in-game |
+| So What'cha Want | Beastie Boys | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
 | E-Pro | Beck | G: E Standard<br>B: E Standard | same as in-game |
 | Rebel Girl | Bikini Kill | G: E Standard<br>B: E Standard | G: F Standard (E standard, capo on 1st fret)<br>B: F Standard (E standard, capo on 1st fret) |
 | White Wedding (Part 1) | Billy Idol | G: E Standard<br>B: E Standard | same as in-game |
@@ -60,6 +60,7 @@
 | Alex Chilton | The Replacements | G: Open A<br>B: E Standard | same as in-game |
 | Give It All | Rise Against | G: E Standard<br>B: E Standard | same as in-game |
 | The Trees (Vault Edition) | Rush | G: E Standard<br>B: E Standard | same as in-game |
+| Lazy Eye | Silversun Pickups | G: E Standard<br>B: E Standard | same as in-game |
 | I Was Wrong | Social Distortion | G: E Standard<br>B: E Standard | G: same as in-game<br>B: Eb Standard |
 | Conventional Lover | Speck | G: E Standard<br>B: E Standard | same as in-game |
 | Cool for Cats | Squeeze | G: E Standard<br>B: E Standard | same as in-game |

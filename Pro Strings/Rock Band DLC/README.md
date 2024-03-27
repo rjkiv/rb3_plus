@@ -9,6 +9,7 @@
 | Night Fever | Bee Gees | G: E Standard<br>B: E Standard | same as in-game |
 | You Should Be Dancing | Bee Gees | G: E Standard<br>B: E Standard | same as in-game |
 | Mony Mony | Billy Idol | G: E Standard<br>B: E Standard | same as in-game |
+| What's My Age Again? | Blink-182 | G: E Standard<br>B: E Standard | same as in-game |
 | The Diary of Jane | Breaking Benjamin | G: Drop D<br>B: Drop D | G: C Drop Bb<br>B: C Drop Bb |
 | Grenade | Bruno Mars | G: E Standard<br>B: E Standard | same as in-game |
 | Just the Way You Are | Bruno Mars | G: E Standard<br>B: Drop D | same as in-game |
@@ -26,6 +27,9 @@
 | Run to the Hills (Original Version) | Iron Maiden | G: E Standard<br>B: E Standard | same as in-game |
 | Don't Stop Believing | Journey | G: E Standard<br>B: E Standard | same as in-game |
 | Mr. Brightside | The Killers | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
+| Breaking the Habit | Linkin Park | G: E Standard<br>B: Drop D | same as in-game |
+| Burn It Down | Linkin Park | G: E Standard<br>B: Drop D | same as in-game |
+| Shadow of the Day | Linkin Park | G: E Standard<br>B: E Standard | same as in-game |
 | Party in the U.S.A. | Miley Cyrus | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
 | Hella Good | No Doubt | G: E Standard<br>B: E Standard | same as in-game |
 | Wonderwall | Oasis | G: E Standard<br>B: E Standard | G: F# Standard (E Standard, capo on 2nd fret)<br>B: same as in-game |
