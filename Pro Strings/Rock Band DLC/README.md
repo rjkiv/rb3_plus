@@ -64,3 +64,4 @@
 | Head Over Heels | Tears for Fears | G: E Standard<br>B: E Standard | same as in-game |
 | Pork and Beans | Weezer | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
 | Seven Nation Army | The White Stripes | G: E Standard<br>B: E Standard | same as in-game |
+| She's Not There | The Zombies | G: E Standard<br>B: E Standard | same as in-game |

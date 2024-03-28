@@ -1,0 +1,12 @@
+(shesnotthere
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/shesnotthere_plus.mid")
+   (song_id 1005566)
+   (rank
+      (real_guitar 323)
+      (real_bass 267)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0)) ; E Standard
+   (real_bass_tuning (0 0 0 0)) ; E Standard
+   ;(rb3_plus_author Pro Strings: Carl Mylo, Aloquendiar, RK (QC))
+)
