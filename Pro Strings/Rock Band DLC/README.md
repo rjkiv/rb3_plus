@@ -32,6 +32,7 @@
 | Shadow of the Day | Linkin Park | G: E Standard<br>B: E Standard | same as in-game |
 | Party in the U.S.A. | Miley Cyrus | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
 | Hella Good | No Doubt | G: E Standard<br>B: E Standard | same as in-game |
+| Don't Speak | No Doubt | G: E Standard<br>B: E Standard | same as in-game |
 | Wonderwall | Oasis | G: E Standard<br>B: E Standard | G: F# Standard (E Standard, capo on 2nd fret)<br>B: same as in-game |
 | crushcrushcrush | Paramore | G: Drop D<br>B: Drop D | G: Eb Drop Db<br>B: Eb Drop Db |
 | Heartbreaker | Pat Benatar | G: E Standard<br>B: E Standard | same as in-game |
