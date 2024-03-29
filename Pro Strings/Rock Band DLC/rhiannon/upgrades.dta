@@ -1,6 +1,6 @@
 (rhiannon
    (upgrade_version 1)
-   (midi_file "songs_upgrades/rhiannonpro.mid")
+   (midi_file "songs_upgrades/rhiannon_plus.mid")
    (song_id 1010254)
    (rank
       (real_guitar 390)
