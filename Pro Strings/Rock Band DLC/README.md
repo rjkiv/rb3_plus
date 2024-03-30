@@ -17,6 +17,7 @@
 | Tears Don't Fall | Bullet for my Valentine | G: Drop D<br>B: Drop D | G: D Drop C<br>B: D Drop C |
 | Waking the Demon | Bullet for my Valentine | G: Drop D<br>B: Drop D | G: D Drop C<br>B: D Drop C |
 | Bounce | The Cab | G: E Standard<br>B: E Standard | same as in-game |
+| Call Me Maybe | Carly Rae Jepsen | G: E Standard<br>B: E Standard | same as in-game |
 | Linger | The Cranberries | G: E Standard<br>B: E Standard | same as in-game |
 | Child in Time | Deep Purple | G: E Standard<br>B: E Standard | same as in-game |
 | Space Truckin' | Deep Purple | G: E Standard<br>B: E Standard | same as in-game |
