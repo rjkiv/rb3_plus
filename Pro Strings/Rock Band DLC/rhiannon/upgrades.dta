@@ -3,8 +3,8 @@
    (midi_file "songs_upgrades/rhiannon_plus.mid")
    (song_id 1010254)
    (rank
-      (real_guitar 390)
-      (real_bass 210)
+      (real_guitar 370)
+      (real_bass 180)
    )
    (real_guitar_tuning (0 0 0 0 0 0))
    (real_bass_tuning (0 0 0 0))
