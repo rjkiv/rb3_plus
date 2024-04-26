@@ -1,0 +1,12 @@
+(song2
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/song2_plus.mid")
+   (song_id 780)
+   (rank
+      (real_guitar 99)
+      (real_bass 179)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0)) ; real tuning is Eb standard, in-game is E standard
+   (real_bass_tuning (0 0 0 0)) ; ditto
+   ;(rb3_plus_author RK)
+)
