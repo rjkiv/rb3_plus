@@ -21,6 +21,7 @@
 | Linger | The Cranberries | G: E Standard<br>B: E Standard | same as in-game |
 | Child in Time | Deep Purple | G: E Standard<br>B: E Standard | same as in-game |
 | Space Truckin' | Deep Purple | G: E Standard<br>B: E Standard | same as in-game |
+| Rhiannon | Fleetwood Mac | G: E Standard<br>B: E Standard | same as in-game |
 | Feel Good Inc. | Gorillaz | G: E Standard<br>B: E Standard | G: E Standard<br> Eb Standard |
 | Countdown to Insanity | H-Blockx | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
 | I Can't Go For That (No Can Do) | Hall & Oates | G: E Standard<br>B: E Standard | same as in-game |
