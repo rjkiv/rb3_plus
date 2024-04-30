@@ -1,6 +1,7 @@
 (useit
    (upgrade_version 1)
    (midi_file "songs_upgrades/useit_plus.mid")
+   (song_id 1005473)
    (rank
       (real_guitar 216)
       (real_bass 276)
