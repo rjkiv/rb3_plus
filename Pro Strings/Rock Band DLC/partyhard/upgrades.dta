@@ -1,6 +1,6 @@
-(partyhard
+(parrtyhard
    (upgrade_version 1)
-   (midi_file "songs_upgrades/partyhard_plus.mid")
+   (midi_file "songs_upgrades/parrtyhard_plus.mid")
    (song_id 1010606)
    (rank
       (real_guitar 285)
