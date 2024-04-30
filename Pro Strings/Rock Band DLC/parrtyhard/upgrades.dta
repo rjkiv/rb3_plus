@@ -1,6 +1,6 @@
-(useit
+(parrtyhard
    (upgrade_version 1)
-   (midi_file "songs_upgrades/partyhard_plus.mid")
+   (midi_file "songs_upgrades/parrtyhard_plus.mid")
    (song_id 1010606)
    (rank
       (real_guitar 285)
@@ -8,5 +8,5 @@
    )
    (real_guitar_tuning (0 0 0 0 0 0))
    (real_bass_tuning (0 0 0 0))
-   ;(rb3_plus_author WarGod, Exoticri)
+   ;(rb3_plus_author WarGod, Epidemiik)
 )
