@@ -1,0 +1,12 @@
+(fixyou
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/fixyou_plus.mid")
+   (song_id 1010404)
+   (rank
+      (real_guitar 205)
+      (real_bass 138)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rb3_plus_author JDK)
+)
