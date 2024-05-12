@@ -6,7 +6,7 @@
       (real_guitar 152)
       (real_bass 95)
    )
-   (real_guitar_tuning (0 0 0 0 0 1))
+   (real_guitar_tuning (0 0 0 0 0 0))
    (real_bass_tuning (0 0 0 0))
    ;(rb3_plus_author JDK)
 )
