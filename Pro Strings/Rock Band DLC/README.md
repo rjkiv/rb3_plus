@@ -19,7 +19,6 @@
 | Bounce | The Cab | G: E Standard<br>B: E Standard | same as in-game |
 | Call Me Maybe | Carly Rae Jepsen | G: E Standard<br>B: E Standard | same as in-game |
 | Fix You | Coldplay | G: E Standard <br> B: E Standard | G: Eb Standard <br> B: same as in-game |
-| The Scientist | Coldplay | G: E Standard<br>B: E Standard | G: F Standard (E Standard, capo on 1st Fret)<br> B: same as in-game |
 | Linger | The Cranberries | G: E Standard<br>B: E Standard | same as in-game |
 | Child in Time | Deep Purple | G: E Standard<br>B: E Standard | same as in-game |
 | Space Truckin' | Deep Purple | G: E Standard<br>B: E Standard | same as in-game |
