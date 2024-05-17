@@ -1,0 +1,13 @@
+; IMPORTANT - despite not having a pro bass part,
+; RB3 will show a pro bass part in-game.
+; DO NOT choose this when selecting your instrument, or your game will crash.
+(landslide
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/landslide_plus.mid")
+   (song_id 1010247)
+   (rank
+      (real_guitar 220)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0)) ; real tuning has a capo on 3rd fret
+   ;(rb3_plus_author HughToBasic35)
+)
