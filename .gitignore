@@ -1,0 +1,4 @@
+.DS_Store
+*.pyc
+*.tmp
+tools/config.json
