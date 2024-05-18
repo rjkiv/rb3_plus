@@ -20,6 +20,7 @@
 | Bounce | The Cab | G: E Standard<br>B: E Standard | same as in-game |
 | Call Me Maybe | Carly Rae Jepsen | G: E Standard<br>B: E Standard | same as in-game |
 | Fix You | Coldplay | G: E Standard <br> B: E Standard | G: Eb Standard <br> B: same as in-game |
+| The Scientist | Coldplay | G: E Standard<br>B: E Standard | G: F Standard (E Standard, capo on 1st Fret)<br> B: same as in-game |
 | Linger | The Cranberries | G: E Standard<br>B: E Standard | same as in-game |
 | Child in Time | Deep Purple | G: E Standard<br>B: E Standard | same as in-game |
 | Space Truckin' | Deep Purple | G: E Standard<br>B: E Standard | same as in-game |
@@ -36,6 +37,7 @@
 | Burn It Down | Linkin Park | G: E Standard<br>B: Drop D | same as in-game |
 | Numb | Linkin Park | G: Drop D<br>B: Drop D | G: Eb Drop Db<br>B: Eb Drop Db |
 | Shadow of the Day | Linkin Park | G: E Standard<br>B: E Standard | same as in-game |
+| Darling Dear | Little Fish | G: E Standard<br>B: E Standard | same as in-game |
 | Party in the U.S.A. | Miley Cyrus | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
 | Use It | The New Pornographers | G: E Standard<br>B: E Standard | same as in-game |
 | Hella Good | No Doubt | G: E Standard<br>B: E Standard | same as in-game |
