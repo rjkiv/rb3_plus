@@ -1,3 +1,4 @@
+import argparse
 import sys
 import json
 import subprocess
@@ -98,7 +99,6 @@ def add_upgrade_midi(shortname_dir: Path, upgrade_dir: Path):
         subprocess.run(["edattool.exe", "encrypt", "-custom:0B72B62DABA8CAFDA3352FF979C6D5C2", "UP8802-BLUS30463_00-RBHMXBANDCCFF0D6", "00", "00", "00", pro_file, upgrade_dir.joinpath(f'{pro_file.name}.edat'), "ntsc.rap"])
 
 def rpcs3_insert_strings_upgrade(shortname: str):
-    print("hello from insert strings upgrade")
     shortname_path = find_song_path(shortname=shortname)
     rpcs3_dir = get_rpcs3_dir()
     
@@ -121,4 +121,10 @@ def rpcs3_insert_strings_upgrade(shortname: str):
 # win
 
 if __name__ == "__main__":
-    rpcs3_insert_strings_upgrade(sys.argv[1])
+    # -------------------------------------------------------------------------------------------------------------------------------
+    # take in the arguments
+    parser = argparse.ArgumentParser(description="Take in a shortname for a pro upgrade, and insert it into the proper place in RPCS3.")
+    parser.add_argument("--shortname", "-s", help="The upgrade's shortname. NOTE: This script assumes you have a mid/dta in a folder somewhere in this repo, ready to integrate into RPCS3.", type=str, required=True)
+    args = parser.parse_args()
+    # -------------------------------------------------------------------------------------------------------------------------------
+    rpcs3_insert_strings_upgrade(args.shortname)
