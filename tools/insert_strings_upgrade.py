@@ -2,7 +2,7 @@ import argparse
 import sys
 import json
 import subprocess
-from parse_song_dta import parse_song_dta
+from tool_dependencies.parse_song_dta import parse_song_dta
 from pathlib import Path
 
 def find_song_path(shortname: str) -> Path:
@@ -95,8 +95,8 @@ def add_upgrade_midi(shortname_dir: Path, upgrade_dir: Path):
         upgrade_dir.joinpath(pro_file.name).unlink(missing_ok=True)
         upgrade_dir.joinpath(f"{pro_file.name}.edat").unlink(missing_ok=True)
 
-        # make an encrypted edat and place it in the upgrades directory
-        subprocess.run(["edattool.exe", "encrypt", "-custom:0B72B62DABA8CAFDA3352FF979C6D5C2", "UP8802-BLUS30463_00-RBHMXBANDCCFF0D6", "00", "00", "00", pro_file, upgrade_dir.joinpath(f'{pro_file.name}.edat'), "ntsc.rap"])
+        # make an encrypted edat and place it in the upgrades directory        
+        subprocess.run([Path().absolute().joinpath("tool_dependencies").joinpath("edattool.exe"), "encrypt", "-custom:0B72B62DABA8CAFDA3352FF979C6D5C2", "UP8802-BLUS30463_00-RBHMXBANDCCFF0D6", "00", "00", "00", pro_file, upgrade_dir.joinpath(f'{pro_file.name}.edat'), Path().absolute().joinpath("tool_dependencies").joinpath("ntsc.rap")])
 
 def rpcs3_insert_strings_upgrade(shortname: str):
     shortname_path = find_song_path(shortname=shortname)
