@@ -6,6 +6,6 @@ Assuming you have a new midi/dta in the appropriate Pro Strings folder ready to 
 
 Fill out the `config.json` with your system's specific RPCS3 directory (IMPORTANT: make sure you use /'s instead of \\'s when filling out the field).
 
-Once you've done that, run this script like so: `python3 insert_strings_update.py --shortname <your_song_shortname>`.
+Once you've done that, run this script like so: `python3 insert_strings_upgrade.py --shortname <your_song_shortname>`.
 
 # More tools? TBD
