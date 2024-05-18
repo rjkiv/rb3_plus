@@ -1,5 +1,4 @@
 import argparse
-import sys
 import json
 import subprocess
 from tool_dependencies.parse_song_dta import parse_song_dta
