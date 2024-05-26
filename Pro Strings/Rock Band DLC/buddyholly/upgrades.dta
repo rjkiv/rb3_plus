@@ -1,0 +1,12 @@
+(buddyholly
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/buddyholly_plus.mid")
+   (song_id 1005026)
+   (rank
+      (real_guitar 250)
+      (real_bass 120)
+   )
+   (real_guitar_tuning (-1 -1 -1 -1 -1 -1))
+   (real_bass_tuning (-1 -1 -1 -1))
+   ;(rb3_plus_author WarGod)
+)
