@@ -72,6 +72,7 @@
 | B.Y.O.B. | System of a Down | G: Drop D<br>B: Drop D | G: Eb Drop Db<br>B: Eb Drop Db |
 | Toxicity | System of a Down | G: Drop D<br>B: Drop D | G: D Drop C<br>B: D Drop C |
 | Head Over Heels | Tears for Fears | G: E Standard<br>B: E Standard | same as in-game |
+| Buddy Holly | Weezer | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
 | Pork and Beans | Weezer | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
 | Seven Nation Army | The White Stripes | G: E Standard<br>B: E Standard | same as in-game |
 | She's Not There | The Zombies | G: E Standard<br>B: E Standard | same as in-game |
