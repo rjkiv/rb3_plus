@@ -1,0 +1,13 @@
+; Jukebox the Ghost - Half Crazy
+(UGC_5005762
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/UGC_5005762_plus.mid")
+   (song_id 5005762)
+   (rank
+      (real_guitar 356)
+      (real_bass 288)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rb3_plus_author WarGod)
+)
