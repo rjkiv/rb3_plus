@@ -1,0 +1,12 @@
+(elscorcho
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/elscorcho_plus.mid")
+   (song_id 1005059)
+   (rank
+      (real_guitar 159)
+      (real_bass 300)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rb3_plus_author Russ T Sprinkler)
+)
