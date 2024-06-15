@@ -1,0 +1,12 @@
+(tragickingdom
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/tragickingdom_plus.mid")
+   (song_id 1006036)
+   (rank
+      (real_guitar 468)
+      (real_bass 401)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rb3_plus_author Aloquendiar)
+)
