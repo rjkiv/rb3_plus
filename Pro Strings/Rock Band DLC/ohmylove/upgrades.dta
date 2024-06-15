@@ -3,7 +3,7 @@
    (midi_file "songs_upgrades/ohmylove_plus.mid")
    (song_id 1010090)
    (rank
-      (real_guitar 239)
+      (real_guitar 230)
       (real_bass 153)
    )
    (real_guitar_tuning (0 0 0 0 0 0))
