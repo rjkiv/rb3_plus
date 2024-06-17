@@ -31,6 +31,7 @@
 | I Can't Go For That (No Can Do) | Hall & Oates | G: E Standard<br>B: E Standard | same as in-game |
 | Wings of a Butterfly | HIM | G: Drop D<br>B: E Standard | G: Drop C<br> C Standard |
 | Run to the Hills (Original Version) | Iron Maiden | G: E Standard<br>B: E Standard | same as in-game |
+| Oh My Love | John Lennon | G: E Standard<br>B: E Standard | same as in-game |
 | Don't Stop Believing | Journey | G: E Standard<br>B: E Standard | same as in-game |
 | Mr. Brightside | The Killers | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
 | Breaking the Habit | Linkin Park | G: E Standard<br>B: Drop D | same as in-game |
