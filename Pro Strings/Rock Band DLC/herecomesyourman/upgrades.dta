@@ -1,0 +1,12 @@
+(herecomesyourman
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/herecomesyourman_plus.mid")
+   (song_id 1005146)
+   (rank
+      (real_guitar 260)
+      (real_bass 232)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rb3_plus_author brandunce)
+)
