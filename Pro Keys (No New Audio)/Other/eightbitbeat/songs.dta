@@ -54,8 +54,8 @@
    ;(tuning_offset_cents 0.0)
    
    ;Song is in A Major, technically
-   ;(song_tonality 0)			; REQUIRED - VOX team - 0 = major, 1 = minorfor all RB3 songs
-   ;(vocal_tonic_note 9)		; REQUIRED - VOX team - set this to correct note!
+   (song_tonality 0)			; REQUIRED - VOX team - 0 = major, 1 = minorfor all RB3 songs
+   (vocal_tonic_note 9)		; REQUIRED - VOX team - set this to correct note!
    (format 4)				 ;@@@@C0Assassin - Always set to 4
    (version 30)               ; Only modified by coders! @@@@C0Assassin - Always set to 0@@@@
    ;(fake {== $SONG_VERSION 0})   
