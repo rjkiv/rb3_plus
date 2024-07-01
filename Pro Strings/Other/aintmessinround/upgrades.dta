@@ -1,0 +1,11 @@
+(aintmessinround
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/aintmessinround_plus.mid")
+   (rank
+      (real_guitar 352)
+      (real_bass 280)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(strings_author "Ruggy")
+)

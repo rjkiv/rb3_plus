@@ -1,0 +1,79 @@
+(eightbitbeat
+   (name "8-Bit Beat")
+   (artist "Epic Games")
+   (master TRUE)
+   (context 2000)
+   (song
+     (name        "songs/eightbitbeat/eightbitbeat")
+     (tracks
+         ((drum
+               (0 1))
+            (bass
+               (2 3))
+            (guitar
+               (4 5))
+            (keys
+               (6 7))))
+     
+	 ;(vocal_parts -)	; OPTIONAL but REQUIRED for vocal harmony @@@remove if no harmony@@@
+     ;(crowd_channels )
+	 
+	 ;                DRUMS    	  BS       GUITAR     VOCALS      FAKE
+     (pans        (-1.0  1.0  -1.0  1.0  -1.0  1.0  -1.0  1.0  -1.0  1.0))
+     (vols        (-0.0 -0.0  -0.0 -0.0  -0.0 -0.0  -0.0 -0.0  -0.0 -0.0))
+     (cores       ( -1   -1    -1   -1     1    1    -1   -1    -1   -1))
+	 
+	 
+     (drum_solo
+        (seqs (kick.cue snare.cue tom1.cue tom2.cue crash.cue))
+     )
+     (drum_freestyle
+        (seqs (kick.cue snare.cue hat.cue ride.cue crash.cue))
+     )
+     (midi_file "songs/eightbitbeat/eightbitbeat.mid")
+     ;(hopo_threshold 90)
+   )
+   (song_scroll_speed 2300)
+   (drum_bank sfx/kit05_bank.milo)
+   (bank sfx/tambourine_bank.milo)
+   (anim_tempo 64)
+   (song_length 128471) 			; value is length of audio file in milliseconds
+   (preview 31000 61000)
+   (rank
+      (drum 268)
+      (guitar 336)
+      (bass 286)
+      (vocals 0)
+      (keys 474)
+      (real_keys 474)
+      (band 305))
+   (genre novelty)
+   (decade the10s) ;@@@ADD@@@!!! (e.g. the90s, the00s, the10s, the20s)
+   (vocal_gender male)
+   (keys_author "Linos Melendi")
+   ;(tuning_offset_cents 0.0)
+   
+   ;Song is in A Major, technically
+   ;(song_tonality 0)			; REQUIRED - VOX team - 0 = major, 1 = minorfor all RB3 songs
+   ;(vocal_tonic_note 9)		; REQUIRED - VOX team - set this to correct note!
+   (format 4)				 ;@@@@C0Assassin - Always set to 4
+   (version 30)               ; Only modified by coders! @@@@C0Assassin - Always set to 0@@@@
+   ;(fake {== $SONG_VERSION 0})   
+   (downloaded TRUE) 
+   (game_origin fnfestival) 	; game origin that the song is from
+   (song_id 4209570)         		; ALWAYS set this to 0, unless you are Heather @@@Pull from 'rb4.app' if you can't source the id@@@ For Customs, use 420xxxx for numerical prefix - C0Assassin@@@
+   (rating 1)          		; 1 = everyone, 2 = teen, 3 = mature, 4 = unrated
+   (short_version 0) 		; if set to 0, there is no short version of the song (milliseconds)
+   ;(extra_authoring ^^^) 	; flag to designate that a song has extra authoring (files, etc.) for a specific project(s)
+   (album_art TRUE) 		; if TRUE, the actual album art will be required
+   
+   (year_released 2019)
+   ;(year_recorded 2010)  	; OPTIONAL - only to be used for re-records
+   ;(album_name "-")   		; OPTIONAL  (e.g. for covers)
+   ;(album_track_number -)   ; OPTIONAL (would require album_name if added). If omitted Set Challenges use difficulty sorting.
+	
+	;(pack_name "^^^Moonwalk (or die...) 3-pack^^^")  ; OPTIONAL
+   (base_points 0)
+   (author "Harmonix, Rhythm Authors")
+   ;(encoding latin1) ; OPTIONAL, required if name, artist, album_name, or pack_name contain non-ascii characters
+)

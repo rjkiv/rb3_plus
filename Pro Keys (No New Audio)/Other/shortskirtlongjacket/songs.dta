@@ -1,0 +1,102 @@
+(
+   'shortskirtlongjacket'
+   (
+      'name'
+      "Short Skirt/Long Jacket"
+   )
+   (
+      'artist'
+      "Cake"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/shortskirtlongjacket/shortskirtlongjacket"
+      )
+      (tracks
+         ((drum
+               (0 1))
+            (bass 2)
+            (guitar
+               (3 4))
+            (vocals
+               (5 6))
+            (keys
+               (7 8))))
+      (vocal_parts 3)
+      (crowd_channels 9 10)
+	   (
+         'pans'
+         (-1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -2.5 2.5)
+      )
+      (
+         'vols'
+         (-3.0 -3.0 -1.5 -3.0 -3.0 -3.0 -3.0 -3.0 -3.0 -4.0 -4.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 1 1 -1 -1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/shortskirtlongjacket/shortskirtlongjacket.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 32)
+   ('song_length' 204021)
+   ('preview' 93869 123869)
+   (rank
+      (drum 133)
+      (guitar 205)
+      (bass 345)
+      (vocals 103)
+      (keys 1) ;lawl
+      (real_keys 1)
+      ;(real_guitar 208)
+      ;(real_bass 325)
+      (band 177))
+   ('genre' 'alternative')
+   ('vocal_gender' 'male')
+   ('version' 30)
+   ;(real_guitar_tuning (0 0 0 0 0 0))
+   ;(real_bass_tuning (-2 0 0 0))
+   (keys_author "pksage")
+   ;(strings_author "Ruggy")
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 2001)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_alternative')
+   ('song_id' 5028)
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb4')
+   (
+      'album_name'
+      "Comfort Eagle"
+   )
+   ('album_track_number' 4)
+   ('context' 2000)
+   ('decade' 'the00s')
+   (downloaded TRUE)
+   ('base_points' 0)
+   (vocal_tonic_note 2)
+)
+

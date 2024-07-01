@@ -1,0 +1,101 @@
+(
+   'holdtheline'
+   (
+      'name'
+      "Hold the Line"
+   )
+   (
+      'artist'
+      "Toto"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/holdtheline/holdtheline"
+      )
+      (tracks
+         ((drum
+               (0 1))
+            (bass
+               (2 3))
+            (guitar
+               (4 5))
+            (vocals
+               (6 7))
+            (keys
+               (8 9))))
+      (vocal_parts 3)
+	  (
+         'pans'
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 1 1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/holdtheline/holdtheline.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 16)
+   ('song_length' 240283)
+   ('preview' 48512 78512)
+   (rank
+      (drum 235)
+      (guitar 326)
+      (bass 175)
+      (vocals 275)
+      (keys 269)
+      (real_keys 269)
+      ;(real_guitar 325)
+      ;(real_bass 208)
+      (band 264))
+   ('genre' 'poprock')
+   ('vocal_gender' 'male')
+   ('version' 30)
+   ('format' 4)
+   ('album_art' 1)
+   ;(real_guitar_tuning (0 0 0 0 0 0))
+   ;(real_bass_tuning (0 0 0 0))
+   (keys_author "Nyxyxylyth")
+   ;(strings_author "columbo777")
+   ('year_released' 1978)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_pop')
+   ('song_id' 1020280)
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb4_dlc')
+   (
+      'album_name'
+      "Toto"
+   )
+   ('album_track_number' 1)
+   ('context' 2000)
+   ('decade' 'the70s')
+   (downloaded TRUE)
+   ('base_points' 0)
+)
+

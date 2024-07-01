@@ -1,0 +1,11 @@
+(holdtheline
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/holdtheline_plus.mid")
+   (rank
+      (real_guitar 325)
+      (real_bass 208)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(strings_author "columbo777")
+)

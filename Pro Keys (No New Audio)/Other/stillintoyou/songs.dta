@@ -1,0 +1,102 @@
+(
+   'stillintoyou'
+   (
+      'name'
+      "Still Into You"
+   )
+   (
+      'artist'
+      "Paramore"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/stillintoyou/stillintoyou"
+      )
+      (tracks
+         ((drum
+            (0 1))
+         (bass
+            (2))
+         (guitar
+            (3 4))
+         (vocals
+            (5 6))
+         (keys
+            (7 8))))
+      (
+         'pans'
+         (-1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -2.5 2.5)
+      )
+      (vols (-2.0 -2.0 -1.5 -2.0 -2.0 -2.0 -2.0 -1.0 -1.0 -0.0 -0.0))
+      (
+         'cores'
+         (-1 -1 -1 1 1 -1 -1 -1 -1 -1 -1)
+      )
+	  (crowd_channels 9 10)
+	  (vocal_parts 2)
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/stillintoyou/stillintoyou.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 32)
+   ('song_length' 212645)
+   ('preview' 42352 72352)
+   (rank
+      (drum 241)
+      (guitar 172)
+      (bass 372)
+      (vocals 427)
+      (keys 327)
+      (real_keys 327)
+      ;(real_guitar 209)
+      ;(real_bass 267)
+      (band 279))
+   ('genre' 'poprock')
+   ('vocal_gender' 'female')
+   ('version' 30)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 2013)
+   ('rating' 1)
+   ('sub_genre' 'subgenre_other')
+   ('song_id' 5034)
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb4')
+   (
+      'album_name'
+      "Paramore"
+   )
+   ;(real_guitar_tuning (-2 0 0 0 0 0))
+   ;(real_bass_tuning (-3 -3 -3 -3))
+   (song_tonality 0)
+   (keys_author "Linos Melendi")
+   ;(strings_author "Augusto & Ruggy")
+   ('album_track_number' 9)
+   ('context' 2000)
+   ('decade' 'the10s')
+   (video_venues (video_04))
+   (downloaded TRUE)
+   ('base_points' 0)
+   (vocal_tonic_note 5)
+)
+

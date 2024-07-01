@@ -1,0 +1,97 @@
+(
+   'labamba'
+   (
+      'name'
+      "La Bamba"
+   )
+   (
+      'artist'
+      "Los Lobos"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/labamba/labamba"
+      )
+      (tracks
+         ((drum
+               (0 1))
+            (bass
+               (2 3))
+            (guitar
+               (4 5))
+            (vocals
+               (6 7))
+            (keys
+               (8 9))))
+      (vocal_parts 2)
+	  (
+         'pans'
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 1 1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/labamba/labamba.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 64)
+   ('song_length' 219690)
+   ('preview' 41578 71578)
+   (rank
+      (drum 202)
+      (guitar 377)
+      (bass 251)
+      (vocals 250)
+      (keys 211)
+      (real_keys 211)
+      (band 272))
+   ('genre' 'poprock')
+   ('vocal_gender' 'male')
+   ('version' 30)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1987)
+   ('rating' 1)
+   ('sub_genre' 'subgenre_pop')
+   ('song_id' 1020434)
+   ('tuning_offset_cents' 0.0)
+   (keys_author "GHtoRB3")
+   ('game_origin' 'rb4_dlc')
+   (
+      'album_name'
+      "La Bamba (Original Motion Picture Soundtrack)"
+   )
+   ('album_track_number' 1)
+   ('context' 2000)
+   ('decade' 'the80s')
+   (downloaded TRUE)
+   ('base_points' 0)
+   (encoding latin1)
+)
+

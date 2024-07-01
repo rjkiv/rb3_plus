@@ -1,0 +1,100 @@
+(
+   'borntobewild'
+   (
+      'name'
+      "Born to Be Wild"
+   )
+   (
+      'artist'
+      "Steppenwolf"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/borntobewild/borntobewild"
+      )
+      (tracks
+         ((drum
+               (0 1))
+            (bass
+               (2 3))
+            (guitar
+               (4 5))
+            (vocals
+               (6 7))
+            (keys
+               (8 9))))
+      (
+         'pans'
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 1 1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/borntobewild/borntobewild.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/cowbell_bank.milo"
+   )
+   ('anim_tempo' 32)
+   ('song_length' 210626)
+   ('preview' 147075 177075)
+   (rank
+      (drum 260)
+      (guitar 235)
+      (bass 255)
+      (vocals 299)
+      (keys 385)
+      (real_keys 443)
+      ;(real_guitar 325)
+      ;(real_bass 325)
+      (band 249))
+   ('genre' 'classicrock')
+   ('vocal_gender' 'male')
+   ('version' 30)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1968)
+   ('rating' 1)
+   ;(real_guitar_tuning (0 0 0 0 0 0))
+   ;(real_bass_tuning (0 0 0 0))
+   (keys_author "Septekka")
+   ;(strings_author "columbo777")
+   ('sub_genre' 'subgenre_classicrock')
+   ('song_id' 1020500)
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb4_dlc')
+   (
+      'album_name'
+      "Steppenwolf"
+   )
+   ('album_track_number' 5)
+   ('context' 2000)
+   ('decade' 'the60s')
+   (downloaded TRUE)
+   ('base_points' 0)
+)
+

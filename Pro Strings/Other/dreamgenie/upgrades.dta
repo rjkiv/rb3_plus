@@ -1,0 +1,11 @@
+(dreamgenie
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/dreamgenie_plus.mid")
+   (rank
+      (real_guitar 442)
+      (real_bass 442)
+   )
+   (real_guitar_tuning (-2 0 0 0 0 0))
+   (real_bass_tuning (-2 0 0 0))
+   ;(strings_author "Augusto & Ruggy")
+)

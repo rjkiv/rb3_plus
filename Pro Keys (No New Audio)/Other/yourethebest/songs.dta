@@ -1,0 +1,68 @@
+(yourethebest
+   (name "You're the Best")
+   (artist "Joe \qBean\q Esposito")
+   (master 1)
+   (context 2000)
+   (song
+      (name         "songs/yourethebest/yourethebest")
+      (tracks
+         ((drum
+               (0 1))
+            (bass
+               (2 3))
+            (guitar
+               (4 5))
+            (vocals
+               (6 7))
+            (keys
+               (8 9))))
+
+      (vocal_parts 3)	; OPTIONAL but REQUIRED for vocal harmony
+
+      (pans         (-1.0  1.0 -1.0  1.0 -1.0  1.0 -1.0  1.0 -1.0  1.0))
+      (vols         (-0.0 -0.0 -0.0 -0.0 -0.0 -0.0 -0.0 -0.0 -0.0 -0.0))
+      (cores        ( -1   -1   -1   -1    1    1   -1   -1   -1   -1 ))
+
+      (drum_solo
+         (seqs (kick.cue snare.cue tom1.cue tom2.cue crash.cue))
+      )
+      (drum_freestyle
+         (seqs (kick.cue snare.cue hat.cue ride.cue crash.cue))
+      )
+      (midi_file "songs/yourethebest/yourethebest.mid")
+      ;(hopo_threshold 170)
+   )
+   (song_scroll_speed 2300)
+   (bank sfx/tambourine_bank.milo)
+   (drum_bank sfx/kit01_bank.milo)
+   (anim_tempo 16)
+   (song_length 181629)
+   (preview 29145 59145)
+   (rank
+      (drum 153)
+      (guitar 240)
+      (bass 201)
+      (vocals 365)
+      (keys 1) ;lawl
+      (real_keys 1)
+      (band 241))
+   (genre 'poprock')
+   (vocal_gender male)
+   (version 30)
+   (format 4)
+   (keys_author "The Other Side")
+   (album_art TRUE)
+   (year_released 1984)
+   (rating 1)
+   (song_id 1020785)
+   (tuning_offset_cents 0.0)
+   (game_origin 'rb4_dlc')
+   (album_track_number 10)
+   (album_name "The Karate Kid: The Original Motion Picture Soundtrack")   		; OPTIONAL  (e.g. for covers)
+   (decade 'the80s')
+   (downloaded TRUE)
+   (base_points 0)
+   (vocal_tonic_note 2)		; REQUIRED - VOX team - set this to correct note!
+   ;(song_tonality 0)			; REQUIRED - VOX team - 0 = major, 1 = minorfor all RB3 songs
+   ;(encoding latin1); OPTIONAL, required if name, artist, album_name, or pack_name contain non-ascii characters
+)

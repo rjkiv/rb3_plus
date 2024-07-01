@@ -1,0 +1,11 @@
+(fcpremix
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/fcpremix_plus.mid")
+   (rank
+      (real_guitar 390)
+      (real_bass 341)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(strings_author "AddyMills")
+)
