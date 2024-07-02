@@ -1,0 +1,12 @@
+(rubysoho
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/rubysoho_plus.mid")
+   (song_id 1005707)
+   (rank
+      (real_guitar 299)
+      (real_bass 293)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rb3_plus_author Brandunce (Bass), Russ T Sprinkler (Guitar)))
+)
