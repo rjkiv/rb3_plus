@@ -1,0 +1,13 @@
+; Jukebox the Ghost - Schizophrenia
+(UGC_5006114
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/UGC_5006114_plus.mid")
+   (song_id 5006114)
+   (rank
+      (real_guitar 338)
+      (real_bass 77)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rb3_plus_author WarGod, Carl Mylo, JDK (QC))
+)
