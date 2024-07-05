@@ -15,18 +15,18 @@ jobs:
         run: |
           sudo apt install libfuse2
           sudo apt install wget
-          sudo wget -P dependencies https://github.com/mtolly/onyxite-customs/releases/download/20230130/onyx-20230130-linux-x64.AppImage
-          sudo chmod a+x dependencies/onyx-20230130-linux-x64.AppImage
-          ./dependencies/onyx-20230130-linux-x64.AppImage --appimage-extract
+          sudo wget -P dependencies https://onyxite.org/tmp/onyx-20240418-linux-x64.AppImage
+          sudo chmod a+x dependencies/onyx-20240418-linux-x64.AppImage
+          ./dependencies/onyx-20240418-linux-x64.AppImage --appimage-extract
           ls dependencies
-          ./dependencies/onyx-20230130-linux-x64.AppImage stfs --help
+          ./dependencies/onyx-20240418-linux-x64.AppImage stfs --help
       - name: Create folder containing CON file's contents
         run: |
           python dependencies/pro_pack_prep.py
       - name: Create CON from content folder
         run: |
           mkdir output
-          ./dependencies/onyx-20230130-linux-x64.AppImage stfs _tmp --to output/RB3PlusProStrPack --game rb3
+          ./dependencies/onyx-20240418-linux-x64.AppImage stfs _tmp --to output/RB3PlusProPack --game rb3
       - name: Upload result
         uses: actions/upload-artifact@v2
         with:
