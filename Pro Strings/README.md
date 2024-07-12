@@ -4,10 +4,10 @@
 # Installation
 Good news for Xbox 360 players - if you want every available pro string upgrade on this repo, and don't want to build them one by one, there is now a pre-built CON file for you to download and place onto your Xbox! Simply navigate to the Actions tab, click the latest workflow run, and scroll down until you see the CON, titled "RB3PlusProStrPack". Click this, and then a zip file containing the pre-built CON file will be yours.
 
-However, if you are not on Xbox, or want to pick and choose singular pro string upgrades, you will need C3CONTools, and a USB drive if you are playing on a physical game console.
+However, if you are not on Xbox, or want to pick and choose singular pro string upgrades, you will need Nautilus, and a USB drive if you are playing on a physical game console.
 
 ## Xbox 360 (JTAG/RGH)
-- Open up C3CONTools, and launch the CON Creator.
+- Open up Nautilus, and launch the CON Creator.
 - Make sure the root folder is titled "songs_upgrades" and NOT "songs" like it defaults to. Then, within this folder, insert both a pro string's *_plus.mid file and upgrades.dta file. The end file structure should look like this: ![example_CON_structure](../dependencies/example_CON.PNG?raw=true "Example CON structure")
 - Name the package whatever you like, then create the package as a LIVE file.
 - On your JTAG/RGH Xbox, open the File Manager. Navigate to ```Hdd1/Content/0000000000000000/45410914/00000002```, and paste the LIVE file you created earlier in there.
@@ -26,11 +26,11 @@ However, if you are not on Xbox, or want to pick and choose singular pro string 
 - Paste the *_plus.mid file in the folder, and depending on if you have previously placed upgrades in this folder, do one of the following:
   - If you have never posted an upgrade here before, simply paste the pro string's upgrades.dta file in.
   - If you HAVE posted an upgrade here before, open up the existing upgrades.dta, scroll down to the very bottom, and paste in the contents of the pro strings' upgrades.dta file.
-- Finally, open up C3CONTools, and launch the PS3 Converter. Then click Encryption Options --> Encrypt replacement MIDI file(s). Navigate to the ```HMX0756``` folder from your RPCS3 install, and select the pro string's *_plus.mid you placed in there. The midi should now be encrypted and recognizable by RPCS3.
+- Finally, open up Nautilus, and launch the PS3 Converter. Then click Encryption Options --> Encrypt replacement MIDI file(s). Navigate to the ```HMX0756``` folder from your RPCS3 install, and select the pro string's *_plus.mid you placed in there. The midi should now be encrypted and recognizable by RPCS3.
 - That's it! Boot up RB3 on RPCS3 and enjoy your upgrade!
 
 ## PS3
-- In C3CONTools, launch the PS3 Converter. Then click Encryption Options --> Encrypt replacement MIDI file(s). Take the MIDI file from this repository, and encrypt it. You should end up with a file formatted as *_plus.mid.edat. You can then have this on hand for use with an FTP transfer, or put it on a flash drive with the associated upgrades.dta.
+- In Nautilus, launch the PS3 Converter. Then click Encryption Options --> Encrypt replacement MIDI file(s). Take the MIDI file from this repository, and encrypt it. You should end up with a file formatted as *_plus.mid.edat. You can then have this on hand for use with an FTP transfer, or put it on a flash drive with the associated upgrades.dta.
 - Using a tool on your PS3 like multiMAN or with an FTP connection, open up your PS3's file system. You will need a modded PS3 to do this.
 - Go to ```dev_hdd0\game\BLUS30463\USRDIR```. Create the folder ```HMX0756``` if it does not exist. Then, navigate inside this folder.
 - Inside this folder, if it does not already exist, make a new folder titled ```songs_upgrades```. Navigate inside this folder.

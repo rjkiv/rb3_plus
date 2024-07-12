@@ -22,6 +22,7 @@
 | Fix You | Coldplay | G: E Standard <br> B: E Standard | G: Eb Standard <br> B: same as in-game |
 | The Scientist | Coldplay | G: E Standard<br>B: E Standard | G: F Standard (E Standard, capo on 1st Fret)<br> B: same as in-game |
 | Linger | The Cranberries | G: E Standard<br>B: E Standard | same as in-game |
+| Police Truck | Dead Kennedys | G: E Standard<br>B: E Standard | same as in-game |
 | Child in Time | Deep Purple | G: E Standard<br>B: E Standard | same as in-game |
 | Space Truckin' | Deep Purple | G: E Standard<br>B: E Standard | same as in-game |
 | Landslide | Fleetwood Mac | G: E Standard | G: G Standard (E Standard, capo on 3rd fret) |
@@ -39,6 +40,7 @@
 | Numb | Linkin Park | G: Drop D<br>B: Drop D | G: Eb Drop Db<br>B: Eb Drop Db |
 | Shadow of the Day | Linkin Park | G: E Standard<br>B: E Standard | same as in-game |
 | Darling Dear | Little Fish | G: E Standard<br>B: E Standard | same as in-game |
+| Dawn Patrol | Megadeth | B: E Standard | same as in-game |
 | Party in the U.S.A. | Miley Cyrus | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
 | Use It | The New Pornographers | G: E Standard<br>B: E Standard | same as in-game |
 | Last | Nine Inch Nails | G: Drop D<br>B: Drop D | same as in-game |
@@ -75,6 +77,7 @@
 | B.Y.O.B. | System of a Down | G: Drop D<br>B: Drop D | G: Eb Drop Db<br>B: Eb Drop Db |
 | Toxicity | System of a Down | G: Drop D<br>B: Drop D | G: D Drop C<br>B: D Drop C |
 | Head Over Heels | Tears for Fears | G: E Standard<br>B: E Standard | same as in-game |
+| Animal I Have Become | Three Days Grace | G: Drop D<br>B: Drop D | G: D Drop C<br>B: D Drop C  |
 | Buddy Holly | Weezer | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
 | El Scorcho | Weezer | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
 | Pork and Beans | Weezer | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
