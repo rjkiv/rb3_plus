@@ -8,4 +8,5 @@
    )
    (real_guitar_tuning (-4 -4 -4 -4 -4 -4))
    (real_bass_tuning (-4 -4 -4 -4))
+   ;(rb3_plus_author WarGod)
 )
