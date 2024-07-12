@@ -1,0 +1,14 @@
+; IMPORTANT - despite not having a pro bass part,
+; RB3 will show a pro bass part in-game.
+; DO NOT choose this when selecting your instrument, or your game will crash.
+; :D - ataeaf
+(UGC_5003595
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/UGC_5003595_plus.mid")
+   (song_id 5003595)
+   (rank
+      (real_guitar 1)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   ;(rb3_plus_author ataeaf)
+)
