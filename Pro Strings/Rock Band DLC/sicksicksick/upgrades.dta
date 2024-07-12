@@ -1,0 +1,11 @@
+(sicksicksick
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/sicksicksick_plus.mid")
+   (song_id 1005007)
+   (rank
+      (real_guitar 199)
+      (real_bass 199)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+)
