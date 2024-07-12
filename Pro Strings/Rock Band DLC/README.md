@@ -53,6 +53,7 @@
 | Here Comes Your Man | Pixies | G: E Standard<br>B: E Standard | same as in-game |
 | Natural Disaster | Plain White T's | G: Drop D<br>B: Drop D | same as in-game |
 | Don't Stop Me Now | Queen | G: E Standard<br>B: E Standard | same as in-game |
+| Sick, Sick, Sick | Queens of the Stone Age | G: C Standard<br>B: C Standard | same as in-game |
 | Apache Rose Peacock | Red Hot Chili Peppers | G: E Standard<br>B: E Standard | same as in-game |
 | Blood Sugar Sex Magik | Red Hot Chili Peppers | G: E Standard<br>B: E Standard | same as in-game |
 | Breaking the Girl | Red Hot Chili Peppers | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: same as in-game |
