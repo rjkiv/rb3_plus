@@ -72,6 +72,7 @@
 | They're Red Hot | Red Hot Chili Peppers | G: E Standard<br>B: E Standard | same as in-game |
 | Tom Sawyer (Original Version) | Rush | G: E Standard<br>B: E Standard | same as in-game |
 | YYZ | Rush | G: E Standard<br>B: E Standard | same as in-game |
+| They Say | Scars On Broadway | G: C# G# C# F# A# D#<br>B: C# G# C# F# | same as in-game |
 | All of This | Shaimus | G: E Standard<br>B: E Standard | same as in-game |
 | The Best Day Ever | SpongeBob SquarePants | G: E Standard<br>B: E Standard | same as in-game |
 | B.Y.O.B. | System of a Down | G: Drop D<br>B: Drop D | G: Eb Drop Db<br>B: Eb Drop Db |
