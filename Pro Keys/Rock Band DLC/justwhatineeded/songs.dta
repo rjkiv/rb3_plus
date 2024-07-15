@@ -10,7 +10,7 @@
          (bass 6)
          (guitar (7 8))
          (vocals (9 10))
-         (vocals (11 12))
+         (keys (11 12))
         )
      )
      ;                  K          SN       CYMBALS   BASS    GUITAR     VOCALS     KEYS        TRACKS
