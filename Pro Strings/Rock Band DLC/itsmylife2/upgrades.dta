@@ -7,6 +7,6 @@
       (real_bass 229)
    )
    (real_guitar_tuning (0 0 0 0 0 0))
-   (real_bass_tuning (0 0 0 0)) ;The bass is actually 5 strings but they changed to 4
+   (real_bass_tuning (-2 0 0 0)) ;real tuning is D Drop C, in-game is Drop D
    ;(rb3_plus_author Aloquendiar)
 )
