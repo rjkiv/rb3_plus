@@ -74,6 +74,7 @@
 | The Power of Equality | Red Hot Chili Peppers | G: E A D G B Eb<br>B: Eb A D G | same as in-game |
 | The Righteous and The Wicked | Red Hot Chili Peppers | G: E Standard<br>B: E Standard | G: same as in-game<br>B: B Standard |
 | They're Red Hot | Red Hot Chili Peppers | G: E Standard<br>B: E Standard | same as in-game |
+| Dragula | Rob Zombie | G: Drop D<br>B: E Standard | G: D Drop C<br>B: C Standard |
 | Tom Sawyer (Original Version) | Rush | G: E Standard<br>B: E Standard | same as in-game |
 | YYZ | Rush | G: E Standard<br>B: E Standard | same as in-game |
 | They Say | Scars On Broadway | G: Drop D<br>B: Drop D | G: Drop C#<br>B: Drop C# |
