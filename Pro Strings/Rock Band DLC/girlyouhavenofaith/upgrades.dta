@@ -1,0 +1,11 @@
+(girlyouhavenofaith
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/girlyouhavenofaith_plus.mid")
+   (song_id 1005837)
+   (rank
+      (real_guitar 371)
+      (real_bass 279)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+)
