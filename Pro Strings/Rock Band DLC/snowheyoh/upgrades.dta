@@ -3,7 +3,7 @@
    (midi_file "songs_upgrades/snowheyoh_plus.mid")
    (song_id 1005160)
    (rank
-      (real_guitar 385)
+      (real_guitar 485)
       (real_bass 215)
    )
    (real_guitar_tuning (0 0 0 0 0 0))
