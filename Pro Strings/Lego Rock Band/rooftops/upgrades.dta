@@ -1,0 +1,12 @@
+(rooftops
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/rooftops_plus.mid")
+   (song_id 776)
+   (rank
+      (real_guitar 276)
+      (real_bass 212)
+   )
+   (real_guitar_tuning (-2 0 0 0 0 0))
+   (real_bass_tuning (-2 0 0 0))
+   ;(rb3_plus_author MatthNerd)
+)
