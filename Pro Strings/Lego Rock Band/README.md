@@ -9,5 +9,6 @@
 | Real Wild Child | Everlife | G: E Standard<br>B: Drop D | same as in-game |
 | Tick Tick Boom | The Hives | G: E Standard<br>B: E Standard | same as in-game |
 | Fire | The Jimi Hendrix Experience | G: E Standard<br>B: E Standard | same as in-game |
+| Rooftops (A Liberation Broadcast) | Lostprophets | G: Drop D<br>B: Drop D | G: D Drop C<br>B: D Drop C |
 | Ghostbusters | Ray Parker Jr. | G: E Standard<br>B: E Standard | same as in-game |
 | A-Punk | Vampire Weekend | G: E Standard<br>B: E Standard | same as in-game |
