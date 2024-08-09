@@ -11,7 +11,7 @@
 | You Should Be Dancing | Bee Gees | G: E Standard<br>B: E Standard | same as in-game |
 | Mony Mony | Billy Idol | G: E Standard<br>B: E Standard | same as in-game |
 | What's My Age Again? | Blink-182 | G: E Standard<br>B: E Standard | same as in-game |
-| Its My Life | Bon Jovi | G: E Standard<br>B: Drop D | G: E Standard<br>B: D Drop C |
+| It's My Life | Bon Jovi | G: E Standard<br>B: Drop D | G: E Standard<br>B: D Drop C |
 | The Diary of Jane | Breaking Benjamin | G: Drop D<br>B: Drop D | G: C Drop Bb<br>B: C Drop Bb |
 | Grenade | Bruno Mars | G: E Standard<br>B: E Standard | same as in-game |
 | Just the Way You Are | Bruno Mars | G: E Standard<br>B: Drop D | same as in-game |
