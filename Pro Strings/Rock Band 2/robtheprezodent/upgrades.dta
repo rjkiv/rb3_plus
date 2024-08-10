@@ -1,7 +1,7 @@
 (robtheprezodent
    (upgrade_version 1)
    (midi_file "songs_upgrades/robtheprezodent_plus.mid")
-   (song_id 305)
+   (song_id 330)
    (rank
       (real_guitar 400)
       (real_bass 350)
