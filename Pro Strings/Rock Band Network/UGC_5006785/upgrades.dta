@@ -1,7 +1,7 @@
 ; The Dillinger Escape Plan - Farewell, Mona Lisa
 (UGC_5006785
    (upgrade_version 1)
-   (midi_file "songs_upgrades/UGC_5006785_plus.mid")
+   (midi_file "songs_upgrades/ugc_5006785_plus.mid")
    (song_id 5006785)
    (rank
       (real_guitar 550)

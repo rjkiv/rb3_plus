@@ -1,7 +1,7 @@
 ; Midnight Riders - One Bad Man
 (UGC_5001181
    (upgrade_version 1)
-   (midi_file "songs_upgrades/UGC_5001181_plus.mid")
+   (midi_file "songs_upgrades/ugc_5001181_plus.mid")
    (song_id 5001181)
    (rank
       (real_guitar 165)
