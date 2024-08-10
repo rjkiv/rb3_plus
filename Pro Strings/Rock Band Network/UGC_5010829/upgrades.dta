@@ -1,0 +1,13 @@
+; Toby Turner - I Can Swing My Sword
+(UGC_5010829
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/UGC_5010829_plus.mid")
+   (song_id 5010829)
+   (rank
+      (real_guitar 105)
+      (real_bass 75)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rb3_plus_author RK)
+)
