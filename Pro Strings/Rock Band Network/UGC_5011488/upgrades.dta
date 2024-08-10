@@ -1,7 +1,7 @@
 ; Hushpuppies - You're Gonna Say Yeah!
 (UGC_5011488
    (upgrade_version 1)
-   (midi_file "songs_upgrades/UGC_5011488_plus.mid")
+   (midi_file "songs_upgrades/ugc_5011488_plus.mid")
    (song_id 5011488)
    (rank
       (real_guitar 195)
