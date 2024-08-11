@@ -1,0 +1,15 @@
+; BioShaft - The Man's Masterpiece
+(UGC_5008431
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/ugc_5008431_plus.mid")
+   (song_id 5008431)
+   (rank
+      (real_guitar 340)
+      (real_bass 352)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   (vocal_tonic_note 4)
+   (song_tonality 0)
+   ;(rb3_plus_author ataeaf)
+)
