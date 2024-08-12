@@ -1,7 +1,7 @@
 ; The Dillinger Escape Plan - Farewell, Mona Lisa (2x Bass Pedal)
 (UGC_5006800
    (upgrade_version 1)
-   (midi_file "songs_upgrades/UGC_5006800_plus.mid")
+   (midi_file "songs_upgrades/ugc_5006800_plus.mid")
    (song_id 5006800)
    (rank
       (real_guitar 550)

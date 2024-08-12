@@ -58,6 +58,7 @@
 | Here Comes Your Man | Pixies | G: E Standard<br>B: E Standard | same as in-game |
 | Natural Disaster | Plain White T's | G: Drop D<br>B: Drop D | same as in-game |
 | Don't Stop Me Now | Queen | G: E Standard<br>B: E Standard | same as in-game |
+| 3's and 7's | Queens of the Stone Age | G: E Standard<br>B: E Standard | G: C Standard<br>B: C Standard |
 | Sick, Sick, Sick | Queens of the Stone Age | G: E Standard<br>B: E Standard | G: C Standard<br>B: C Standard |
 | Ruby Soho | Rancid | G: E Standard<br>B: E Standard | same as in-game |
 | Apache Rose Peacock | Red Hot Chili Peppers | G: E Standard<br>B: E Standard | same as in-game |
@@ -93,4 +94,5 @@
 | Pork and Beans | Weezer | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
 | Girl, You Have No Faith In Medicine | The White Stripes | G: E Standard<br>B: E Standard | same as in-game |
 | Seven Nation Army | The White Stripes | G: E Standard<br>B: E Standard | same as in-game |
+| Fell In Love With A Girl | The White Stripes | G: E Standard<br>B: N/A | same as in-game |
 | She's Not There | The Zombies | G: E Standard<br>B: E Standard | same as in-game |
