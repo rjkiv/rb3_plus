@@ -1,0 +1,14 @@
+; IMPORTANT - despite not having a pro bass part,
+; RB3 will show a pro bass part in-game.
+; DO NOT choose this when selecting your instrument, or your game will crash.
+; ps have fun - trisha k.
+(fellinlovewithagirl
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/fellinlovewithagirl_plus.mid")
+   (song_id 1005936)
+   (rank
+      (real_guitar 166)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   ;(rb3_plus_author kukky)
+)
