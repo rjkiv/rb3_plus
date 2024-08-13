@@ -9,5 +9,6 @@
 | You're Gonna Say Yeah! | Hushpuppies | G: E Standard<br>B: E Standard | same as in-game | 5011488 |
 | Half Crazy | Jukebox the Ghost | G: E Standard<br>B: E Standard | same as in-game | 5005762 |
 | Schizophrenia | Jukebox the Ghost | G: E Standard<br>B: E Standard | same as in-game | 5006114 |
+| Act of War | Lich King | G: E Standard<br>B: E Standard | same as in-game | 5007213 |
 | One Bad Man | Midnight Riders | G: E Standard<br>B: E Standard | same as in-game | 5001181 |
 | I Can Swing My Sword (ft. Terabrite) | Toby Turner | G: E Standard<br>B: E Standard | same as in-game | 5010829 |
