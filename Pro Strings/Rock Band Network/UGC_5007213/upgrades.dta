@@ -1,7 +1,7 @@
 ; Lich King - Act of War
 (UGC_5007213
    (upgrade_version 1)
-   (midi_file "songs_upgrades/UGC_5007213_plus.mid")
+   (midi_file "songs_upgrades/ugc_5007213_plus.mid")
    (song_id 5007213)
    (rank
       (real_guitar 500)
