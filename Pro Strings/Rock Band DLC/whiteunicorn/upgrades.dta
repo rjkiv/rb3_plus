@@ -1,0 +1,12 @@
+(whiteunicorn
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/whiteunicorn_plus.mid")
+   (song_id 1005821)
+   (rank
+      (real_guitar 359)
+      (real_bass 285)
+   )
+   (real_guitar_tuning (-2 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rb3_plus_author WarGod)
+)
