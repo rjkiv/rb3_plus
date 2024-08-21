@@ -11,5 +11,6 @@
 | Schizophrenia | Jukebox the Ghost | G: E Standard<br>B: E Standard | same as in-game | 5006114 |
 | Act of War | Lich King | G: E Standard<br>B: E Standard | same as in-game | 5007213 |
 | One Bad Man | Midnight Riders | G: E Standard<br>B: E Standard | same as in-game | 5001181 |
+| BEER!! | Psychostick | G: Drop D<br>B: Drop D | G: Drop C#<br>B: Drop C# | 5008844 |
 | Robots | Sweethammer | G: E Standard<br>B: Drop D | same as in-game | 5010553 |
 | I Can Swing My Sword (ft. Terabrite) | Toby Turner | G: E Standard<br>B: E Standard | same as in-game | 5010829 |
