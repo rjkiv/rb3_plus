@@ -1,0 +1,11 @@
+(scenesfromanitalian
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/scenesfromanitalian_plus.mid")
+   (song_id 1010250)
+   (rank
+      (real_guitar 400)
+      (real_bass 429)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+)
