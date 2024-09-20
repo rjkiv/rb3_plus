@@ -98,4 +98,5 @@
 | Seven Nation Army | The White Stripes | G: E Standard<br>B: E Standard | same as in-game |
 | Fell In Love With A Girl | The White Stripes | G: E Standard<br>B: N/A | same as in-game |
 | White Unicorn | Wolfmother | G: Drop D <br>B: E Standard | same as in-game |
+| Date with the Night | Yeah Yeah Yeahs | G: E Standard<br>B: E Standard | same as in-game |
 | She's Not There | The Zombies | G: E Standard<br>B: E Standard | same as in-game |
