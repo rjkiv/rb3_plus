@@ -63,6 +63,7 @@
 | 3's and 7's | Queens of the Stone Age | G: E Standard<br>B: E Standard | G: C Standard<br>B: C Standard |
 | Sick, Sick, Sick | Queens of the Stone Age | G: E Standard<br>B: E Standard | G: C Standard<br>B: C Standard |
 | Ruby Soho | Rancid | G: E Standard<br>B: E Standard | same as in-game |
+| Bulls on Parade | Rage Against The Machine | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
 | Apache Rose Peacock | Red Hot Chili Peppers | G: E Standard<br>B: E Standard | same as in-game |
 | Blood Sugar Sex Magik | Red Hot Chili Peppers | G: E Standard<br>B: E Standard | same as in-game |
 | Breaking the Girl | Red Hot Chili Peppers | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: same as in-game |
