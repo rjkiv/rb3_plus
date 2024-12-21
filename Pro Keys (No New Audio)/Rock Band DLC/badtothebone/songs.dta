@@ -45,7 +45,7 @@
    (decade the80s)
    (vocal_gender male)
    (format 3)
-   (version 10)               ; Only modified by coders!
+   (version 30)               ; Only modified by coders!
    (fake {== $SONG_VERSION 0})	
    (downloaded {> $SONG_VERSION 0})    
    (album_art TRUE) 
