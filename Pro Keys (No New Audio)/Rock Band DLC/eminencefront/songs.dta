@@ -29,6 +29,7 @@
    (bank sfx/tambourine_bank.milo)
    (anim_tempo kTempoMedium)
    (preview 159100 179300)
+   (solo (guitar vocal_percussion))
    (rank
       (drum 97)
       (guitar 266)
