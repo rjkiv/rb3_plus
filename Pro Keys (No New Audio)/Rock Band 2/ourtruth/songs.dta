@@ -49,7 +49,7 @@
    (album_art TRUE)
    (album_name "Karmacode")
    (album_track_number 3)
-   (vocal_tonic_note 0)
+   (vocal_tonic_note 11)
    (song_tonality 0)
    (keys_author "BowlsforRick")
 )
