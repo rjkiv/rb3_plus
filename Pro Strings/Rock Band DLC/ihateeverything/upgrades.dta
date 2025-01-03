@@ -1,0 +1,12 @@
+(ihateeverything
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/ihateeverything_plus.mid")
+   (song_id 1010483)
+   (rank
+      (real_guitar 237)
+      (real_bass 159)
+   )
+   (real_guitar_tuning (-2 0 0 0 0 0))
+   (real_bass_tuning (-2 0 0 0))
+   ;(rb3_plus_author Aloquendiar)
+)
