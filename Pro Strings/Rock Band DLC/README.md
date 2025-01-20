@@ -53,7 +53,7 @@
 | Hysteria | Muse | G: E Standard<br>B: E Standard | same as in-game |
 | Use It | The New Pornographers | G: E Standard<br>B: E Standard | same as in-game |
 | Last | Nine Inch Nails | G: Drop D<br>B: Drop D | same as in-game |
-| March Of The Pigs | Nine Inch Nails | G: E Standard<br>B: C Standard | same as in-game |
+| March Of The Pigs | Nine Inch Nails | G: E Standard<br>B: E Standard | G: same as in-game<br>B: C Standard |
 | Blew | Nirvana | G: DADGBF<br>B: E Standard | G: CGCFAD#<br>B: C Standard
 | School | Nirvana | G: E Standard<br>B: E Standard | same as in-game |
 | Hella Good | No Doubt | G: E Standard<br>B: E Standard | same as in-game |
