@@ -9,7 +9,7 @@
          (bass 6)
          (guitar (7 8))
          (vocals (9 10))
-		 (keys (11 12))
+         (keys (11 12))
         ) 
      )
      ;                 KICK     SNARE     CYMBALS   BASS  GUITAR    VOCALS    TRKS
