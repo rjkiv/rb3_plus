@@ -4,8 +4,8 @@
    (midi_file "songs_upgrades/ugc_5001181_plus.mid")
    (song_id 5001181)
    (rank
-      (real_guitar 165)
-      (real_bass 5)
+      (real_guitar 150)
+      (real_bass 1)
    )
    (real_guitar_tuning (0 0 0 0 0 0))
    (real_bass_tuning (0 0 0 0))
