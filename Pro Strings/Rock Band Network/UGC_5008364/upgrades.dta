@@ -1,0 +1,13 @@
+; Magnus 'SoulEye' Pålsson - Potential for Anything
+(UGC_5008364
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/ugc_5008364_plus.mid")
+   (song_id 5008364)
+   (rank
+      (real_guitar 442)
+      (real_bass 267)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (-2 0 0 0))
+   ;(rb3_plus_author ALBATROSS)
+)
