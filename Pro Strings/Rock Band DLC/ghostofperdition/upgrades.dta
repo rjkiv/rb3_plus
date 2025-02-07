@@ -1,0 +1,12 @@
+(ghostofperdition
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/ghostofperdition_plus.mid")
+   (song_id 1010432)
+   (rank
+      (real_guitar 500)
+      (real_bass 500)
+   )
+   (real_guitar_tuning (-2 0 0 -2 -2 0))
+   (real_bass_tuning (-2 0 0 0))
+   ;(rb3_plus_author MatthNerd)
+)
