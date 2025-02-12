@@ -42,7 +42,6 @@
    (genre alternative)
    (decade the00s)
    (vocal_gender male)
-   (vocal_tonic_note 0)
    (format 5)
    (version 30)               ; Only modified by coders!
    (fake {== $SONG_VERSION 0})   
