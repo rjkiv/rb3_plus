@@ -10,7 +10,7 @@
          (bass (5 6))
          (guitar (7 8))
          (vocals (9 10))
-		 (keys (11 12))
+         (keys (11 12))
         )
      )
      (vocal_parts 1)
@@ -35,16 +35,15 @@
       (guitar 240)
       (bass 225)
       (vocals 248)
-	  (keys 211)
-      (real_keys 211)
+      (keys 185)
+      (real_keys 185)
       (band 281)
    )
    (genre alternative)
    (decade the00s)
-   (keys_author VreyIsGrey)
    (vocal_gender male)
    (vocal_tonic_note 0)
-   (format 10)
+   (format 5)
    (version 30)               ; Only modified by coders!
    (fake {== $SONG_VERSION 0})   
    (downloaded TRUE) 
@@ -61,6 +60,8 @@
    (video_venues (video_04))
    ;(pack_name "^^^Moonwalk (or die...) 3-pack^^^")  ; OPTIONAL
    (base_points 485806)
+   (vocal_tonic_note 0)
+   (song_tonality 0)
+   (keys_author "VreyIsGrey")
 )
-
 
