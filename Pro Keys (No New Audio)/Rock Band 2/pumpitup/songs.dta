@@ -35,8 +35,8 @@
       (guitar 232)
       (bass 210)
       (vocals 169)
-      (keys 387)
-      (real_keys 387)
+      (keys 398)
+      (real_keys 398)
       (band 209)
    )
    (format 10)
@@ -52,7 +52,7 @@
    (album_track_number 4)
    (vocal_tonic_note 1)
    (song_tonality 0)
-   (keys_author "BowlsforRick")
+   (keys_author "BowlsforRick, SonicSBL")
 )
 
 
