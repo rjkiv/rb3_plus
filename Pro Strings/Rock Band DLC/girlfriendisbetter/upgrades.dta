@@ -1,0 +1,12 @@
+(girlfriendisbetter
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/girlfriendisbetter_plus.mid")
+   (song_id 1005776)
+   (rank
+      (real_guitar 331)
+      (real_bass 426)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0)); E standard
+   (real_bass_tuning (-2 0 0 0)); Drop D
+   ;(rb3_plus_author Carl Mylo)
+)
