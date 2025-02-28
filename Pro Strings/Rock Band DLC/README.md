@@ -107,3 +107,4 @@
 | Fell In Love With A Girl | The White Stripes | G: E Standard<br>B: N/A | same as in-game |
 | White Unicorn | Wolfmother | G: Drop D <br>B: E Standard | same as in-game |
 | She's Not There | The Zombies | G: E Standard<br>B: E Standard | same as in-game |
+| The Metal | Tenacious D | G: E Drop D<br>B: Drop D | same as in-game |
