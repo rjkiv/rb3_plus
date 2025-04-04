@@ -1,0 +1,12 @@
+(longtrainrunnin
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/longtrainrunnin_plus.mid")
+   (song_id 1006158)
+   (rank
+      (real_guitar 383)
+      (real_bass 324)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0)); E Standard
+   (real_bass_tuning (0 0 0 0)); E Standard
+   ;(rb3_plus_author WarGod, Carl Mylo, Ruggy)
+)
