@@ -1,0 +1,13 @@
+; Eurobeat Brony ft. Odyssey - Discord (EuroChaos Mix)
+(UGC_5011627
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/ugc_5011627_plus.mid")
+   (song_id 5011627)
+   (rank
+      (real_guitar 384)
+      (real_bass 208)
+   )
+   (real_guitar_tuning (-2 0 0 0 0 0)) ; Drop D
+   (real_bass_tuning (-2 0 0 0)) ; Drop D
+   ;(strings_author K.TURN)
+)
