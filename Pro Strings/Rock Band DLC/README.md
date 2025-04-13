@@ -31,6 +31,7 @@
 | Child in Time | Deep Purple | G: E Standard<br>B: E Standard | same as in-game |
 | Space Truckin' | Deep Purple | G: E Standard<br>B: E Standard | same as in-game |
 | Long Train Runnin' | Doobie Brothers | G: E Standard<br>B: E Standard | same as in-game |
+| Dance, Dance | Fall Out Boy | G: E Standard<br>B: E Standard | same as in-game |
 | Landslide | Fleetwood Mac | G: E Standard | G: G Standard (E Standard, capo on 3rd fret) |
 | Rhiannon | Fleetwood Mac | G: E Standard<br>B: E Standard | same as in-game |
 | This Is a Call | Foo Fighters | G: E Standard<br>B: E Standard | same as in-game |
