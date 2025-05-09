@@ -67,4 +67,5 @@
 ; Added RB3 scroll information
 (vocal_tonic_note 2)
 (song_tonality 0)
+(keys_author "FujiSkunk, StackOverflow0x, Aloquendiar")
 )
