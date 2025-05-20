@@ -49,8 +49,8 @@
    (album_art TRUE)
    (album_name "A City Dressed in Dynamite")
    (album_track_number 3)
-   (vocal_tonic_note 5)
-   (song_tonality 0)
+   (vocal_tonic_note 4)
+   (song_tonality 1)
    (keys_author "BowlsforRick, SonicSBL")
 )
 
