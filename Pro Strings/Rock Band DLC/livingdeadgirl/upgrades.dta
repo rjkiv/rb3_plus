@@ -8,4 +8,6 @@
    )
    (real_guitar_tuning (-2 0 0 0 0 0))
    (real_bass_tuning (-2 0 0 0))
+   ;(rbhp_author JohnSmith (pro strings))
+   ;(rbhp_version 1)
 )
