@@ -8,6 +8,7 @@
 | Party Hard | Andrew W.K. | G: E Standard<br>B: E Standard | same as in-game |
 | No Regrets | Authority Zero | G: E Standard<br>B: E Standard | same as in-game |
 | So Far Away | Avenged Sevenfold | G: E Standard<br>B: E Standard | same as in-game |
+| 21st Century (Digital Boy) | Bad Religion | G: E Standard<br>B: E Standard | same as in-game |
 | Night Fever | Bee Gees | G: E Standard<br>B: E Standard | same as in-game |
 | You Should Be Dancing | Bee Gees | G: E Standard<br>B: E Standard | same as in-game |
 | Mony Mony | Billy Idol | G: E Standard<br>B: E Standard | same as in-game |
