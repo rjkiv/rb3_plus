@@ -1,0 +1,12 @@
+(21stcentdigiboy
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/21stcentdigiboy_plus.mid")
+   (song_id 1005604)
+   (rank
+      (real_guitar 300)
+      (real_bass 220)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rb3_plus_author MatthNerd)
+)
