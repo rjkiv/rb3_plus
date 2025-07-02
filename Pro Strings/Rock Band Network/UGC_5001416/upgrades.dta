@@ -1,0 +1,13 @@
+; The Main Drag - Homosuperior
+(UGC_5001416
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/ugc_5001416_plus.mid")
+   (song_id 5001416)
+   (rank
+      (real_guitar 423)
+      (real_bass 270)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rb3_plus_author WarGod)
+)
