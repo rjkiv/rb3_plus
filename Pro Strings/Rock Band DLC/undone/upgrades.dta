@@ -1,0 +1,11 @@
+(undone
+  (upgrade_version 1)
+  (song_id 1005718)
+  (midi_file "songs_upgrades/undone_plus.mid")
+  (rank
+    (real_guitar 250)
+    (real_bass 208)
+  )
+  (real_guitar_tuning (0 0 0 0 0 0))
+  (real_bass_tuning (0 0 0 0))
+)
