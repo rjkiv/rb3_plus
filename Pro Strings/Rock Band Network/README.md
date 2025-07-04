@@ -15,5 +15,6 @@
 | One Bad Man | Midnight Riders | G: E Standard<br>B: E Standard | same as in-game | 5001181 |
 | BEER!! | Psychostick | G: Drop D<br>B: Drop D | G: Drop C#<br>B: Drop C# | 5008844 |
 | Robots | Sweethammer | G: E Standard<br>B: Drop D | same as in-game | 5010553 |
+| Curse of the Werewolf | Timeless Miracle | G: E Standard<br>B: E Standard | same as in-game | 5005974| 
 | Curse of the Werewolf (2x Bass Pedal) | Timeless Miracle | G: E Standard<br>B: E Standard | same as in-game | 5005973 |
 | I Can Swing My Sword (ft. Terabrite) | Toby Turner | G: E Standard<br>B: E Standard | same as in-game | 5010829 |
