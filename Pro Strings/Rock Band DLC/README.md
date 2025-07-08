@@ -37,6 +37,7 @@
 | Rhiannon | Fleetwood Mac | G: E Standard<br>B: E Standard | same as in-game |
 | This Is a Call | Foo Fighters | G: E Standard<br>B: E Standard | same as in-game |
 | Feel Good Inc. | Gorillaz | G: E Standard<br>B: E Standard | G: E Standard<br> Eb Standard |
+| 21 Guns | Green Day | G: E Standard<br>B: E Standard | same as in-game |
 | Countdown to Insanity | H-Blockx | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
 | I Can't Go For That (No Can Do) | Hall & Oates | G: E Standard<br>B: E Standard | same as in-game |
 | Alone | Heart | G: E Standard<br>B: E Standard | G: same as in-game<br> B: Db Standard |
