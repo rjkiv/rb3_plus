@@ -1,0 +1,13 @@
+; Anamanaguchi - Airbrushed
+(UGC_5005691
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/ugc_5005691_plus.mid")
+   (song_id 5005691)
+   (rank
+      (real_guitar 362)
+      (real_bass 254)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rb3_plus_author ALBATROSS)
+)
