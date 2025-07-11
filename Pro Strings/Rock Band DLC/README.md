@@ -8,9 +8,11 @@
 | Party Hard | Andrew W.K. | G: E Standard<br>B: E Standard | same as in-game |
 | No Regrets | Authority Zero | G: E Standard<br>B: E Standard | same as in-game |
 | So Far Away | Avenged Sevenfold | G: E Standard<br>B: E Standard | same as in-game |
+| 21st Century (Digital Boy) | Bad Religion | G: E Standard<br>B: E Standard | same as in-game |
 | Night Fever | Bee Gees | G: E Standard<br>B: E Standard | same as in-game |
 | You Should Be Dancing | Bee Gees | G: E Standard<br>B: E Standard | same as in-game |
 | Mony Mony | Billy Idol | G: E Standard<br>B: E Standard | same as in-game |
+| What a Horrible Night to Have a Curse | The Black Dahlia Murder | G: E Standard<br>B: E Standard | G: C Standard<br>B: C Standard |
 | What's My Age Again? | Blink-182 | G: E Standard<br>B: E Standard | same as in-game |
 | It's My Life | Bon Jovi | G: E Standard<br>B: Drop D | G: E Standard<br>B: D Drop C |
 | The Diary of Jane | Breaking Benjamin | G: Drop D<br>B: Drop D | G: C Drop Bb<br>B: C Drop Bb |
@@ -29,10 +31,13 @@
 | Police Truck | Dead Kennedys | G: E Standard<br>B: E Standard | same as in-game |
 | Child in Time | Deep Purple | G: E Standard<br>B: E Standard | same as in-game |
 | Space Truckin' | Deep Purple | G: E Standard<br>B: E Standard | same as in-game |
+| Long Train Runnin' | Doobie Brothers | G: E Standard<br>B: E Standard | same as in-game |
+| Dance, Dance | Fall Out Boy | G: E Standard<br>B: E Standard | same as in-game |
 | Landslide | Fleetwood Mac | G: E Standard | G: G Standard (E Standard, capo on 3rd fret) |
 | Rhiannon | Fleetwood Mac | G: E Standard<br>B: E Standard | same as in-game |
 | This Is a Call | Foo Fighters | G: E Standard<br>B: E Standard | same as in-game |
 | Feel Good Inc. | Gorillaz | G: E Standard<br>B: E Standard | G: E Standard<br> Eb Standard |
+| 21 Guns | Green Day | G: E Standard<br>B: E Standard | same as in-game |
 | Countdown to Insanity | H-Blockx | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
 | I Can't Go For That (No Can Do) | Hall & Oates | G: E Standard<br>B: E Standard | same as in-game |
 | Alone | Heart | G: E Standard<br>B: E Standard | G: same as in-game<br> B: Db Standard |
@@ -49,8 +54,13 @@
 | Darling Dear | Little Fish | G: E Standard<br>B: E Standard | same as in-game |
 | Dawn Patrol | Megadeth | B: E Standard | same as in-game |
 | Party in the U.S.A. | Miley Cyrus | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
+| Hysteria | Muse | G: E Standard<br>B: E Standard | same as in-game |
 | Use It | The New Pornographers | G: E Standard<br>B: E Standard | same as in-game |
 | Last | Nine Inch Nails | G: Drop D<br>B: Drop D | same as in-game |
+| Sanctified | Nine Inch Nails | G: E Standard<br>B: E Standard | same as in-game |
+| Terrible Lie | Nine Inch Nails | G: E Standard<br>B: E Standard | same as in-game |
+| Blew | Nirvana | G: DADGBF<br>B: E Standard | G: CGCFAD#<br>B: C Standard
+| School | Nirvana | G: E Standard<br>B: E Standard | same as in-game |
 | Hella Good | No Doubt | G: E Standard<br>B: E Standard | same as in-game |
 | Tragic Kingdom | No Doubt | G: E Standard<br>B: E Standard | same as in-game |
 | Wonderwall | Oasis | G: E Standard<br>B: E Standard | G: F# Standard (E Standard, capo on 2nd fret)<br>B: same as in-game |
@@ -81,6 +91,8 @@
 | The Righteous and The Wicked | Red Hot Chili Peppers | G: E Standard<br>B: E Standard | G: same as in-game<br>B: B Standard |
 | They're Red Hot | Red Hot Chili Peppers | G: E Standard<br>B: E Standard | same as in-game |
 | Dragula | Rob Zombie | G: Drop D<br>B: E Standard | G: D Drop C<br>B: C Standard |
+| Living Dead Girl | Rob Zombie | G: Drop D<br>B: Drop D |  same as in-game |
+| Caravan | Rush | G: E Standard<br>B: E Standard | same as in-game |
 | Tom Sawyer (Original Version) | Rush | G: E Standard<br>B: E Standard | same as in-game |
 | YYZ | Rush | G: E Standard<br>B: E Standard | same as in-game |
 | They Say | Scars On Broadway | G: Drop D<br>B: Drop D | G: Drop C#<br>B: Drop C# |
@@ -89,8 +101,10 @@
 | The Best Day Ever | SpongeBob SquarePants | G: E Standard<br>B: E Standard | same as in-game |
 | B.Y.O.B. | System of a Down | G: Drop D<br>B: Drop D | G: Eb Drop Db<br>B: Eb Drop Db |
 | Toxicity | System of a Down | G: Drop D<br>B: Drop D | G: D Drop C<br>B: D Drop C |
+| Girlfriend Is Better | Talking Heads | G: E Standard<br>B: Drop D | same as in-game |
 | Head Over Heels | Tears for Fears | G: E Standard<br>B: E Standard | same as in-game |
 | Animal I Have Become | Three Days Grace | G: Drop D<br>B: Drop D | G: D Drop C<br>B: D Drop C  |
+| I Hate Everything About You | Three Days Grace | G: Drop D<br>B: Drop D | same as in-game |
 | Buddy Holly | Weezer | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
 | El Scorcho | Weezer | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
 | Pork and Beans | Weezer | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
@@ -99,3 +113,4 @@
 | Fell In Love With A Girl | The White Stripes | G: E Standard<br>B: N/A | same as in-game |
 | White Unicorn | Wolfmother | G: Drop D <br>B: E Standard | same as in-game |
 | She's Not There | The Zombies | G: E Standard<br>B: E Standard | same as in-game |
+| The Metal | Tenacious D | G: Drop D<br>B: Drop D | same as in-game |

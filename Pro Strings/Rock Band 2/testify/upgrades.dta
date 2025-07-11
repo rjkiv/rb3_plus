@@ -3,8 +3,8 @@
    (midi_file "songs_upgrades/testify_plus.mid")
    (song_id 316)
    (rank
-      (real_guitar 414)
-      (real_bass 414)
+      (real_guitar 307)
+      (real_bass 230)
    )
    (real_guitar_tuning (-2 0 0 0 0 0))
    (real_bass_tuning (-2 0 0 0))

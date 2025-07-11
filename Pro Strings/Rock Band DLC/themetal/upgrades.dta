@@ -1,0 +1,12 @@
+(themetal
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/themetal_plus.mid")
+   (song_id 1005789)
+   (rank
+      (real_guitar 400)
+      (real_bass 280)
+   )
+   (real_guitar_tuning (-2 0 0 0 0 0)) ; Drop D
+   (real_bass_tuning (-2 0 0 0)) ; Drop D
+   ;(strings_author K.TURN)
+)
