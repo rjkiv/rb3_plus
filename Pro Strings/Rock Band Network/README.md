@@ -2,6 +2,7 @@
 
 | Song Title | Artist(s) | Pro G/B Tunings (In-Game) | Pro G/B Tunings (Real) | UGC |
 | :--------: | :-------: | :---------------: | :------------: | :------------: |
+| Airbrushed | Anamanaguchi | G: E Standard<br>B: E Standard | same as in-game | 5005691 |
 | I Know What I Am | Band of Skulls | G: E Standard<br>B: E Standard | same as in-game | 5001804 |
 | The Man's Masterpiece | BioShaft | G: E Standard<br>B: E Standard | same as in-game | 5008431 |
 | Baptized By Fire | Chaotrope | G: E Standard<br>B: E Standard | same as in-game | 5004254 |
