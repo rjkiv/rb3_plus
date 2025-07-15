@@ -8,6 +8,7 @@
 | The Hourglass Paroxysm - Part II | Chaotrope | G: E Standard<br>B: Drop D | same as in-game | 5010012 |
 | Farewell, Mona Lisa | The Dillinger Escape Plan | G: E Standard<br>B: E Standard | same as in-game | 5006785 |
 | Farewell, Mona Lisa (2x Bass Pedal) | The Dillinger Escape Plan | G: E Standard<br>B: E Standard | same as in-game | 5006800 |
+| Six Is One | Free Electric State | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard | 5002996 |
 | You're Gonna Say Yeah! | Hushpuppies | G: E Standard<br>B: E Standard | same as in-game | 5011488 |
 | Half Crazy | Jukebox the Ghost | G: E Standard<br>B: E Standard | same as in-game | 5005762 |
 | Schizophrenia | Jukebox the Ghost | G: E Standard<br>B: E Standard | same as in-game | 5006114 |
