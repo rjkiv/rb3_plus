@@ -2,6 +2,7 @@
 
 | Song Title | Artist(s) | Pro G/B Tunings (In-Game) | Pro G/B Tunings (Real) | UGC |
 | :--------: | :-------: | :---------------: | :------------: | :------------: |
+| Airbrushed | Anamanaguchi | G: E Standard<br>B: E Standard | same as in-game | 5005691 |
 | I Know What I Am | Band of Skulls | G: E Standard<br>B: E Standard | same as in-game | 5001804 |
 | The Man's Masterpiece | BioShaft | G: E Standard<br>B: E Standard | same as in-game | 5008431 |
 | Baptized By Fire | Chaotrope | G: E Standard<br>B: E Standard | same as in-game | 5004254 |
@@ -12,6 +13,7 @@
 | Half Crazy | Jukebox the Ghost | G: E Standard<br>B: E Standard | same as in-game | 5005762 |
 | Schizophrenia | Jukebox the Ghost | G: E Standard<br>B: E Standard | same as in-game | 5006114 |
 | Act of War | Lich King | G: E Standard<br>B: E Standard | same as in-game | 5007213 |
+| Positive Force | Magnus 'SoulEye' Pålsson | G: E Standard<br>B: E Standard | G: same as in-game<br>B: Ab Standard | 5006273 |
 | Potential for Anything | Magnus 'SoulEye' Pålsson | G: E Standard<br>B: Drop D | same as in-game | 5008364 |
 | One Bad Man | Midnight Riders | G: E Standard<br>B: E Standard | same as in-game | 5001181 |
 | BEER!! | Psychostick | G: Drop D<br>B: Drop D | G: Drop C#<br>B: Drop C# | 5008844 |
