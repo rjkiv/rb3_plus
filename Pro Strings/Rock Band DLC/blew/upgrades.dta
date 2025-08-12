@@ -1,0 +1,12 @@
+(blew
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/blew_plus.mid")
+   (song_id 1005831)
+   (rank
+      (real_guitar 220)
+      (real_bass 180)
+   )
+   (real_guitar_tuning (-2 0 0 0 0 1))
+   (real_bass_tuning (0 0 0 0))
+   ;(rb3_plus_author MatthNerd)
+)

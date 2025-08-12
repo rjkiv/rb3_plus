@@ -1,0 +1,12 @@
+(dawnpatrol
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/dawnpatrol_plus.mid")
+   (song_id 1005909)
+   (rank
+      (real_guitar 0)
+      (real_bass 190)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rb3_plus_author MatthNerd, Carl Mylo (QC))
+)

@@ -1,0 +1,12 @@
+(dragula
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/dragula_plus.mid")
+   (song_id 1005813)
+   (rank
+      (real_guitar 175) ; low 1 dot
+      (real_bass 85) ; mid 0 dot
+   )
+   (real_guitar_tuning (-2 0 0 0 0 0)) ; D Drop C irl
+   (real_bass_tuning (0 0 0 0)) ; C standard irl
+   ;(rb3_plus_author RK)
+)

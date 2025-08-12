@@ -1,0 +1,13 @@
+; Psychostick - BEER!!
+(UGC_5008844
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/ugc_5008844_plus.mid")
+   (song_id 5008844)
+   (rank
+      (real_guitar 160)
+      (real_bass 35)
+   )
+   (real_guitar_tuning (-2 0 0 0 0 0))
+   (real_bass_tuning (-2 0 0 0))
+   ;(rb3_plus_author ALBATROSS)
+)

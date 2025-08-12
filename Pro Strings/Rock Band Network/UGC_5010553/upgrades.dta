@@ -1,0 +1,13 @@
+; Sweethammer - Robots
+(UGC_5010553
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/ugc_5010553_plus.mid")
+   (song_id 5010553)
+   (rank
+      (real_guitar 550)
+      (real_bass 550)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (-2 0 0 0))
+   ;(rb3_plus_author ALBATROSS)
+)

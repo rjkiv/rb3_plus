@@ -1,0 +1,12 @@
+(hysteria
+  (upgrade_version 1)
+  (midi_file "songs_upgrades/hysteria_plus.mid")
+  (song_id 1005111)
+  (rank
+    (real_guitar 377)
+    (real_bass 438)
+  )
+  (real_guitar_tuning (0 0 0 0 0 0))
+  (real_bass_tuning (0 0 0 0))
+  ;(rb3_plus_author ElFish)
+)

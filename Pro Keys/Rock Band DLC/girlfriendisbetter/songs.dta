@@ -1,0 +1,73 @@
+(girlfriendisbetter
+   (name "Girlfriend Is Better")
+   (artist "Talking Heads")
+   (master TRUE)
+   (context 852)
+   (song
+     (name        songs/girlfriendisbetter/girlfriendisbetter)
+     (vocal_parts 3)
+(tracks
+        ((drum (0 1 2 3 4 5))
+         (bass 6)
+         (guitar (7 8))
+         (vocals (9 10)
+         (keys (11 12))
+        )
+     )
+     
+
+     (pans        ( -1.0  1.0  -1.0  1.0   -1.0  1.0   0.0  -1.0  1.0  -1.0  1.0 -1.0  1.0 -1.0  1.0 ))
+     (vols        ( -1.8 -1.8  -2.0 -2.0   -3.4 -3.4  -2.2  -3.3 -3.3  -2.0 -2.0 -1.0 -1.0 -3.0 -3.0 ))
+     (cores       (  -1   -1    -1   -1     -1   -1    -1     1    1    -1   -1   -1   -1   -1   -1  ))
+     (drum_solo
+        (seqs (kick.cue snare.cue tom1.cue tom2.cue crash.cue))
+     )
+     (drum_freestyle
+        (seqs (kick.cue snare.cue hat.cue ride.cue crash.cue))
+     )
+     (midi_file songs/girlfriendisbetter/girlfriendisbetter_plus.mid)
+   )
+   (song_scroll_speed 2300)
+   (tuning_offset_cents -10)
+   (bank sfx/handclap_bank.milo)
+   (anim_tempo kTempoMedium)
+   (preview 72400 102400)
+   (rank
+      (drum 253)
+      (guitar 242)
+      (bass 273)
+      (keys 374)
+      (real_keys 413)
+      (vocals 289)
+      (band 246)
+   )
+   (genre new_wave)
+   (decade the80s)
+   (vocal_gender male)
+   (format 3)
+   (version 30)               ; Only modified by coders!
+    (fake {== $SONG_VERSION 0})   
+   (downloaded TRUE) 
+   (game_origin rb1) 
+   (song_id 1005776)         
+   (rating 1)           
+   (short_version 0) 
+   (album_art TRUE) 
+   (year_released 1983)
+   (album_name "Speaking in Tongues")   
+   (album_track_number 5)   
+   (video_venues (video_03))
+   (pack_name "Talking Heads Pack 01")  
+   (base_points 709212)
+; Added from RB3 DTB
+   (song_length 355000)
+   (solo (guitar vocal_percussion))
+   (format 10)
+   (game_origin rb1_dlc)
+; Added RB3 tonic info
+   (vocal_tonic_note 2)
+   (song_tonality 1)
+   (keys_author "BowlsforRick"); Transcription by Carl Mylo
+)
+
+
