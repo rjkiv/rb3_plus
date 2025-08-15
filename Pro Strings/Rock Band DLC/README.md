@@ -15,6 +15,7 @@
 | What a Horrible Night to Have a Curse | The Black Dahlia Murder | G: E Standard<br>B: E Standard | G: C Standard<br>B: C Standard |
 | What's My Age Again? | Blink-182 | G: E Standard<br>B: E Standard | same as in-game |
 | It's My Life | Bon Jovi | G: E Standard<br>B: Drop D | G: E Standard<br>B: D Drop C |
+| Peace of Mind | Boston | G: E Standard<br>B: E Standard | same as in-game |
 | The Diary of Jane | Breaking Benjamin | G: Drop D<br>B: Drop D | G: C Drop Bb<br>B: C Drop Bb |
 | Grenade | Bruno Mars | G: E Standard<br>B: E Standard | same as in-game |
 | Just the Way You Are | Bruno Mars | G: E Standard<br>B: Drop D | same as in-game |
