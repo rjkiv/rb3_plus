@@ -16,7 +16,7 @@ It's suggested to use [[Nautilus]](https://nemosnautilus.com/nautilus/) (formerl
 5. Click on `File` at the top then `Open USB Drive` and select your USB drive.
 6. Drag the CON file you extracted into RBtoUSB.  
 ![example_rbtousb_drag](../dependencies/example_rbtousb_drag.gif?raw=true "Dragging RB3 Pro Strings Pack in")
-7. Click on `File` at the top then `Close drive`. Remember to eject your USB drive before removing it!
+7. Click on `File` at the top then `Close drive`. Remember to safely eject your USB drive before removing it!
 
 #### JTAG/RGH
 8. On your JTAG/RGH Xbox, open the File Manager. Navigate to ```Hdd1/Content/0000000000000000/45410914/00000001```, and paste the CON file in.
