@@ -8,7 +8,7 @@ Installing Pro Strings upgrades from rb3_plus is easier than ever! Follow the in
 
 ### Xbox 360
 It's suggested to use [[Nautilus]](https://nemosnautilus.com/nautilus/) (formerly known as C3 CON Tools) to automatically put files in the correct locations on a USB drive.
-1. [[Click here to download the `.zip` file]] which contains the latest version of rb3_plus in CON file format.
+1. [[Click here to download the `.zip` file]](https://nightly.link/rjkiv/rb3_plus/workflows/build/main/RB3PlusProStrPack.zip) which contains the latest version of rb3_plus in CON file format.
 2. Extract the `.zip` file.
 3. Plug in your USB drive.
 4. Open Nautilus and click on RBtoUSB.
@@ -56,7 +56,7 @@ You can enjoy Pro Strings upgrades from rb3_plus by downloading Rock Band 3 Delu
 
 #### ⚠️ This requires clean Rock Band content files! ⚠️
 
-1. [[Click here to download the `.zip` file]](https://nightly.link/hmxmilohax/rock-band-3-deluxe/workflows/build/develop/RB3DX-YARG-Updates.zip) which contains the latest version of Rock Band 3 Deluxe YARG Updates.
+1. [[Click here to download the `.zip` file]](https://nightly.link/rjkiv/rb3_plus/workflows/build/main/RB3PlusProStrPack.zip)(https://nightly.link/hmxmilohax/rock-band-3-deluxe/workflows/build/develop/RB3DX-YARG-Updates.zip) which contains the latest version of Rock Band 3 Deluxe YARG Updates.
 2. Extract the .zip file.
 3. Drag the songs_updates folder to where you have your Rock Band songs.
   a. Do not drag songs_updates into the folder with your Rock Band songs!
