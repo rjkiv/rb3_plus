@@ -52,7 +52,7 @@ Below are the steps for manually installing Pro Strings upgrades for PS3.
 - That's it! Boot up RB3 and enjoy your upgrades!
 
 ### YARG
-You can enjoy Pro Strings upgrades from rb3_plus by downloading Rock Band 3 Deluxe's YARG Updates downloads.
+As of writing this, YARG does not support Pro Strings but will in the future! When that day comes, you will be able to enjoy Pro Strings upgrades from rb3_plus by downloading Rock Band 3 Deluxe's YARG Updates downloads.
 
 #### ⚠️ This requires clean Rock Band content files! ⚠️
 
