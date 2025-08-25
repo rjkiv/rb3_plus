@@ -12,7 +12,7 @@ It's suggested to use [[Nautilus]](https://nemosnautilus.com/nautilus/) (formerl
 2. Extract the `.zip` file.
 3. Plug in your USB drive.
 4. Open Nautilus and click on RBtoUSB.  
-![example_rbtousb_close](../dependencies/example_rbtousb_close.png?raw=true "Opening RBtoUSB in Nautilus")
+![example_rbtousb_nautilus](../dependencies/example_rbtousb_nautilus.png?raw=true "Opening RBtoUSB in Nautilus")
 5. Click on `File` at the top then `Open USB Drive` and select your USB drive.
 6. Drag the CON file you extracted into RBtoUSB.  
 ![example_rbtousb_drag](../dependencies/example_rbtousb_drag.gif?raw=true "Dragging RB3 Pro Strings Pack in")
