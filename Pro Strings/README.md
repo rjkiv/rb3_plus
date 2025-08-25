@@ -4,7 +4,7 @@
 ## Installation
 Installing Pro Strings upgrades from rb3_plus is easier than ever! Follow the instructions below for your system.
 
-### [[Rock Band 3 Deluxe]](https://rb3dx.milohax.org/install) users don't need to install this as it is already included in the mod! ⚠️</span>
+### ⚠️ [[Rock Band 3 Deluxe]](https://rb3dx.milohax.org/install) users don't need to install this as it is already included in the mod! ⚠️
 
 ### Xbox 360
 It's suggested to use [[Nautilus]](https://nemosnautilus.com/nautilus/) (formerly known as C3 CON Tools) to automatically put files in the correct locations on a USB drive.
@@ -61,6 +61,7 @@ You can enjoy Pro Strings upgrades from rb3_plus by downloading Rock Band 3 Delu
 3. Drag the songs_updates folder to where you have your Rock Band songs.
   a. Do not drag songs_updates into the folder with your Rock Band songs!
 4. In YARG, navigate to Settings > Songs > Scan Songs.
+
 ![example_YARG_folder](../dependencies/example_YARG_folder.webp?raw=true "Example YARG folder")
 
 
