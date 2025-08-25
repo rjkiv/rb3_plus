@@ -1,11 +1,13 @@
-## Pro Strings
+# Pro Strings
 <img src="../dependencies/progtr.png" width="20%" height="20%" align="left"> Pro string upgrades allow for all applicable songs to be played in either the Pro Guitar or Pro Bass mode, via the actual instruments' tabs. Every pro string upgrade midi in this repository has been authored by myself, UNLESS stated otherwise in that specific song's `upgrades.dta` file. Cases of this include, but may not be limited to, the authoring of pro bass tabs in addition to somebody else's pro guitar tabs, or replacing RBHP's optional pro string upgrades' auto-generated Easy/Medium/Hard tabs with manually authored ones.
 
 ## Installation
-<span style="font-size:20px">⚠️ <a target="_blank" href="https://rb3dx.milohax.org/install">[Rock Band 3 Deluxe]</a> users don't need to install this as it is already included in the mod! ⚠️</span>
+Installing Pro Strings upgrades from rb3_plus is easier than ever! Follow the instructions below for your system.
 
-## Xbox 360
-For Xbox 360, it's suggested to use [[Nautilus]](https://nemosnautilus.com/nautilus/) (formerly known as C3 CON Tools) to automatically put files in the correct locations on a USB drive.
+### [[Rock Band 3 Deluxe]](https://rb3dx.milohax.org/install) users don't need to install this as it is already included in the mod! ⚠️</span>
+
+### Xbox 360
+It's suggested to use [[Nautilus]](https://nemosnautilus.com/nautilus/) (formerly known as C3 CON Tools) to automatically put files in the correct locations on a USB drive.
 1. [[Click here to download the `.zip` file]] which contains the latest version of rb3_plus in CON file format.
 2. Extract the `.zip` file.
 3. Plug in your USB drive.
@@ -13,18 +15,19 @@ For Xbox 360, it's suggested to use [[Nautilus]](https://nemosnautilus.com/nauti
 5. Click on `File` at the top then `Open USB Drive` and select your USB drive.
 6. Drag the CON file you extracted into RBtoUSB.
 7. Click on `File` at the top then `Close drive`. Remember to eject your USB drive before removing it!
-### JTAG/RGH
+#### JTAG/RGH
 8. On your JTAG/RGH Xbox, open the File Manager. Navigate to ```Hdd1/Content/0000000000000000/45410914/00000001```, and paste the CON file in.
 9. Delete your RB3 song cache by deleting the ```songcache``` file.
 That's it! Boot up Rock Band 3 and enjoy your upgrade!
 
-### Xbox 360 (Retail)
+#### Xbox 360 (Retail)
 8. Once you have your CON file, move it to the same place as you would your other custom CONs.
 9. Also like the JTAG/RGH setup, it's recommended you delete your RB3 song cache. Navigate to your RB3 DLC location on your hard drive and delete the song cache there.
 
-## RPCS3
+### RPCS3
 Below are the steps for manually installing Pro Strings upgrades for RPCS3.
-<span style="font-size:20px">⚠️ It is highly recommended to use <a target="_blank" href="https://rb3dx.milohax.org/install">[Rock Band 3 Deluxe]</a> instead of having to do this. ⚠️</span>
+
+#### ⚠️ It is highly recommended to use [[Rock Band 3 Deluxe]](https://rb3dx.milohax.org/install) instead of having to do this. ⚠️
 
 1. Open up your system's file explorer, and navigate to where you have RPCS3 installed. 
 2. Go to ```dev_hdd0\game\BLUS30463\USRDIR```. Create the folder ```HMX0756``` if it does not exist. Then, navigate inside this folder.
@@ -35,9 +38,9 @@ Below are the steps for manually installing Pro Strings upgrades for RPCS3.
 5. Finally, open up Nautilus, and launch the PS3 Converter. Then click Encryption Options --> Encrypt replacement MIDI file(s). Navigate to the ```HMX0756``` folder from your RPCS3 install, and select the pro string's *_plus.mid you placed in there. The midi should now be encrypted and recognizable by RPCS3.
 - That's it! Boot up RB3 on RPCS3 and enjoy your upgrade!s
 
-## PS3
+### PS3
 Below are the steps for manually installing Pro Strings upgrades for PS3.
-<span style="font-size:20px">⚠️ It is highly recommended to use <a target="_blank" href="https://rb3dx.milohax.org/install">[Rock Band 3 Deluxe]</a> instead of having to do this. ⚠️</span>
+#### ⚠️ It is highly recommended to use [[Rock Band 3 Deluxe]](https://rb3dx.milohax.org/install) instead of having to do this. ⚠️
 
 1. In Nautilus, launch the PS3 Converter. Then click Encryption Options --> Encrypt replacement MIDI file(s). Take the MIDI file from this repository, and encrypt it. You should end up with a file formatted as *_plus.mid.edat. You can then have this on hand for use with an FTP transfer, or put it on a flash drive with the associated upgrades.dta.
 2. Using a tool on your PS3 like multiMAN or with an FTP connection, open up your PS3's file system. You will need a modded PS3 to do this.
@@ -48,10 +51,10 @@ Below are the steps for manually installing Pro Strings upgrades for PS3.
   b. If you HAVE posted an upgrade here before, open up the existing upgrades.dta, scroll down to the very bottom, and paste in the contents of the pro strings' upgrades.dta file.
 - That's it! Boot up RB3 and enjoy your upgrades!
 
-## YARG
+### YARG
 You can enjoy Pro Strings upgrades from rb3_plus by downloading Rock Band 3 Deluxe's YARG Updates downloads.
 
-<span style="font-size:20px">⚠️ This requires clean Rock Band content files! ⚠️</span>
+#### ⚠️ This requires clean Rock Band content files! ⚠️
 
 1. [[Click here to download the `.zip` file]](https://nightly.link/hmxmilohax/rock-band-3-deluxe/workflows/build/develop/RB3DX-YARG-Updates.zip) which contains the latest version of Rock Band 3 Deluxe YARG Updates.
 2. Extract the .zip file.
