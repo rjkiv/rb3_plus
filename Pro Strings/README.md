@@ -59,7 +59,7 @@ As of writing this, YARG does not support Pro Strings but will in the future! Wh
 
 #### ⚠️ This requires clean Rock Band content files! ⚠️
 
-1. [[Click here to download the `.zip` file]](https://nightly.link/rjkiv/rb3_plus/workflows/build/main/RB3PlusProStrPack.zip)(https://nightly.link/hmxmilohax/rock-band-3-deluxe/workflows/build/develop/RB3DX-YARG-Updates.zip) which contains the latest version of Rock Band 3 Deluxe YARG Updates.
+1. [[Click here to download the `.zip` file]](https://nightly.link/hmxmilohax/rock-band-3-deluxe/workflows/build/develop/RB3DX-YARG-Updates.zip) which contains the latest version of Rock Band 3 Deluxe YARG Updates.
 2. Extract the .zip file.
 3. Drag the songs_updates folder to where you have your Rock Band songs.
   a. Do not drag songs_updates into the folder with your Rock Band songs!
