@@ -1,5 +1,5 @@
 # Pro Strings
-<img src="../dependencies/progtr.png" width="20%" height="20%" align="left"> Pro Strings upgrades allow for all applicable songs to be played in either the Pro Guitar or Pro Bass mode, via the actual instruments' tabs. For details on each chart, 
+<img src="../dependencies/progtr.png" width="20%" height="20%" align="left"> Pro Strings upgrades allow for all applicable songs to be played in either the Pro Guitar or Pro Bass mode, via the actual instruments' tabs. If you need to see tuning information, please check the Readme file provided within the main folders. It includes information. If you wish to see the credits for a song's Pro Strings upgrade, each `upgrades.dta` file includes author information. rb3_plus strives for quality and prides itself on being an open source and peer reviewed project.
 
 ## Installation
 Installing Pro Strings upgrades from rb3_plus is easier than ever! Follow the instructions below for your system.
