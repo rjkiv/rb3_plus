@@ -20,3 +20,4 @@
 | Curse of the Werewolf | Timeless Miracle | G: E Standard<br>B: E Standard | same as in-game | 5005974| 
 | Curse of the Werewolf (2x Bass Pedal) | Timeless Miracle | G: E Standard<br>B: E Standard | same as in-game | 5005973 |
 | I Can Swing My Sword (ft. Terabrite) | Toby Turner | G: E Standard<br>B: E Standard | same as in-game | 5010829 |
+| Living in a Whirlwind | Warbringer | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard | 5003611 |
