@@ -1,5 +1,5 @@
 (naive
-   (name "Naïve")
+   (name "NaÃ¯ve")
    (artist "The Kooks")
    (master TRUE)
    (context 940)
@@ -43,7 +43,7 @@
    (vocal_gender male)
 
    (format 4)
-   (version 3)               ; Only modified by coders!
+   (version 30)               ; Only modified by coders!
    (fake {== $SONG_VERSION 0})   
    (downloaded TRUE) 
    (game_origin lego) ; game origin that the song is from    
@@ -62,4 +62,5 @@
    (song_tonality 1)
    (keys_author "BowlsforRick")
 )
+
 
