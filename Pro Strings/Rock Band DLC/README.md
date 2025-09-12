@@ -103,6 +103,7 @@
 | Toxicity | System of a Down | G: Drop D<br>B: Drop D | G: D Drop C<br>B: D Drop C |
 | Girlfriend Is Better | Talking Heads | G: E Standard<br>B: Drop D | same as in-game |
 | Head Over Heels | Tears for Fears | G: E Standard<br>B: E Standard | same as in-game |
+| The Metal | Tenacious D | G: Drop D<br>B: Drop D | same as in-game |
 | Animal I Have Become | Three Days Grace | G: Drop D<br>B: Drop D | G: D Drop C<br>B: D Drop C  |
 | I Hate Everything About You | Three Days Grace | G: Drop D<br>B: Drop D | same as in-game |
 | Buddy Holly | Weezer | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
@@ -112,5 +113,5 @@
 | Seven Nation Army | The White Stripes | G: E Standard<br>B: E Standard | same as in-game |
 | Fell In Love With A Girl | The White Stripes | G: E Standard<br>B: N/A | same as in-game |
 | White Unicorn | Wolfmother | G: Drop D <br>B: E Standard | same as in-game |
+| Date with the Night | Yeah Yeah Yeahs | G: E Standard <br>B: E Standard | same as in-game |
 | She's Not There | The Zombies | G: E Standard<br>B: E Standard | same as in-game |
-| The Metal | Tenacious D | G: Drop D<br>B: Drop D | same as in-game |
