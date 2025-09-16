@@ -60,6 +60,7 @@
 | Sanctified | Nine Inch Nails | G: E Standard<br>B: E Standard | same as in-game |
 | Terrible Lie | Nine Inch Nails | G: E Standard<br>B: E Standard | same as in-game |
 | Blew | Nirvana | G: DADGBF<br>B: E Standard | G: CGCFAD#<br>B: C Standard
+| Rape Me | Nirvana | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
 | School | Nirvana | G: E Standard<br>B: E Standard | same as in-game |
 | Hella Good | No Doubt | G: E Standard<br>B: E Standard | same as in-game |
 | Tragic Kingdom | No Doubt | G: E Standard<br>B: E Standard | same as in-game |
