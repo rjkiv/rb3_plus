@@ -8,6 +8,7 @@
 | Party Hard | Andrew W.K. | G: E Standard<br>B: E Standard | same as in-game |
 | No Regrets | Authority Zero | G: E Standard<br>B: E Standard | same as in-game |
 | So Far Away | Avenged Sevenfold | G: E Standard<br>B: E Standard | same as in-game |
+| 21st Century (Digital Boy) | Bad Religion | G: E Standard<br>B: E Standard | same as in-game |
 | Night Fever | Bee Gees | G: E Standard<br>B: E Standard | same as in-game |
 | You Should Be Dancing | Bee Gees | G: E Standard<br>B: E Standard | same as in-game |
 | Mony Mony | Billy Idol | G: E Standard<br>B: E Standard | same as in-game |
@@ -36,6 +37,7 @@
 | Rhiannon | Fleetwood Mac | G: E Standard<br>B: E Standard | same as in-game |
 | This Is a Call | Foo Fighters | G: E Standard<br>B: E Standard | same as in-game |
 | Feel Good Inc. | Gorillaz | G: E Standard<br>B: E Standard | G: E Standard<br> Eb Standard |
+| 21 Guns | Green Day | G: E Standard<br>B: E Standard | same as in-game |
 | Countdown to Insanity | H-Blockx | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
 | I Can't Go For That (No Can Do) | Hall & Oates | G: E Standard<br>B: E Standard | same as in-game |
 | Alone | Heart | G: E Standard<br>B: E Standard | G: same as in-game<br> B: Db Standard |
@@ -89,6 +91,7 @@
 | The Righteous and The Wicked | Red Hot Chili Peppers | G: E Standard<br>B: E Standard | G: same as in-game<br>B: B Standard |
 | They're Red Hot | Red Hot Chili Peppers | G: E Standard<br>B: E Standard | same as in-game |
 | Dragula | Rob Zombie | G: Drop D<br>B: E Standard | G: D Drop C<br>B: C Standard |
+| Living Dead Girl | Rob Zombie | G: Drop D<br>B: Drop D |  same as in-game |
 | Caravan | Rush | G: E Standard<br>B: E Standard | same as in-game |
 | Tom Sawyer (Original Version) | Rush | G: E Standard<br>B: E Standard | same as in-game |
 | YYZ | Rush | G: E Standard<br>B: E Standard | same as in-game |
@@ -111,3 +114,4 @@
 | Fell In Love With A Girl | The White Stripes | G: E Standard<br>B: N/A | same as in-game |
 | White Unicorn | Wolfmother | G: Drop D <br>B: E Standard | same as in-game |
 | She's Not There | The Zombies | G: E Standard<br>B: E Standard | same as in-game |
+| The Metal | Tenacious D | G: Drop D<br>B: Drop D | same as in-game |
