@@ -3,7 +3,7 @@
    (midi_file "songs_upgrades/themiddle_plus.mid")
    (song_id 318)
    (rank
-      (real_guitar 153)
+      (real_guitar 227)
       (real_bass 53)
    )
    (real_guitar_tuning (-2 0 0 0 0 0))
