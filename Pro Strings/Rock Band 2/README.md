@@ -30,8 +30,8 @@
 | PDA | Interpol | G: E Standard<br>B: Drop D | same as in-game |
 | Mountain Song | Jane's Addiction | G: E Standard<br>B: E Standard | same as in-game |
 | Aqualung | Jethro Tull | G: E Standard<br>B: E Standard | same as in-game |
-| Bad Reputation | Joan Jett | G: E Standard<br>B: E Standard | same as in-game |
 | The Middle | Jimmy Eat World | G: Drop D<br>B: Drop D | same as in-game |
+| Bad Reputation | Joan Jett | G: E Standard<br>B: E Standard | same as in-game |
 | Any Way You Want It | Journey | G: E Standard<br>B: E Standard | same as in-game |
 | Painkiller | Judas Priest | G: E Standard<br>B: E Standard | same as in-game |
 | Carry On Wayward Son | Kansas | G: E Standard<br>B: E Standard | same as in-game |
