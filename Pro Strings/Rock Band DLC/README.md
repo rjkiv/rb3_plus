@@ -77,18 +77,18 @@
 | Blood Sugar Sex Magik | Red Hot Chili Peppers | G: E Standard<br>B: E Standard | same as in-game |
 | Breaking the Girl | Red Hot Chili Peppers | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: same as in-game |
 | Funky Monks | Red Hot Chili Peppers | G: E Standard<br>B: E Standard | G: same as in-game<br>B: B Standard |
+| The Greeting Song | Red Hot Chili Peppers | G: E Standard<br>B: E Standard | same as in-game |
 | I Could Have Lied | Red Hot Chili Peppers | G: E Standard<br>B: E Standard | same as in-game |
 | If You Have to Ask | Red Hot Chili Peppers | G: E Standard<br>B: Drop D | same as in-game |
 | Mellowship Slinky in B Major | Red Hot Chili Peppers | G: E Standard<br>B: E Standard | same as in-game |
 | My Lovely Man | Red Hot Chili Peppers | G: E Standard<br>B: E Standard | same as in-game |
 | Naked in the Rain | Red Hot Chili Peppers | G: E Standard<br>B: Drop D | same as in-game |
+| The Power of Equality | Red Hot Chili Peppers | G: E A D G B Eb<br>B: Eb A D G | same as in-game |
+| The Righteous and The Wicked | Red Hot Chili Peppers | G: E Standard<br>B: E Standard | G: same as in-game<br>B: B Standard |
 | Sir Psycho Sexy | Red Hot Chili Peppers | G: E Standard<br>B: E Standard | same as in-game |
 | Snow ((Hey Oh)) | Red Hot Chili Peppers | G: E Standard<br>B: E Standard | same as in-game |
 | Suck My Kiss | Red Hot Chili Peppers | G: E Standard<br>B: E Standard | same as in-game |
 | Tell Me Baby | Red Hot Chili Peppers | G: E Standard<br>B: E Standard | same as in-game |
-| The Greeting Song | Red Hot Chili Peppers | G: E Standard<br>B: E Standard | same as in-game |
-| The Power of Equality | Red Hot Chili Peppers | G: E A D G B Eb<br>B: Eb A D G | same as in-game |
-| The Righteous and The Wicked | Red Hot Chili Peppers | G: E Standard<br>B: E Standard | G: same as in-game<br>B: B Standard |
 | They're Red Hot | Red Hot Chili Peppers | G: E Standard<br>B: E Standard | same as in-game |
 | Dragula | Rob Zombie | G: Drop D<br>B: E Standard | G: D Drop C<br>B: C Standard |
 | Living Dead Girl | Rob Zombie | G: Drop D<br>B: Drop D |  same as in-game |
@@ -110,9 +110,9 @@
 | El Scorcho | Weezer | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
 | Pork and Beans | Weezer | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
 | Undone (The Sweater Song) | Weezer | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
+| Fell In Love With A Girl | The White Stripes | G: E Standard<br>B: N/A | same as in-game |
 | Girl, You Have No Faith In Medicine | The White Stripes | G: E Standard<br>B: E Standard | same as in-game |
 | Seven Nation Army | The White Stripes | G: E Standard<br>B: E Standard | same as in-game |
-| Fell In Love With A Girl | The White Stripes | G: E Standard<br>B: N/A | same as in-game |
 | White Unicorn | Wolfmother | G: Drop D <br>B: E Standard | same as in-game |
 | Date with the Night | Yeah Yeah Yeahs | G: E Standard <br>B: E Standard | same as in-game |
 | She's Not There | The Zombies | G: E Standard<br>B: E Standard | same as in-game |
