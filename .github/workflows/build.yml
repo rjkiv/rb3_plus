@@ -22,7 +22,7 @@ jobs:
           ./dependencies/onyx-20230130-linux-x64.AppImage stfs --help
       - name: Create folder containing CON file's contents
         run: |
-          python dependencies/pro_pack_prep.py
+          python dependencies/pro_pack_prep.py xbox
       - name: Create CON from content folder
         run: |
           mkdir output
@@ -30,6 +30,26 @@ jobs:
       - name: Upload result
         uses: actions/upload-artifact@v4
         with:
-          name: RB3PlusProStrPack
+          name: RB3PlusProStrPack-Xbox
           path: |
             output
+  build_ps3_pro_strings_pkg:
+    runs-on: windows-2025
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python 3.9
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      - name: Create folder containing PKG file's contents
+        run: |
+          python dependencies/pro_pack_prep.py ps3
+      - name: Build PKG
+        run: |
+          dependencies/RB3DLCBuildPkgPS3.exe _tmp/ps3 RB3PLUSPROSTRING .
+      - name: Upload result
+        uses: actions/upload-artifact@v4
+        with:
+          name: RB3PlusProStrPack-PS3
+          path: '*.pkg'
+
