@@ -55,4 +55,7 @@ if platform == "ps3":
     for midi in dest_root.glob("*.mid"):
         # make an encrypted edat and place it in the upgrades directory        
         subprocess.run([Path().absolute().joinpath("tools").joinpath("tool_dependencies").joinpath("edattool.exe"), "encrypt", "-custom:5a4355db9bfea4a918ec92ae4110ff4f", "UP8802-BLUS30463_00-RB3PLUSPROSTRING", "00", "00", "00", midi, dest_root.joinpath(f'{midi.name}.edat')])
+        # KLIC: 5a4355db9bfea4a918ec92ae4110ff4f
+        # This KLIC was created by viewing the onyx source code
+        # https://github.com/mtolly/onyx/blob/ad8dc396ce90a3ace3a8d69164de5564f1904207/haskell/packages/onyx-npdata/src/Onyx/PlayStation/NPData.hs line 243
         midi.unlink()
