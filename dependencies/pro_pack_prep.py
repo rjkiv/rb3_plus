@@ -5,7 +5,6 @@ from pathlib import Path
 if len(sys.argv) < 2:
     print("Usage: pro_pack_prep.py <ps3|xbox>")
     sys.exit(1)
-    Usage: make_npdata
 platform = sys.argv[1].lower()
 if platform not in ("ps3", "xbox"):
     print("ERROR: Invalid platform")
