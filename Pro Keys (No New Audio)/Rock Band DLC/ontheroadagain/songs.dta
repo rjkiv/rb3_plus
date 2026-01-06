@@ -10,7 +10,7 @@
          (bass 3)
          (guitar (4 5))
          (vocals (6 7))
-         (keys (8 9)
+         (keys (8 9))
         )
      )
      ;                K    SN&CYMBALS    BS     GUITAR     VOCALS     TRACKS
