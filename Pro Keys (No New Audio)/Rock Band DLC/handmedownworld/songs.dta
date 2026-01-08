@@ -56,9 +56,10 @@
    (album_track_number 3)   ; OPTIONAL (would require album_name if added). If omitted Set Challenges use difficulty sorting.
    ;(pack_name "^^^Moonwalk (or die...) 3-pack^^^")  ; OPTIONAL
    (base_points 495087)
-   (vocal_tonic_note 4)
-   (song_tonality 1)
+   (vocal_tonic_note 11)
+   (song_tonality 0)
    (keys_author "BowlsforRick")
 )
+
 
 
