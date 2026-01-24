@@ -50,9 +50,11 @@
    (album_name "Are You Dead Yet?")   ; OPTIONAL  (e.g. for covers)
    (album_track_number 2)   ; OPTIONAL (would require album_name if added). If omitted Set Challenges use difficulty sorting.
    ;(pack_name "^^^Moonwalk (or die...) 3-pack^^^")  ; OPTIONAL
+   (vocal_tonic_note 0)
+   (song_tonality 1)
    (base_points 576312)
-   (song_id 1005363)
    (keys_author "Stock123")
 )
+
 
 
