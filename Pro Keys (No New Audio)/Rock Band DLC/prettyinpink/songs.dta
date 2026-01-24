@@ -47,7 +47,6 @@
    (downloaded TRUE)    
    (album_art TRUE) 
    (year_released 1981)
-   (song_id 1005276)
    (album_name "Talk Talk Talk")   
    (album_track_number 3)
    (vocal_tonic_note 2)
@@ -55,5 +54,6 @@
    (base_points 527035)
    (keys_author "Stock123")
 )
+
 
 
