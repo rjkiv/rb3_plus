@@ -45,12 +45,13 @@
    (vocal_gender male)
    (format 2)
    (version 30)               ; Only modified by coders!
-   (year_released 1970)
+   (year_released 1976)
    (album_name "Boston")
    (album_track_number 10) 
    (vocal_tonic_note 4)
    (song_tonality 0)
    (keys_author "BowlsforRick, SonicSBL")
 )
+
 
 
