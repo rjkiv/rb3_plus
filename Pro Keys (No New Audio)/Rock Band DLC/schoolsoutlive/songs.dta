@@ -48,7 +48,6 @@
    (downloaded TRUE)    
    (album_art TRUE) ; if TRUE, the actual album art will be required
    (year_released 1995)
-   (song_id 1005563)
    (album_name "Classicks")   ; OPTIONAL  (e.g. for covers)
    (album_track_number 14)   ; OPTIONAL (would require album_name if added). If omitted Set Challenges use difficulty sorting.
    (pack_name "Alice Cooper Pack 01")  ; OPTIONAL
@@ -57,5 +56,6 @@
    (base_points 428114)
    (keys_author "Stock123")
 )
+
 
 
