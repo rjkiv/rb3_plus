@@ -13,10 +13,10 @@
          (keys (8 9))
         )
      )
-     ;                K    SN/CYM     BS     GUITAR     VOCALS     TRACKS
-     (pans        (  0.0  -1.0  1.0   0.0  -1.0  1.0  -1.0  1.0  -1.0  1.0 ))  
-     (vols        ( -0.6  -2.5 -2.5  -4.5  -3.5 -3.5  -2.0 -2.0  -4.5 -4.5 ))
-     (cores       (  -1    -1   -1    -1     1    1    -1   -1    -1   -1  ))
+     ;                K    SN/CYM     BS     GUITAR     VOCALS     KEYS     TRACKS
+     (pans        (  0.0  -1.0  1.0   0.0  -1.0  1.0  -1.0  1.0  -1.0  1.0  -1.0  1.0 ))  
+     (vols        ( -0.6  -2.5 -2.5  -4.5  -3.5 -3.5  -2.0 -2.0  -3.5 -3.5  -4.5 -4.5 ))
+     (cores       (  -1    -1   -1    -1     1    1    -1   -1    -1   -1    -1   -1  ))
      (drum_solo
         (seqs (kick.cue snare.cue tom1.cue tom2.cue crash.cue))
      )
@@ -56,5 +56,6 @@
    (song_tonality 0)
    (keys_author "BowlsforRick")
 )
+
 
 
