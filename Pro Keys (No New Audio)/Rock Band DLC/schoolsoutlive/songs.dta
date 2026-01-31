@@ -43,7 +43,7 @@
    (decade the90s)
    (vocal_gender male)
    (format 3)
-   (version 3)               ; Only modified by coders!
+   (version 30)               ; Only modified by coders!
    (fake {== $SONG_VERSION 0})   
    (downloaded TRUE)    
    (album_art TRUE) ; if TRUE, the actual album art will be required
@@ -56,6 +56,7 @@
    (base_points 428114)
    (keys_author "Stock123")
 )
+
 
 
 
