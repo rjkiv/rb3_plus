@@ -4,7 +4,33 @@
 # Installation
 
 ## Rock Band 3 Deluxe
-To play these upgrades on RB3DX, visit the repo, click the "Actions" tab, and select the build for your specific console that has keys enabled.
+To play these upgrades on RB3DX, visit the website, click "Downloads," and select the link for your specific console. However, you will need to replace some files to make the keys audio work.
+
+### Xbox 360
+- TBA
+
+### PS3 (CFW/HEN)
+To make keys moggs work on PS3, you will need to manually replace the one installed on your system as well as the song's dta file.
+- Open Nautilus, and launch the PS3 Converter. Under "Encryption Options," select "Encrypt replacement mogg file."
+- Select the mogg you got from this repo.
+- Use an FTP client to transfer the new mogg and dta. (We recommend installing webMAN MOD or multiMAN for this.) Navigate to the game directory: ```dev_hdd0\game\BLUS30147\USRDIR``` for RBN songs; ```dev_hdd0\game\BLUS30050\USRDIR``` for everything else. Find the folder that contains the original song.
+- Back up the original songs.dta to a safe location.
+- If the songs.dta has only one song, simply overwrite it with the dta you got from this repo. However, if it's a pack of songs, you will need to open the new dta with the text editor of your choice, copy all of its contents, and paste them into the array that contains the upgraded song in the songs.dta on your system, replacing the original.
+- Enter the song folder with the shortname of your mogg. Back up the original like you did with the songs.dta.
+- Now, copy the newly encrypted mogg to the folder, overwriting the original.
+Your song should be ready to play. If the game crashes when trying to preview the audio, it has too many channels for the quality it was encoded with. You'll need Audacity to extract the stems and the Mogg Maker in Nautilus to make a new mogg.
+
+- Start over by redownloading the mogg you got here, or use the Batch Cryptor in Nautilus to decrypt it. Open it in Audacity.
+- Identify the stereo stems using the songs.dta as a guide and combine them into stereo tracks using the menu on the top track of each pair. Leave mono stems alone for now.
+Export each track as a WAV file (one at a time) via File > Export Audio. Name each one according to it contents (kick, snare, kit, bass, guitar, etc.) Leave the Audio Options alone except for Channels. This will need to be set according to the stem. In most cases, bass and kick drum stems are mono, and everything else is stereo. It defaults to Stereo, so be careful! Export range should be set to Current Selection with "Trim blank space before first clip" unchecked.
+- Launch the Mogg Maker in Nautilus. Drag and drop the newly exported stems in the order they appear in the mogg you got from here.
+- Under Settings, set Encoding quality to 3, and check "Encrypt Mogg." Then click "Make Mogg."
+- When it's finished, save it over the downloaded mogg or as a new file with the same name somewhere else.
+- Transfer the fixed mogg to your console as described in the above section.
+- Boot up RB3 Deluxe and enjoy!
+
+### RPCS3
+- TBA
 
 Alternatively, if you do not have the means to install RB3DX onto your system, you can use the methods below in order to play these key upgrades - however, please note that due to how the vanilla version of RB3 handles legacy songs, the venue will be broken, and you will have one static camera angle throughout the song if you play on keys. If that does not bother you, please continue reading to see how to install these upgrades for your preferred system.
 
