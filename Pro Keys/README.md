@@ -18,11 +18,16 @@ To make keys moggs work on PS3, you will need to manually replace the one instal
 - If the songs.dta has only one song, simply overwrite it with the dta you got from this repo. However, if it's a pack of songs, you will need to open the new dta with the text editor of your choice, copy all of its contents, and paste them into the array that contains the upgraded song in the songs.dta on your system, replacing the original.
 - Enter the song folder with the shortname of your mogg. Back up the original like you did with the songs.dta.
 - Now, copy the newly encrypted mogg to the folder, overwriting the original.
-Your song should be ready to play. If the game crashes when trying to preview the audio, it has too many channels for the quality it was encoded with. You'll need Audacity to extract the stems and the Mogg Maker in Nautilus to make a new mogg.
+- Your song is now ready to play. Boot up RB3 Deluxe and enjoy!
 
+### Advanced
+If the game crashes when trying to preview the audio, it has too many channels for the quality it was encoded with. You'll need Audacity to extract the stems and the Mogg Maker in Nautilus to make a new mogg. Follow the steps below.
 - Start over by redownloading the mogg you got here, or use the Batch Cryptor in Nautilus to decrypt it. Open it in Audacity.
-- Identify the stereo stems using the songs.dta as a guide and combine them into stereo tracks using the menu on the top track of each pair. Leave mono stems alone for now.
-Export each track as a WAV file (one at a time) via File > Export Audio. Name each one according to it contents (kick, snare, kit, bass, guitar, etc.) Leave the Audio Options alone except for Channels. This will need to be set according to the stem. In most cases, bass and kick drum stems are mono, and everything else is stereo. It defaults to Stereo, so be careful! Export range should be set to Current Selection with "Trim blank space before first clip" unchecked.
+- Identify the stereo stems using the songs.dta as a guide and combine them into stereo tracks using the menu on the top track of each pair. Leave mono stems alone.
+- Export each track as a WAV file (one at a time) via File > Export Audio.
+   -Name each one according to it contents (kick, snare, kit, bass, guitar, etc.)
+  - Leave the Audio Options alone except for Channels. This will need to be set according to the stem. In most cases, bass and kick drum stems are mono, and everything else is stereo. It defaults to Stereo, so be careful!
+  - Export range should be set to Current Selection with "Trim blank space before first clip" unchecked.
 - Launch the Mogg Maker in Nautilus. Drag and drop the newly exported stems in the order they appear in the mogg you got from here.
 - Under Settings, set Encoding quality to 3, and check "Encrypt Mogg." Then click "Make Mogg."
 - When it's finished, save it over the downloaded mogg or as a new file with the same name somewhere else.
