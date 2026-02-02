@@ -17,3 +17,4 @@ Finally, I would like to note some other teams as well as individual authors who
 - [Onyxite](https://github.com/mtolly/onyxite-customs), for creating a phenomenal tool for creating CON files (as seen in the Actions tab), as well as several other neat features, like converting songs between different rhythm game titles.
 - [Ruggy](https://therogerland.tumblr.com/proguide), for creating an excellent written guide on how to author pro string charts, as well as contributing several of his own pro string upgrades.
 - [Ziggy](https://code.google.com/archive/p/ziggy-pro-editor/), for authoring many, many pro guitar charts in RB3's prime - several of which were used as bases for pro string upgrades in this repo.
+- [InvoxiPlayGames](https://github.com/InvoxiPlayGames/SCEllSharp), for the code of an amazing tool to create PKG files in C# (as seen in the Actions tab)

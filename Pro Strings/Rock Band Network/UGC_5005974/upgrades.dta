@@ -1,0 +1,13 @@
+; Timeless Miracle - Curse of the Werewolf
+(UGC_5005974
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/ugc_5005974_plus.mid")
+   (song_id 5005974)
+   (rank
+      (real_guitar 480)
+      (real_bass 480)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rb3_plus_author MatthNerd)
+)

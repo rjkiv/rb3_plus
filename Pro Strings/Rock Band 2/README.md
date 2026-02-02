@@ -15,6 +15,7 @@
 | White Wedding (Part 1) | Billy Idol | G: E Standard<br>B: E Standard | same as in-game |
 | One Way or Another | Blondie | G: E Standard<br>B: E Standard | same as in-game |
 | Tangled Up in Blue | Bob Dylan | G: E Standard<br>B: E Standard | same as in-game |
+| Hello There | Cheap Trick | G: E Standard<br>B: E Standard | same as in-game |
 | Uncontrollable Urge | Devo | G: E Standard<br>B: E Standard | same as in-game |
 | Feel the Pain | Dinosaur Jr. | G: E Standard<br>B: E Standard | G: G Standard (E standard, capo on 3rd fret)<br>B: same as in-game |
 | Down with the Sickness | Disturbed | G: Drop D<br>B: Drop D | G: Eb Drop Db<br>B: Eb Drop Db |
@@ -30,8 +31,8 @@
 | PDA | Interpol | G: E Standard<br>B: Drop D | same as in-game |
 | Mountain Song | Jane's Addiction | G: E Standard<br>B: E Standard | same as in-game |
 | Aqualung | Jethro Tull | G: E Standard<br>B: E Standard | same as in-game |
-| Bad Reputation | Joan Jett | G: E Standard<br>B: E Standard | same as in-game |
 | The Middle | Jimmy Eat World | G: Drop D<br>B: Drop D | same as in-game |
+| Bad Reputation | Joan Jett | G: E Standard<br>B: E Standard | same as in-game |
 | Any Way You Want It | Journey | G: E Standard<br>B: E Standard | same as in-game |
 | Painkiller | Judas Priest | G: E Standard<br>B: E Standard | same as in-game |
 | Carry On Wayward Son | Kansas | G: E Standard<br>B: E Standard | same as in-game |

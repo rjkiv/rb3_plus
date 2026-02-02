@@ -1,0 +1,12 @@
+(rio
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/rio_plus.mid")
+   (song_id 1005196)
+   (rank
+      (real_guitar 299)
+      (real_bass 370)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rb3_plus_author jawnintendo)
+)
