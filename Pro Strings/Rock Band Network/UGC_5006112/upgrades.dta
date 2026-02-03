@@ -1,0 +1,13 @@
+; Magnus 'SoulEye' Pålsson - Pressure Cooker
+(UGC_5006112
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/ugc_5006112_plus.mid")
+   (song_id 5006112)
+   (rank
+      (real_guitar 486)
+      (real_bass 450)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rb3_plus_author ALBATROSS)
+)
