@@ -35,8 +35,8 @@
       (guitar 266)
       (bass 135)
       (vocals 111)
-      (keys 1)
-      (real_keys 471)
+      (keys 464)
+      (real_keys 479)
       (band 275)
    )
    (genre classicrock)
@@ -54,6 +54,7 @@
    (song_tonality 0)
    (keys_author "BowlsforRick")
 )
+
 
 
 
