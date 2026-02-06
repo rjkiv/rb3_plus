@@ -1,0 +1,12 @@
+(sanctified
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/sanctified_plus.mid")
+   (song_id 1010196)
+   (rank
+     (real_guitar 227)
+     (real_bass 307)
+	)
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rb3_plus_author Carl Mylo, RK (QC))
+)

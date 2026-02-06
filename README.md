@@ -8,7 +8,7 @@ The main types of upgrades featured in this repository add song parts for harmon
 I would love contributions from other passionate, dedicated upgrade authors! If you would like to contribute an upgrade of your own, please fork this repository and submit a pull request containing your upgrade.
 
 # Questions?
-If you have a question, issue or comment, please open up an issue on this repository, or comment on the YouTube videos that showcase these upgrades.
+If you have a question, issue or comment, please open up an issue on this repository, comment on the YouTube videos that showcase these upgrades, or join the [MiloHax](https://discord.gg/milohax) #rb-plus discord channel, where the majority of discussion regarding the project takes place.
 
 # Acknowledgements
 Finally, I would like to note some other teams as well as individual authors who have done excellent work in tweaking RB3 to be the best game it can be:
@@ -17,3 +17,4 @@ Finally, I would like to note some other teams as well as individual authors who
 - [Onyxite](https://github.com/mtolly/onyxite-customs), for creating a phenomenal tool for creating CON files (as seen in the Actions tab), as well as several other neat features, like converting songs between different rhythm game titles.
 - [Ruggy](https://therogerland.tumblr.com/proguide), for creating an excellent written guide on how to author pro string charts, as well as contributing several of his own pro string upgrades.
 - [Ziggy](https://code.google.com/archive/p/ziggy-pro-editor/), for authoring many, many pro guitar charts in RB3's prime - several of which were used as bases for pro string upgrades in this repo.
+- [InvoxiPlayGames](https://github.com/InvoxiPlayGames/SCEllSharp), for the code of an amazing tool to create PKG files in C# (as seen in the Actions tab)
