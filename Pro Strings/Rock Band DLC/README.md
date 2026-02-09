@@ -23,6 +23,7 @@
 | Countdown to Insanity | H-Blockx | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
 | Wings of a Butterfly | HIM | G: Drop D<br>B: E Standard | G: Drop C<br> C Standard |
 | Run to the Hills (Original Version) | Iron Maiden | G: E Standard<br>B: E Standard | same as in-game |
+| Re: Your Brains | Jonathan Coulton | G: E Standard<br>B: E Standard | same as in-game |
 | Don't Stop Believing | Journey | G: E Standard<br>B: E Standard | same as in-game |
 | Mr. Brightside | The Killers | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
 | Darling Dear | Little Fish | G: E Standard<br>B: E Standard | same as in-game |
