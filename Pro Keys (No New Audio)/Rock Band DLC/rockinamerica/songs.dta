@@ -34,8 +34,8 @@
       (guitar 403)
       (bass 248)
       (vocals 251)
-      (keys 317)
-      (real_keys 363)
+      (keys 409)
+      (real_keys 398)
       (band 346)
    )
    (genre rock)
@@ -59,6 +59,7 @@
    (base_points 600808)
    (keys_author "Stock123")
 )
+
 
 
 
