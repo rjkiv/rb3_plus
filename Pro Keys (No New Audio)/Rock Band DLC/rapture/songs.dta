@@ -35,8 +35,8 @@
       (drum 311)
       (guitar 235)
       (bass 240)
-      (keys 317)
-      (real_keys 363)
+      (keys 339)
+      (real_keys 404)
       (vocals 160)
       (band 260)
    )
@@ -64,5 +64,6 @@
    (base_points 937862)
    ;(encoding latin1) ; OPTIONAL, required if name, artist, album_name, or pack_name contain non-ascii characters
 )
+
 
 
