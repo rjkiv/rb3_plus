@@ -40,6 +40,7 @@
       (vocals 160)
       (band 260)
    )
+   (solo (keys))
    (genre new_wave)
    (decade the80s)
    (vocal_gender female)
@@ -64,6 +65,7 @@
    (base_points 937862)
    ;(encoding latin1) ; OPTIONAL, required if name, artist, album_name, or pack_name contain non-ascii characters
 )
+
 
 
 
