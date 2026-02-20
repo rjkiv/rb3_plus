@@ -61,7 +61,6 @@
 | They're Red Hot | Red Hot Chili Peppers | G: E Standard<br>B: E Standard | same as in-game |
 | Dragula | Rob Zombie | G: Drop D<br>B: E Standard | G: D Drop C<br>B: C Standard |
 | Living Dead Girl | Rob Zombie | G: Drop D<br>B: Drop D |  same as in-game |
-| Caravan | Rush | G: E Standard<br>B: E Standard | same as in-game |
 | Tom Sawyer (Original Version) | Rush | G: E Standard<br>B: E Standard | same as in-game |
 | YYZ | Rush | G: E Standard<br>B: E Standard | same as in-game |
 | They Say | Scars On Broadway | G: Drop D<br>B: Drop D | G: Drop C#<br>B: Drop C# |
