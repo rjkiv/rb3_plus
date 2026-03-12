@@ -36,8 +36,8 @@
       (guitar 259)
       (bass 351)
       (vocals 255)
-      (keys 220)
-      (real_keys 220)
+      (keys 247)
+      (real_keys 247)
       (band 294)
    )
    (genre alternative)
@@ -64,5 +64,6 @@
    (base_points 562693)
    (keys_author "Stock123")
 )
+
 
 
