@@ -8,7 +8,7 @@ The main types of upgrades featured in this repository add song parts for harmon
 I would love contributions from other passionate, dedicated upgrade authors! If you would like to contribute an upgrade of your own, please fork this repository and submit a pull request containing your upgrade.
 
 # Questions?
-If you have a question, issue or comment, please open up an issue on this repository, or comment on the YouTube videos that showcase these upgrades.
+If you have a question, issue or comment, please open up an issue on this repository, comment on the YouTube videos that showcase these upgrades, or join the [MiloHax](https://discord.gg/milohax) #rb-plus discord channel, where the majority of discussion regarding the project takes place.
 
 # Acknowledgements
 Finally, I would like to note some other teams as well as individual authors who have done excellent work in tweaking RB3 to be the best game it can be:
