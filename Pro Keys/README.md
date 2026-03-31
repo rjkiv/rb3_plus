@@ -15,7 +15,7 @@ To make keys moggs work on PS3, you will need to manually replace the one instal
 - Select the mogg you got from this repo.
 - Use an FTP client to transfer the new mogg and dta. (We recommend installing webMAN MOD or multiMAN for this.) Navigate to the game directory: ```dev_hdd0\game\BLUS30147\USRDIR``` for RBN songs; ```dev_hdd0\game\BLUS30050\USRDIR``` for everything else. Find the folder that contains the original song.
 - Back up the original songs.dta to a safe location.
-- If the songs.dta has only one song, simply overwrite it with the dta you got from this repo. However, if it's a pack of songs, you will need to open the new dta with the text editor of your choice, copy all of its contents, and paste them into the array that contains the upgraded song in the songs.dta on your system, replacing the original.
+- Open the new dta with the text editor of your choice, copy the pans/vols/cores arrays, and paste them over the ones in the original file. If the song has a crowd track, update the ```crowd_channels``` array to match the new values.
 - Enter the song folder with the shortname of your mogg. Back up the original like you did with the songs.dta.
 - Now, copy the newly encrypted mogg to the folder, overwriting the original.
 - Your song is now ready to play. Boot up RB3 Deluxe and enjoy!
