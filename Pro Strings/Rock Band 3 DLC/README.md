@@ -21,6 +21,7 @@
 | I Can't Go For That (No Can Do) | Hall & Oates | G: E Standard<br>B: E Standard | same as in-game |
 | Alone | Heart | G: E Standard<br>B: E Standard | G: same as in-game<br> B: Db Standard |
 | Oh My Love | John Lennon | G: E Standard<br>B: E Standard | same as in-game |
+| Re-Arranged | Limp Bizkit | G: E Standard<br>B: E Standard | G: C# Standard<br>B: C# Standard |
 | Breaking the Habit | Linkin Park | G: E Standard<br>B: Drop D | same as in-game |
 | Burn It Down | Linkin Park | G: E Standard<br>B: Drop D | same as in-game |
 | Numb | Linkin Park | G: Drop D<br>B: Drop D | G: Eb Drop Db<br>B: Eb Drop Db |
@@ -29,6 +30,7 @@
 | Terrible Lie | Nine Inch Nails | G: E Standard<br>B: E Standard | same as in-game |
 | Rape Me | Nirvana | G: E Standard <br> B: E Standard | G: Eb Standard <br> B: Eb Standard |
 | Don't Stop Me Now | Queen | G: E Standard<br>B: E Standard | same as in-game |
+| Caravan | Rush | G: E Standard<br>B: E Standard | same as in-game |
 | Animal I Have Become | Three Days Grace | G: Drop D<br>B: Drop D | G: D Drop C<br>B: D Drop C  |
 | I Hate Everything About You | Three Days Grace | G: Drop D<br>B: Drop D | same as in-game |
 | Billionaire (ft. Bruno Mars) | Travie McCoy | G: E Standard<br>B: E Standard | same as in-game |
