@@ -1,0 +1,11 @@
+(livingdeadgirl
+	(upgrade_version 1)
+	(midi_file "songs_upgrades/livingdeadgirl_plus.mid")
+	(song_id 1010420)
+   (rank
+      (real_guitar 160)
+      (real_bass 130)
+   )
+   (real_guitar_tuning (-2 0 0 0 0 0))
+   (real_bass_tuning (-2 0 0 0))
+)
