@@ -3,7 +3,7 @@
    (midi_file "songs_upgrades/babaoriley_plus.mid")
    (song_id 1005171)
    (rank
-      (real_guitar 124)
+      (real_guitar 242)
       (real_bass 35)
    )
    (real_guitar_tuning (0 0 0 0 0 0))
