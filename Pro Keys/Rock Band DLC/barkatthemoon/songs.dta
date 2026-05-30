@@ -37,7 +37,7 @@
       (keys 248)
       (real_guitar 471)
       (real_bass 430)
-      (real_keys 248)
+      (real_keys 277)
       (band 307)
    )
    (format 10)
@@ -55,7 +55,7 @@
    (song_tonality 1)
    (real_guitar_tuning (0 0 0 0 0 0))
    (real_bass_tuning (0 0 0 0))
-   (keys_author "SonicSBL, BowlsforRick")
+   (keys_author "SonicSBL, BowlsforRick, Aloquendiar")
 )
 
 
