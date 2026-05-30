@@ -38,7 +38,6 @@
       (guitar 260)
       (bass 260)
       (vocals 285)
-      ; credit for authoring key chart goes to TheSheepQueen
       ; credit for new mogg with key stem goes to Aloquendiar (Axo)
       (keys 269)
       (real_keys 269)
@@ -52,4 +51,5 @@
    (vocal_gender male)
    (vocal_tonic_note 9)
    (song_tonality 0)
+   (keys_author "TheSheepQueen")
 )
