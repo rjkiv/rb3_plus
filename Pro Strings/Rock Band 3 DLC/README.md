@@ -3,6 +3,7 @@
 | Song Title | Artist(s) | Pro G/B Tunings (In-Game) | Pro G/B Tunings (Real) |
 | :--------: | :-------: | :---------------: | :------------: |
 | Party Hard | Andrew W.K. | G: E Standard<br>B: E Standard | same as in-game |
+| Airplanes (ft. Hayley Williams) | B.o.B  | G: E Standard<br>B: E Standard | same as in-game |
 | Night Fever | Bee Gees | G: E Standard<br>B: E Standard | same as in-game |
 | You Should Be Dancing | Bee Gees | G: E Standard<br>B: E Standard | same as in-game |
 | It's My Life | Bon Jovi | G: E Standard<br>B: Drop D | G: E Standard<br>B: D Drop C |
