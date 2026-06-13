@@ -37,6 +37,7 @@
 | Hella Good | No Doubt | G: E Standard<br>B: E Standard | same as in-game |
 | Tragic Kingdom | No Doubt | G: E Standard<br>B: E Standard | same as in-game |
 | Wonderwall | Oasis | G: E Standard<br>B: E Standard | G: F# Standard (E Standard, capo on 2nd fret)<br>B: same as in-game |
+| Floods | Pantera | G: E Standard<br>B: E Standard | G: D Standard<br>B: D Standard |
 | Heartbreaker | Pat Benatar | G: E Standard<br>B: E Standard | same as in-game |
 | Hit Me With Your Best Shot | Pat Benatar | G: E Standard<br>B: E Standard | same as in-game |
 | Here Comes Your Man | Pixies | G: E Standard<br>B: E Standard | same as in-game |
