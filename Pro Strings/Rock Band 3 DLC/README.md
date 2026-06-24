@@ -3,6 +3,7 @@
 | Song Title | Artist(s) | Pro G/B Tunings (In-Game) | Pro G/B Tunings (Real) |
 | :--------: | :-------: | :---------------: | :------------: |
 | Party Hard | Andrew W.K. | G: E Standard<br>B: E Standard | same as in-game |
+| Airplanes (ft. Hayley Williams) | B.o.B  | G: E Standard<br>B: E Standard | same as in-game |
 | Night Fever | Bee Gees | G: E Standard<br>B: E Standard | same as in-game |
 | You Should Be Dancing | Bee Gees | G: E Standard<br>B: E Standard | same as in-game |
 | It's My Life | Bon Jovi | G: E Standard<br>B: Drop D | G: E Standard<br>B: D Drop C |
@@ -21,6 +22,7 @@
 | I Can't Go For That (No Can Do) | Hall & Oates | G: E Standard<br>B: E Standard | same as in-game |
 | Alone | Heart | G: E Standard<br>B: E Standard | G: same as in-game<br> B: Db Standard |
 | Oh My Love | John Lennon | G: E Standard<br>B: E Standard | same as in-game |
+| Re-Arranged | Limp Bizkit | G: E Standard<br>B: E Standard | G: C# Standard<br>B: C# Standard |
 | Breaking the Habit | Linkin Park | G: E Standard<br>B: Drop D | same as in-game |
 | Burn It Down | Linkin Park | G: E Standard<br>B: Drop D | same as in-game |
 | Numb | Linkin Park | G: Drop D<br>B: Drop D | G: Eb Drop Db<br>B: Eb Drop Db |
@@ -30,6 +32,7 @@
 | Rape Me | Nirvana | G: E Standard <br> B: E Standard | G: Eb Standard <br> B: Eb Standard |
 | Ghost of Perdition | Opeth | G: DADFAE<br>B: Drop D | same as in-game |
 | Don't Stop Me Now | Queen | G: E Standard<br>B: E Standard | same as in-game |
+| Caravan | Rush | G: E Standard<br>B: E Standard | same as in-game |
 | Animal I Have Become | Three Days Grace | G: Drop D<br>B: Drop D | G: D Drop C<br>B: D Drop C  |
 | I Hate Everything About You | Three Days Grace | G: Drop D<br>B: Drop D | same as in-game |
 | Billionaire (ft. Bruno Mars) | Travie McCoy | G: E Standard<br>B: E Standard | same as in-game |
