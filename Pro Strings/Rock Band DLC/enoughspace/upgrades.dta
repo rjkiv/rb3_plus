@@ -3,8 +3,8 @@
    (midi_file "songs_upgrades/enoughspace_plus.mid")
    (song_id 1005327)
    (rank
-      (real_guitar 193)
-      (real_bass 155)
+      (real_guitar 216)
+      (real_bass 210)
    )
    (real_guitar_tuning (0 0 0 0 0 0))
    (real_bass_tuning (0 0 0 0))
