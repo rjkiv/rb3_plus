@@ -46,6 +46,7 @@
 | Hit Me With Your Best Shot | Pat Benatar | G: E Standard<br>B: E Standard | same as in-game |
 | Here Comes Your Man | Pixies | G: E Standard<br>B: E Standard | same as in-game |
 | Natural Disaster | Plain White T's | G: Drop D<br>B: Drop D | same as in-game |
+| Can't Stand Losing You | The Police | G: E Standard<br>B: E Standard | same as in-game |
 | 3's and 7's | Queens of the Stone Age | G: E Standard<br>B: E Standard | G: C Standard<br>B: C Standard |
 | Sick, Sick, Sick | Queens of the Stone Age | G: E Standard<br>B: E Standard | G: C Standard<br>B: C Standard |
 | Ruby Soho | Rancid | G: E Standard<br>B: E Standard | same as in-game |
