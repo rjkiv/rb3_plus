@@ -17,6 +17,7 @@
 | Police Truck | Dead Kennedys | G: E Standard<br>B: E Standard | same as in-game |
 | Space Truckin' | Deep Purple | G: E Standard<br>B: E Standard | same as in-game |
 | Long Train Runnin' | Doobie Brothers | G: E Standard<br>B: E Standard | same as in-game |
+| Enough Space | Foo Fighters | G: E Standard<br>B: E Standard | same as in-game |
 | This Is a Call | Foo Fighters | G: E Standard<br>B: E Standard | same as in-game |
 | Our Lips Are Sealed | Go-Go's | G: E Standard<br>B: E Standard | same as in-game |
 | Feel Good Inc. | Gorillaz | G: E Standard<br>B: E Standard | G: E Standard<br> Eb Standard |
@@ -25,6 +26,7 @@
 | Wings of a Butterfly | HIM | G: Drop D<br>B: E Standard | G: Drop C<br> C Standard |
 | Run to the Hills (Original Version) | Iron Maiden | G: E Standard<br>B: E Standard | same as in-game |
 | Don't Stop Believing | Journey | G: E Standard<br>B: E Standard | same as in-game |
+| A Dios Le Pido | Juanes | G: E Standard<br>B: E Standard | same as in-game |
 | Mr. Brightside | The Killers | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
 | Darling Dear | Little Fish | G: E Standard<br>B: E Standard | same as in-game |
 | Dawn Patrol | Megadeth | B: E Standard | same as in-game |
@@ -39,11 +41,13 @@
 | Tragic Kingdom | No Doubt | G: E Standard<br>B: E Standard | same as in-game |
 | Wonderwall | Oasis | G: E Standard<br>B: E Standard | G: F# Standard (E Standard, capo on 2nd fret)<br>B: same as in-game |
 | crushcrushcrush | Paramore | G: Drop D<br>B: Drop D | G: Eb Drop Db<br>B: Eb Drop Db |
+| Floods | Pantera | G: E Standard<br>B: E Standard | G: D Standard<br>B: D Standard |
 | (Reprise) Sandblasted Skin | Pantera | G: A A D G B E<br>B: A A D G | G: G G C F A D<br>B: G G C F |
 | Heartbreaker | Pat Benatar | G: E Standard<br>B: E Standard | same as in-game |
 | Hit Me With Your Best Shot | Pat Benatar | G: E Standard<br>B: E Standard | same as in-game |
 | Here Comes Your Man | Pixies | G: E Standard<br>B: E Standard | same as in-game |
 | Natural Disaster | Plain White T's | G: Drop D<br>B: Drop D | same as in-game |
+| Can't Stand Losing You | The Police | G: E Standard<br>B: E Standard | same as in-game |
 | 3's and 7's | Queens of the Stone Age | G: E Standard<br>B: E Standard | G: C Standard<br>B: C Standard |
 | Sick, Sick, Sick | Queens of the Stone Age | G: E Standard<br>B: E Standard | G: C Standard<br>B: C Standard |
 | Ruby Soho | Rancid | G: E Standard<br>B: E Standard | same as in-game |
@@ -69,6 +73,8 @@
 | YYZ | Rush | G: E Standard<br>B: E Standard | same as in-game |
 | They Say | Scars On Broadway | G: Drop D<br>B: Drop D | G: Drop C#<br>B: Drop C# |
 | All of This | Shaimus | G: E Standard<br>B: E Standard | same as in-game |
+| Dirty Pool | Stevie Ray Vaughan and Double Trouble | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
+| Song with a Mission | as made famous by The Sounds | G: E Standard<br>B: E Standard | same as in-game |
 | A Day Like This | SpongeBob SquarePants | G: E Standard<br>B: E Standard | same as in-game |
 | The Best Day Ever | SpongeBob SquarePants | G: E Standard<br>B: E Standard | same as in-game |
 | B.Y.O.B. | System of a Down | G: Drop D<br>B: Drop D | G: Eb Drop Db<br>B: Eb Drop Db |
