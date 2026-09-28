@@ -27,8 +27,8 @@
 | Shadow of the Day | Linkin Park | G: E Standard<br>B: E Standard | same as in-game |
 | Sanctified | Nine Inch Nails | G: E Standard<br>B: E Standard | same as in-game |
 | Terrible Lie | Nine Inch Nails | G: E Standard<br>B: E Standard | same as in-game |
-| Pressure | Paramore | G: Drop D<br>B: Drop D | same as in-game |
 | Rape Me | Nirvana | G: E Standard <br> B: E Standard | G: Eb Standard <br> B: Eb Standard |
+| Pressure | Paramore | G: Drop D<br>B: Drop D | same as in-game |
 | Don't Stop Me Now | Queen | G: E Standard<br>B: E Standard | same as in-game |
 | Animal I Have Become | Three Days Grace | G: Drop D<br>B: Drop D | G: D Drop C<br>B: D Drop C  |
 | I Hate Everything About You | Three Days Grace | G: Drop D<br>B: Drop D | same as in-game |
