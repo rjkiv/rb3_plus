@@ -56,3 +56,4 @@
 | Say It Ain't So | Weezer | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
 | Maps | Yeah Yeah Yeahs | G: E Standard<br>B: E Standard | same as in-game |
 | Pleasure (Pleasure) | Bang Camaro | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: same as in-game |
+| Time We Had | The Mother Hips | G: E Standard<br>B: E Standard | same as in-game |
