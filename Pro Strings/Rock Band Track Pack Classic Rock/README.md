@@ -4,3 +4,4 @@
 | :--------: | :-------: | :---------------: | :------------: |
 | Peace of Mind | Boston | G: E Standard<br>B: E Standard | same as in-game |
 | Hit Me With Your Best Shot | Pat Benatar | G: E Standard<br>B: E Standard | same as in-game |
+| Red Barchetta | Rush | G: E Standard<br>B: E Standard | same as in-game |
