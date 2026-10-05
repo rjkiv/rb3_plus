@@ -1,0 +1,12 @@
+(hammersmashedface
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/hammersmashedface_plus.mid")
+   (song_id 1005696)
+   (rank
+      (real_guitar 490)
+      (real_bass 495)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rb3_plus_author MatthNerd)
+)
