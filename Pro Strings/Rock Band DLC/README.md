@@ -30,6 +30,7 @@
 | Mr. Brightside | The Killers | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
 | Darling Dear | Little Fish | G: E Standard<br>B: E Standard | same as in-game |
 | Dawn Patrol | Megadeth | B: E Standard | same as in-game |
+| Wake Up Dead | Megadeth | G: E Standard<br>B: E Standard | same as in-game |
 | Party in the U.S.A. | Miley Cyrus | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
 | Hysteria | Muse | G: E Standard<br>B: E Standard | same as in-game |
 | Use It | The New Pornographers | G: E Standard<br>B: E Standard | same as in-game |
@@ -44,7 +45,6 @@
 | Floods | Pantera | G: E Standard<br>B: E Standard | G: D Standard<br>B: D Standard |
 | (Reprise) Sandblasted Skin | Pantera | G: A A D G B E<br>B: A A D G | G: G G C F A D<br>B: G G C F |
 | Heartbreaker | Pat Benatar | G: E Standard<br>B: E Standard | same as in-game |
-| Hit Me With Your Best Shot | Pat Benatar | G: E Standard<br>B: E Standard | same as in-game |
 | Here Comes Your Man | Pixies | G: E Standard<br>B: E Standard | same as in-game |
 | Natural Disaster | Plain White T's | G: Drop D<br>B: Drop D | same as in-game |
 | Can't Stand Losing You | The Police | G: E Standard<br>B: E Standard | same as in-game |
@@ -80,7 +80,6 @@
 | B.Y.O.B. | System of a Down | G: Drop D<br>B: Drop D | G: Eb Drop Db<br>B: Eb Drop Db |
 | Toxicity | System of a Down | G: Drop D<br>B: Drop D | G: D Drop C<br>B: D Drop C |
 | Girlfriend Is Better | Talking Heads | G: E Standard<br>B: Drop D | same as in-game |
-| Head Over Heels | Tears for Fears | G: E Standard<br>B: E Standard | same as in-game |
 | The Metal | Tenacious D | G: Drop D<br>B: Drop D | same as in-game |
 | Pork and Beans | Weezer | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
 | Undone (The Sweater Song) | Weezer | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |

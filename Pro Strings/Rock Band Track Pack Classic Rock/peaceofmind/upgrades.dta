@@ -1,0 +1,12 @@
+(peaceofmind
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/peaceofmind_plus.mid")
+   (song_id 1005076)
+   (rank
+      (real_guitar 376)
+      (real_bass 399)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rb3_plus_author JDK)
+)
