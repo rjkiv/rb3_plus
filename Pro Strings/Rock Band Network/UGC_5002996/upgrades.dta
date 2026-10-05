@@ -1,0 +1,13 @@
+; Free Electric State - Six Is One
+(ugc_5002996
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/ugc_5002996_plus.mid")
+   (song_id 5002996)
+   (rank
+      (real_guitar 270)
+      (real_bass 180)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rb3_plus_author MatthNerd)
+)
