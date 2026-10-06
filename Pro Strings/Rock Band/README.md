@@ -54,5 +54,6 @@
 | Outside | Tribe | G: E Standard<br>B: E Standard | same as in-game |
 | Seven | VAGIANT | G: E Standard<br>B: E Standard | same as in-game |
 | Say It Ain't So | Weezer | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
+| Won't Get Fooled Again | The Who | G: E Standard<br>B: E Standard | same as in-game |
 | Maps | Yeah Yeah Yeahs | G: E Standard<br>B: E Standard | same as in-game |
 | Pleasure (Pleasure) | Bang Camaro | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: same as in-game |
