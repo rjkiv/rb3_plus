@@ -30,6 +30,7 @@
 | Sanctified | Nine Inch Nails | G: E Standard<br>B: E Standard | same as in-game |
 | Terrible Lie | Nine Inch Nails | G: E Standard<br>B: E Standard | same as in-game |
 | Rape Me | Nirvana | G: E Standard <br> B: E Standard | G: Eb Standard <br> B: Eb Standard |
+| Pressure | Paramore | G: Drop D<br>B: Drop D | same as in-game |
 | Don't Stop Me Now | Queen | G: E Standard<br>B: E Standard | same as in-game |
 | Caravan | Rush | G: E Standard<br>B: E Standard | same as in-game |
 | Head Over Heels | Tears for Fears | G: E Standard<br>B: E Standard | same as in-game |
