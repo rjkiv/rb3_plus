@@ -1,0 +1,12 @@
+(laidtorest
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/laidtorest_plus.mid")
+   (song_id 1005348)
+   (rank
+      (real_guitar 280)
+      (real_bass 350)
+   )
+   (real_guitar_tuning (-2 0 0 0 0 0))
+   (real_bass_tuning (-2 0 0 0))
+   ;(rb3_plus_author MaverickNE)
+)
