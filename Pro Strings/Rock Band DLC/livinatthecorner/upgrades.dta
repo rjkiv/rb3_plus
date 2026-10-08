@@ -1,0 +1,12 @@
+(livinatthecorner
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/livinatthecorner_plus.mid")
+   (song_id 1005203)
+   (rank
+      (real_guitar 118)
+      (real_bass 140)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rb3_plus_author Xandy)
+)
