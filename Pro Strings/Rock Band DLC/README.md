@@ -74,6 +74,7 @@
 | They Say | Scars On Broadway | G: Drop D<br>B: Drop D | G: Drop C#<br>B: Drop C# |
 | All of This | Shaimus | G: E Standard<br>B: E Standard | same as in-game |
 | Dirty Pool | Stevie Ray Vaughan and Double Trouble | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
+| Trippin' on a Hole in a Paper Heart | Stone Temple Pilots | G: E Standard<br>B: E Standard | same as in-game |
 | Song with a Mission | as made famous by The Sounds | G: E Standard<br>B: E Standard | same as in-game |
 | A Day Like This | SpongeBob SquarePants | G: E Standard<br>B: E Standard | same as in-game |
 | The Best Day Ever | SpongeBob SquarePants | G: E Standard<br>B: E Standard | same as in-game |
