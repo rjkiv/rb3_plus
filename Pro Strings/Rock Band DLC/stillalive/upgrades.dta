@@ -1,0 +1,12 @@
+(stillalive
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/stillalive_plus.mid")
+   (song_id 1005078)
+   (rank
+      (real_guitar 312)
+      (real_bass 204)
+   )
+   (real_guitar_tuning (-2 3 5 5 5 3))
+   (real_bass_tuning (0 0 0 0))
+   ;(rb3_plus_author Xandy)
+)
