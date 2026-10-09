@@ -5,6 +5,7 @@
 | Day Late, Dollar Short | The Acro-brats | G: E Standard<br>B: E Standard | same as in-game |
 | Train Kept a Rollin' | as made famous by Aerosmith | G: E Standard<br>B: E Standard | same as in-game |
 | Blood Doll | Anarchy Club | G: Drop D<br>B: Drop D | same as in-game |
+| Pleasure (Pleasure) | Bang Camaro | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: same as in-game |
 | Sabotage | Beastie Boys | G: E Standard<br>B: E Standard | same as in-game |
 | Paranoid | as made famous by Black Sabbath | G: E Standard<br>B: E Standard | same as in-game |
 | (Don't Fear) The Reaper | Blue Öyster Cult | G: E Standard<br>B: E Standard | same as in-game |
@@ -31,6 +32,7 @@
 | 29 Fingers | The Konks | G: E Standard<br>B: E Standard | same as in-game |
 | Enter Sandman | Metallica | G: E Standard<br>B: E Standard | same as in-game |
 | Flirtin' with Disaster | Molly Hatchet | G: E Standard<br>B: E Standard | same as in-game |
+| Time We Had | The Mother Hips | G: E Standard<br>B: E Standard | same as in-game |
 | Mississippi Queen | as made famous by Mountain | G: E Standard<br>B: E Standard | same as in-game |
 | Electric Version | The New Pornographers | G: E Standard<br>B: E Standard | same as in-game |
 | The Hand That Feeds | Nine Inch Nails | G: Drop D<br>B: E Standard | same as in-game |

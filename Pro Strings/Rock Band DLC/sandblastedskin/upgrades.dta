@@ -1,0 +1,12 @@
+(sandblastedskin
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/sandblastedskin_plus.mid")
+   (song_id 1005961)
+   (rank
+      (real_guitar 195)
+      (real_bass 170)
+   )
+   (real_guitar_tuning (-7 0 0 0 0 0))
+   (real_bass_tuning (-7 0 0 0))
+   ;(rb3_plus_author MatthNerd)
+)

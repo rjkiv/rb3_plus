@@ -1,0 +1,12 @@
+(vitalsigns
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/vitalsigns_plus.mid")
+   (song_id 1005225)
+   (rank
+      (real_guitar 261)
+      (real_bass 388)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rb3_plus_author Xandy)
+)
