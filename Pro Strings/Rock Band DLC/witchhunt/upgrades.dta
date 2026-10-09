@@ -3,7 +3,7 @@
    (midi_file "songs_upgrades/witchhunt_plus.mid")
    (song_id 1005226)
    (rank
-      (real_guitar 267)
+      (real_guitar 245)
       (real_bass 207)
    )
    (real_guitar_tuning (0 0 0 0 0 0))
