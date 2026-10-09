@@ -70,7 +70,7 @@
 | Living Dead Girl | Rob Zombie | G: Drop D<br>B: Drop D |  same as in-game |
 | Tom Sawyer (Original Version) | Rush | G: E Standard<br>B: E Standard | same as in-game |
 | Vital Signs | Rush | G: E Standard<br>B: E Standard | same as in-game |
-| Witch Hunt | Rush | G: E Standard<br>B: E Standard | same as in-game |
+| Witch Hunt (Part III of Fear) | Rush | G: E Standard<br>B: E Standard | same as in-game |
 | YYZ | Rush | G: E Standard<br>B: E Standard | same as in-game |
 | They Say | Scars On Broadway | G: Drop D<br>B: Drop D | G: Drop C#<br>B: Drop C# |
 | All of This | Shaimus | G: E Standard<br>B: E Standard | same as in-game |
