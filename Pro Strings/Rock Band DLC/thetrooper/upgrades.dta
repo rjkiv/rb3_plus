@@ -1,0 +1,13 @@
+(thetrooper
+	(upgrade_version 1)
+	(midi_file "songs_upgrades/thetrooper_plus.mid")
+	(song_id 1005587)
+	(rank
+	   (real_guitar 480)
+	   (real_bass 400)
+	)
+	(real_guitar_tuning (0 0 0 0 0 0))
+	(real_bass_tuning (0 0 0 0))
+	;(rb3_plus_author MaverickNE)
+	
+)
