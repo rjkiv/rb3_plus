@@ -73,6 +73,7 @@
 | YYZ | Rush | G: E Standard<br>B: E Standard | same as in-game |
 | They Say | Scars On Broadway | G: Drop D<br>B: Drop D | G: Drop C#<br>B: Drop C# |
 | All of This | Shaimus | G: E Standard<br>B: E Standard | same as in-game |
+| Black Magic | Slayer | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
 | Dirty Pool | Stevie Ray Vaughan and Double Trouble | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
 | Song with a Mission | as made famous by The Sounds | G: E Standard<br>B: E Standard | same as in-game |
 | A Day Like This | SpongeBob SquarePants | G: E Standard<br>B: E Standard | same as in-game |
