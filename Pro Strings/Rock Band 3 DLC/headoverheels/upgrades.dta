@@ -1,0 +1,12 @@
+(headoverheels
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/headoverheels_plus.mid")
+   (song_id 1010377)
+   (rank
+      (real_guitar 237)
+      (real_bass 271)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0)) ; E Standard
+   (real_bass_tuning (0 0 0 0)) ; E Standard
+   ;(rb3_plus_author Carl Mylo, RK (QC))
+)
