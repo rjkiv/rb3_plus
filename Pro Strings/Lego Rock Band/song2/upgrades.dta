@@ -4,7 +4,7 @@
    (song_id 780)
    (rank
       (real_guitar 99)
-      (real_bass 179)
+      (real_bass 180)
    )
    (real_guitar_tuning (0 0 0 0 0 0)) ; real tuning is Eb standard, in-game is E standard
    (real_bass_tuning (0 0 0 0)) ; ditto

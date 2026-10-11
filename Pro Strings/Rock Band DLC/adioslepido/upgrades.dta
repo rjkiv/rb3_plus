@@ -1,0 +1,12 @@
+(adioslepido
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/adioslepido_plus.mid")
+   (song_id 1006146)
+   (rank
+      (real_guitar 263)
+      (real_bass 265)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rb3_plus_author Aloquendiar)
+)
