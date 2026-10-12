@@ -23,6 +23,7 @@
 | Our Lips Are Sealed | Go-Go's | G: E Standard<br>B: E Standard | same as in-game |
 | Feel Good Inc. | Gorillaz | G: E Standard<br>B: E Standard | G: E Standard<br> Eb Standard |
 | 21 Guns | Green Day | G: E Standard<br>B: E Standard | same as in-game |
+| This I Love | Guns N' Roses | G: Drop D<br>B: Drop D | G: Drop C#<br>B: Drop C# |
 | Countdown to Insanity | H-Blockx | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
 | Wings of a Butterfly | HIM | G: Drop D<br>B: E Standard | G: Drop C<br> C Standard |
 | Run to the Hills (Original Version) | Iron Maiden | G: E Standard<br>B: E Standard | same as in-game |
