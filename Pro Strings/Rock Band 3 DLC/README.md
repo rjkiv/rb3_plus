@@ -36,5 +36,6 @@
 | Head Over Heels | Tears for Fears | G: E Standard<br>B: E Standard | same as in-game |
 | Animal I Have Become | Three Days Grace | G: Drop D<br>B: Drop D | G: D Drop C<br>B: D Drop C  |
 | I Hate Everything About You | Three Days Grace | G: Drop D<br>B: Drop D | same as in-game |
+| Rosanna | Toto | G: E Standard<br>B: E Standard | same as in-game |
 | Billionaire (ft. Bruno Mars) | Travie McCoy | G: E Standard<br>B: E Standard | same as in-game |
 | Heart of the Sunrise | Yes | G: E Standard<br>B: E Standard | same as in-game |
