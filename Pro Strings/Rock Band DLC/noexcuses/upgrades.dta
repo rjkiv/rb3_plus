@@ -1,7 +1,7 @@
 (noexcuses
    (upgrade_version 1)
    (midi_file "songs_upgrades/noexcuses_plus.mid")
-   (song_id 1005029)
+   (song_id 1005669)
    (rank
       (real_guitar 135)
       (real_bass 175)
