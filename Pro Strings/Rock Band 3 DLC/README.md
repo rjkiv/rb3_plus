@@ -33,6 +33,7 @@
 | Pressure | Paramore | G: Drop D<br>B: Drop D | same as in-game |
 | Don't Stop Me Now | Queen | G: E Standard<br>B: E Standard | same as in-game |
 | Caravan | Rush | G: E Standard<br>B: E Standard | same as in-game |
+| Fell On Black Days | Soundgarden | G: E Standard<br>B: E Standard | same as in-game |
 | Head Over Heels | Tears for Fears | G: E Standard<br>B: E Standard | same as in-game |
 | Animal I Have Become | Three Days Grace | G: Drop D<br>B: Drop D | G: D Drop C<br>B: D Drop C  |
 | I Hate Everything About You | Three Days Grace | G: Drop D<br>B: Drop D | same as in-game |
