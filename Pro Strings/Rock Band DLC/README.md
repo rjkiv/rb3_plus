@@ -44,6 +44,7 @@
 | Don't Speak | No Doubt | G: E Standard<br>B: E Standard | same as in-game |
 | Hella Good | No Doubt | G: E Standard<br>B: E Standard | same as in-game |
 | Tragic Kingdom | No Doubt | G: E Standard<br>B: E Standard | same as in-game |
+| Spiderwebs | No Doubt | G: E Standard<br>B: E Standard | same as in-game |
 | Wonderwall | Oasis | G: E Standard<br>B: E Standard | G: F# Standard (E Standard, capo on 2nd fret)<br>B: same as in-game |
 | Floods | Pantera | G: E Standard<br>B: E Standard | G: D Standard<br>B: D Standard |
 | (Reprise) Sandblasted Skin | Pantera | G: A A D G B E<br>B: A A D G | G: G G C F A D<br>B: G G C F |
