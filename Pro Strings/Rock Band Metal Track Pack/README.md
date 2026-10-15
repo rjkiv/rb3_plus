@@ -4,3 +4,4 @@
 | :--------: | :-------: | :---------------: | :------------: |
 | Waking the Demon | Bullet for my Valentine | G: Drop D<br>B: Drop D | G: D Drop C<br>B: D Drop C |
 | 3's and 7's | Queens of the Stone Age | G: E Standard<br>B: E Standard | G: C Standard<br>B: C Standard |
+| Bulls on Parade | Rage Against the Machine | G: E Standard<br>B: E Standard | G: E Standard<br>B: E Standard |
