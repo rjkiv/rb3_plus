@@ -1,0 +1,12 @@
+(dirtypool
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/dirtypool_plus.mid")
+   (song_id 1005442)
+   (rank
+      (real_guitar 454)
+      (real_bass 298)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rb3_plus_author JDK)
+)

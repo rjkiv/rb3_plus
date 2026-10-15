@@ -1,0 +1,12 @@
+(rearranged
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/rearranged_plus.mid")
+   (song_id 1010399)
+   (rank
+      (real_guitar 319)
+      (real_bass 316)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rb3_plus_author Airtrooper719, JDK)
+)
