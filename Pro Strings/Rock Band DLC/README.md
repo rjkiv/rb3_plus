@@ -5,6 +5,7 @@
 | Sons and Daughters | The 88 | G: E Standard<br>B: E Standard | same as in-game |
 | Head Over Feet | Alanis Morissette | G: E Standard<br>B: E Standard | same as in-game |
 | Ironic | Alanis Morissette | G: E Standard<br>B: E Standard | G: A Standard (E Standard, capo on 4th fret)<br>B: same as in-game |
+| No Excuses | Alice in Chains | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
 | No Regrets | Authority Zero | G: E Standard<br>B: E Standard | same as in-game |
 | 21st Century (Digital Boy) | Bad Religion | G: E Standard<br>B: E Standard | same as in-game |
 | Mony Mony | Billy Idol | G: E Standard<br>B: E Standard | same as in-game |
@@ -20,6 +21,7 @@
 | I'm Shipping Up to Boston | Dropkick Murphys | G: E Standard<br>B: E Standard | same as in-game |
 | Enough Space | Foo Fighters | G: E Standard<br>B: E Standard | same as in-game |
 | This Is a Call | Foo Fighters | G: E Standard<br>B: E Standard | same as in-game |
+| Science Genius Girl | Freezepop | G: E Standard<br>B: E Standard | same as in-game |
 | Our Lips Are Sealed | Go-Go's | G: E Standard<br>B: E Standard | same as in-game |
 | Feel Good Inc. | Gorillaz | G: E Standard<br>B: E Standard | G: E Standard<br> Eb Standard |
 | 21 Guns | Green Day | G: E Standard<br>B: E Standard | same as in-game |
@@ -27,6 +29,7 @@
 | Countdown to Insanity | H-Blockx | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
 | Wings of a Butterfly | HIM | G: Drop D<br>B: E Standard | G: Drop C<br> C Standard |
 | Run to the Hills (Original Version) | Iron Maiden | G: E Standard<br>B: E Standard | same as in-game |
+| Skullcrusher Mountain | Jonathan Coulton | G: E Standard<br>B: E Standard | same as in-game |
 | Don't Stop Believing | Journey | G: E Standard<br>B: E Standard | same as in-game |
 | A Dios Le Pido | Juanes | G: E Standard<br>B: E Standard | same as in-game |
 | Mr. Brightside | The Killers | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
@@ -43,6 +46,7 @@
 | Don't Speak | No Doubt | G: E Standard<br>B: E Standard | same as in-game |
 | Hella Good | No Doubt | G: E Standard<br>B: E Standard | same as in-game |
 | Tragic Kingdom | No Doubt | G: E Standard<br>B: E Standard | same as in-game |
+| Spiderwebs | No Doubt | G: E Standard<br>B: E Standard | same as in-game |
 | Wonderwall | Oasis | G: E Standard<br>B: E Standard | G: F# Standard (E Standard, capo on 2nd fret)<br>B: same as in-game |
 | Floods | Pantera | G: E Standard<br>B: E Standard | G: D Standard<br>B: D Standard |
 | (Reprise) Sandblasted Skin | Pantera | G: A A D G B E<br>B: A A D G | G: G G C F A D<br>B: G G C F |
