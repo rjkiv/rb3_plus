@@ -17,6 +17,7 @@
 | Linger | The Cranberries | G: E Standard<br>B: E Standard | same as in-game |
 | Police Truck | Dead Kennedys | G: E Standard<br>B: E Standard | same as in-game |
 | Space Truckin' | Deep Purple | G: E Standard<br>B: E Standard | same as in-game |
+| Hier Kommt Alex | Die Toten Hosen | G: E Standard<br>B: E Standard | same as in-game |
 | Long Train Runnin' | Doobie Brothers | G: E Standard<br>B: E Standard | same as in-game |
 | I'm Shipping Up to Boston | Dropkick Murphys | G: E Standard<br>B: E Standard | same as in-game |
 | Enough Space | Foo Fighters | G: E Standard<br>B: E Standard | same as in-game |
