@@ -1,0 +1,12 @@
+(indians
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/indians_plus.mid")
+   (song_id 1006178)
+   (rank
+      (real_guitar 444)
+      (real_bass 407)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rb3_plus_author MatthNerd)
+)
