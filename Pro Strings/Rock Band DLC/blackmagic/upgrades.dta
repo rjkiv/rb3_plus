@@ -1,0 +1,12 @@
+(blackmagic
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/blackmagic_plus.mid")
+   (song_id 1005698)
+   (rank
+      (real_guitar 500)
+      (real_bass 400)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rb3_plus_author MatthNerd)
+)
