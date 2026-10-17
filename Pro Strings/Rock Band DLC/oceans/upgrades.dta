@@ -1,0 +1,12 @@
+(oceans
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/oceans_plus.mid")
+   (song_id 1005481)
+   (rank
+      (real_guitar 260)
+      (real_bass 209)
+   )
+   (real_guitar_tuning (-2 0 0 -1 -2 -2))
+   (real_bass_tuning (0 0 0 0))
+   ;(rb3_plus_author Xandy)
+)
