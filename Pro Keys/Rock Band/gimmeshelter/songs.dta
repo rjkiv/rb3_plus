@@ -84,7 +84,7 @@
    (exported TRUE)
 (version 30)
 (vocal_tonic_note 1)
-(song_tonality 1)
+(song_tonality 0)
 (keys_author "BowlsforRick, SonicSBL")
 )
 
