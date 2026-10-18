@@ -4,5 +4,6 @@
 | :--------: | :-------: | :---------------: | :------------: |
 | Basket Case | Green Day | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
 | Boulevard of Broken Dreams | Green Day | G: E Standard<br>B: E Standard | G: F Standard (capo on 1st fret)<br>B: same as in-game |
+| Good Riddance (Time of Your Life) | Green Day | G: E Standard<br>B: Cello Tuning (C G D A) | same as in-game |
 | Last Night on Earth | Green Day | G: E Standard<br>B: E Standard | same as in-game |
 | Wake Me Up When September Ends | Green Day | G: E Standard<br>B: E Standard | same as in-game |
