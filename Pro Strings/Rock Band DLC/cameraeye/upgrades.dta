@@ -3,7 +3,7 @@
    (midi_file "songs_upgrades/cameraeye_plus.mid")
    (song_id 1005227)
    (rank
-      (real_guitar 460)
+      (real_guitar 440)
       (real_bass 390)
    )
    (real_guitar_tuning (0 0 0 0 0 0))
