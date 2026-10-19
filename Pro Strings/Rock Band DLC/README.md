@@ -88,7 +88,7 @@
 | Toxicity | System of a Down | G: Drop D<br>B: Drop D | G: D Drop C<br>B: D Drop C |
 | Girlfriend Is Better | Talking Heads | G: E Standard<br>B: Drop D | same as in-game |
 | The Metal | Tenacious D | G: Drop D<br>B: Drop D | same as in-game |
-| Monsoon | Tokio Hotel | G: E Standard<br>B: E Standard | G: same as in-game<br>B: Eb Standard |
+| Monsoon | Tokio Hotel | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
 | Pork and Beans | Weezer | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
 | Undone (The Sweater Song) | Weezer | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
 | Fell In Love With A Girl | The White Stripes | G: E Standard<br>B: N/A | same as in-game |
