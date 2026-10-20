@@ -12,10 +12,10 @@
          (keys (11 12))
         ) 
      )
-     ;                 KICK     SNARE     CYMBALS   BASS  GUITAR    VOCALS    TRKS
-     (pans        (  -1.0  1.0 -1.0  1.0 -1.0  1.0  0.0 -1.0  1.0 -1.0  1.0 -1.0  1.0))
-     (vols        (  -1.0 -1.0 -1.0 -1.0 -1.5 -1.5 -3.0 -2.5 -2.5 -4.5 -4.5 -3.0 -3.0))
-     (cores       (   -1   -1   -1   -1   -1   -1   -1    1    1   -1   -1   -1   -1 ))
+     ;                 KICK     SNARE     CYMBALS   BASS  GUITAR    VOCALS     KEYS      TRKS
+     (pans        (  -1.0  1.0 -1.0  1.0 -1.0  1.0  0.0 -1.0  1.0 -1.0  1.0 -1.0  1.0 -1.0  1.0))
+     (vols        (  -1.0 -1.0 -1.0 -1.0 -1.5 -1.5 -3.0 -2.5 -2.5 -4.5 -4.5 -1.5 -1.5 -3.0 -3.0))
+     (cores       (   -1   -1   -1   -1   -1   -1   -1    1    1   -1   -1   -1   -1   -1   -1 ))
      (drum_solo
         (seqs (kick.cue snare.cue tom1.cue tom2.cue crash.cue))
      )
