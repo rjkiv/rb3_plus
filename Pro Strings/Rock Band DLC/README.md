@@ -51,6 +51,7 @@
 | Floods | Pantera | G: E Standard<br>B: E Standard | G: D Standard<br>B: D Standard |
 | (Reprise) Sandblasted Skin | Pantera | G: A A D G B E<br>B: A A D G | G: G G C F A D<br>B: G G C F |
 | Heartbreaker | Pat Benatar | G: E Standard<br>B: E Standard | same as in-game |
+| Jeremy | Pearl Jam | G: E Standard<br>B: E Standard | same as in-game |
 | Master/Slave | Pearl Jam | G: E Standard<br>B: E Standard | same as in-game |
 | Here Comes Your Man | Pixies | G: E Standard<br>B: E Standard | same as in-game |
 | Natural Disaster | Plain White T's | G: Drop D<br>B: Drop D | same as in-game |
