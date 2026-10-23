@@ -7,6 +7,7 @@
 | Night Fever | Bee Gees | G: E Standard<br>B: E Standard | same as in-game |
 | You Should Be Dancing | Bee Gees | G: E Standard<br>B: E Standard | same as in-game |
 | It's My Life | Bon Jovi | G: E Standard<br>B: Drop D | G: E Standard<br>B: D Drop C |
+| Total Eclipse of the Heart | Bonnie Tyler | G: E Standard<br>B: E Standard | same as in-game |
 | Grenade | Bruno Mars | G: E Standard<br>B: E Standard | same as in-game |
 | Just the Way You Are | Bruno Mars | G: E Standard<br>B: Drop D | same as in-game |
 | Marry You | Bruno Mars | G: E Standard<br>B: E Standard | same as in-game |
