@@ -82,6 +82,7 @@
 | YYZ | Rush | G: E Standard<br>B: E Standard | same as in-game |
 | They Say | Scars On Broadway | G: Drop D<br>B: Drop D | G: Drop C#<br>B: Drop C# |
 | All of This | Shaimus | G: E Standard<br>B: E Standard | same as in-game |
+| The Sounds of Silence | Simon & Garfunkel | G: E Standard<br>B: E Standard | G: Bb Standard (E Standard, capo on 6th fret)<br>B: same as in-game |
 | Dirty Pool | Stevie Ray Vaughan and Double Trouble | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
 | Song with a Mission | as made famous by The Sounds | G: E Standard<br>B: E Standard | same as in-game |
 | A Day Like This | SpongeBob SquarePants | G: E Standard<br>B: E Standard | same as in-game |
