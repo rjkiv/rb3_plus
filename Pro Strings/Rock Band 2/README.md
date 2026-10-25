@@ -74,3 +74,4 @@
 | Master Exploder | Tenacious D | G: E Standard<br>B: E Standard | same as in-game |
 | Rob the Prez-O-Dent | That Handsome Devil | G: E Standard<br>B: E Standard | same as in-game |
 | Pinball Wizard | The Who | G: E Standard<br>B: E Standard | same as in-game |
+| Night Lies | Bang Camaro | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
