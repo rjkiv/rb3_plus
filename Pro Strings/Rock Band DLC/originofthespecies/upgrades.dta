@@ -1,0 +1,12 @@
+(originofthespecies
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/originofthespecies_plus.mid")
+   (song_id 1005649)
+   (rank
+      (real_guitar 333)
+      (real_bass 229)
+   )
+   (real_guitar_tuning (-2 0 0 2 3 2))
+   (real_bass_tuning (0 0 0 0))
+   ;(rb3_plus_author Xandy)
+)

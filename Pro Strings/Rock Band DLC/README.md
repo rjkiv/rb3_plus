@@ -34,6 +34,7 @@
 | A Dios Le Pido | Juanes | G: E Standard<br>B: E Standard | same as in-game |
 | Mr. Brightside | The Killers | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
 | Darling Dear | Little Fish | G: E Standard<br>B: E Standard | same as in-game |
+| Origin of Species | MC Frontalot | G: D A D A D F#<br>B: E Standard | same as in-game |
 | Livin' at the Corner of Dude & Catastrophe | MC Frontalot feat. Brad Sucks | G: E Standard<br>B: E Standard | same as in-game |
 | Dawn Patrol | Megadeth | B: E Standard | same as in-game |
 | Wake Up Dead | Megadeth | G: E Standard<br>B: E Standard | same as in-game |
