@@ -6,6 +6,7 @@
 | Head Over Feet | Alanis Morissette | G: E Standard<br>B: E Standard | same as in-game |
 | Ironic | Alanis Morissette | G: E Standard<br>B: E Standard | G: A Standard (E Standard, capo on 4th fret)<br>B: same as in-game |
 | No Excuses | Alice in Chains | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
+| This Calling | All That Remains | G: E Standard<br>B: E Standard | G: D Standard<br>B: D Standard |
 | No Regrets | Authority Zero | G: E Standard<br>B: E Standard | same as in-game |
 | 21st Century (Digital Boy) | Bad Religion | G: E Standard<br>B: E Standard | same as in-game |
 | Mony Mony | Billy Idol | G: E Standard<br>B: E Standard | same as in-game |
