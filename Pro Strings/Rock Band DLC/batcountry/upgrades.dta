@@ -1,0 +1,12 @@
+(batcountry
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/batcountry_plus.mid")
+   (song_id 1005774)
+   (rank
+      (real_guitar 482)
+      (real_bass 436)
+   )
+   (real_guitar_tuning (-2 0 0 0 0 0))
+   (real_bass_tuning (-2 0 0 0))
+   ;(rb3_plus_author JohnSmith, Xandy)
+)
