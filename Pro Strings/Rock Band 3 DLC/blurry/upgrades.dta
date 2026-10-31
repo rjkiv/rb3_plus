@@ -4,7 +4,7 @@
    (song_id 1010294)
    (rank
       (real_guitar 275)
-      (real_bass 230)
+      (real_bass 300)
    )
    (real_guitar_tuning (0 0 0 0 0 0)) ;
    (real_bass_tuning (0 0 0 0)) ;
