@@ -1,0 +1,12 @@
+(satchboogie
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/satchboogie_plus.mid")
+   (song_id 1005799)
+   (rank
+      (real_guitar 575)
+      (real_bass 418)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rb3_plus_author Xandy)
+)
