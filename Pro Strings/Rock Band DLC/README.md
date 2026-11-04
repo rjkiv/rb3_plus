@@ -8,6 +8,7 @@
 | No Excuses | Alice in Chains | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
 | No Regrets | Authority Zero | G: E Standard<br>B: E Standard | same as in-game |
 | 21st Century (Digital Boy) | Bad Religion | G: E Standard<br>B: E Standard | same as in-game |
+| Beetlebum | as made famous by Blur | G: E Standard<br>B: E Standard | same as in-game |
 | Mony Mony | Billy Idol | G: E Standard<br>B: E Standard | same as in-game |
 | What a Horrible Night to Have a Curse | The Black Dahlia Murder | G: E Standard<br>B: E Standard | G: C Standard<br>B: C Standard |
 | What's My Age Again? | Blink-182 | G: E Standard<br>B: E Standard | same as in-game |
