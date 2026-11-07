@@ -3,6 +3,7 @@
 | Song Title | Artist(s) | Pro G/B Tunings (In-Game) | Pro G/B Tunings (Real) |
 | :--------: | :-------: | :---------------: | :------------: |
 | Sons and Daughters | The 88 | G: E Standard<br>B: E Standard | same as in-game |
+| The Downfall of Us All | A Day to Remember | G: Drop D<br>B: Drop D | G: D Drop C<br>B: D Drop C |
 | Head Over Feet | Alanis Morissette | G: E Standard<br>B: E Standard | same as in-game |
 | Ironic | Alanis Morissette | G: E Standard<br>B: E Standard | G: A Standard (E Standard, capo on 4th fret)<br>B: same as in-game |
 | No Excuses | Alice in Chains | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
