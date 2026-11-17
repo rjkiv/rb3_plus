@@ -19,6 +19,7 @@
 | Space Truckin' | Deep Purple | G: E Standard<br>B: E Standard | same as in-game |
 | Long Train Runnin' | Doobie Brothers | G: E Standard<br>B: E Standard | same as in-game |
 | I'm Shipping Up to Boston | Dropkick Murphys | G: E Standard<br>B: E Standard | same as in-game |
+| Thrasher | Evile | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
 | Enough Space | Foo Fighters | G: E Standard<br>B: E Standard | same as in-game |
 | This Is a Call | Foo Fighters | G: E Standard<br>B: E Standard | same as in-game |
 | Science Genius Girl | Freezepop | G: E Standard<br>B: E Standard | same as in-game |
