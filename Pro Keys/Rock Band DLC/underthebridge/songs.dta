@@ -2,54 +2,59 @@
    (name "Under the Bridge")
    (artist "Red Hot Chili Peppers")
    (master TRUE)
-   (song_id 1005238)
+   (context 405)
    (song
-      (name "songs/underthebridge/underthebridge")
-      (tracks
-         (
-            (drum (0 1 2 3 4 5))
-            (bass (6))
-            (guitar (7 8))
-            (vocals (9 10))
-            (keys (11 12))
-         )
-      )
-      ;          KICK      SNARE     KIT    BASS   GUITAR    VOCALS     KEYS     BACKING
-      (pans  (-1.0  1.0 -1.0  1.0 -1.0  1.0  0.0 -1.0  1.0 -1.0  1.0 -1.0  1.0 -1.0  1.0))
-      (vols  (-3.2 -3.2 -2.9 -2.9 -3.0 -3.0 -2.5 -3.1 -3.1 -3.7 -3.7 -2.0 -2.0 -5.0 -5.0))
-      (cores ( -1   -1   -1   -1   -1   -1   -1    1    1   -1   -1   -1   -1   -1   -1 ))
-      (drum_solo
-         (seqs (kick.cue snare.cue tom1.cue tom2.cue crash.cue))
-      )
-      (drum_freestyle
-         (seqs (kick.cue snare.cue hat.cue ride.cue crash.cue))
-      )
+     (name        songs/underthebridge/underthebridge)
+     (tracks
+        ((drum (0 1 2 3 4 5))
+         (bass 6)
+         (guitar (7 8))
+         (vocals (9 10))
+         (keys (11 12))
+        )
+     )
+     ;                  K          SN       CYMBALS    BS     GUITAR     VOCALS      KEYS      TRACKS
+     (pans        ( -1.0  1.0  -1.0  1.0   -1.0  1.0   0.0  -1.0  1.0  -1.0  1.0  -1.0  1.0  -1.0  1.0 ))
+     (vols        ( -3.2 -3.2  -2.9 -2.9   -3.0 -3.0  -2.5  -3.1 -3.1  -3.7 -3.7  -3.0 -3.0  -5.0 -5.0 ))
+     (cores       (  -1   -1    -1   -1     -1   -1    -1     1    1    -1   -1    -1   -1    -1   -1  ))
+     (drum_solo
+        (seqs (kick.cue snare.cue tom1.cue tom2.cue crash.cue))
+     )
+     (drum_freestyle
+        (seqs (kick.cue snare.cue hat.cue ride.cue crash.cue))
+     )
+     (midi_file songs/underthebridge/underthebridge.mid)
    )
-   (bank sfx/tambourine_bank.milo)
-   (drum_bank sfx/kit01_bank.milo)
-   (anim_tempo kTempoSlow)
    (song_scroll_speed 2300)
-   (preview 34800 62000)
-   (song_length 279545)
+   (bank sfx/tambourine_bank.milo)
+   (anim_tempo kTempoSlow)
+   (preview 34800 62000
+  )
    (rank
       (drum 111)
       (guitar 145)
       (bass 160)
       (vocals 230)
-      (keys 222)
-      (real_keys 252) ; keys chart by TheSheepQueen
+      (keys 244)
+      (real_keys 277)
       (band 115)
    )
-   (format 10)
-   (version 30)
-   (game_origin rb1_dlc)
-   (rating 2)
    (genre alternative)
+   (decade the90s)
    (vocal_gender male)
+   (format 30)
+   (version 1)               ; Only modified by coders!
+   (fake {== $SONG_VERSION 0})	
+   (downloaded {> $SONG_VERSION 0})
+   (album_art TRUE) ; if TRUE, the actual album art will be required
    (year_released 1991)
-   (album_art TRUE)
-   (album_name "Blood Sugar Sex Magik")
-   (album_track_number 11)
+   (album_name "Blood Sugar Sex Magik")   ; OPTIONAL  (e.g. for covers)
+   (album_track_number 11)   ; OPTIONAL (would require album_name if added). If omitted Set Challenges use difficulty sorting.
+   ;(pack_name "^^^Moonwalk (or die...) 3-pack^^^")  ; OPTIONAL
+   ;(base_points 474551)
    (vocal_tonic_note 4)
    (song_tonality 0)
+   (keys_author "TheSheepQueen, SonicSBL")
 )
+
+
