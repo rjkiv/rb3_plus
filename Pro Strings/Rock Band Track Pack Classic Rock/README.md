@@ -3,5 +3,6 @@
 | Song Title | Artist(s) | Pro G/B Tunings (In-Game) | Pro G/B Tunings (Real) |
 | :--------: | :-------: | :---------------: | :------------: |
 | Peace of Mind | Boston | G: E Standard<br>B: E Standard | same as in-game |
+| Bad to the Bone | George Thorogood & The Destroyers | G: Open G<br>B: E Standard | same as in-game |
 | Hit Me With Your Best Shot | Pat Benatar | G: E Standard<br>B: E Standard | same as in-game |
 | Red Barchetta | Rush | G: E Standard<br>B: E Standard | same as in-game |
