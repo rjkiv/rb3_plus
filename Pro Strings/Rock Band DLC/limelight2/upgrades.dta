@@ -1,0 +1,12 @@
+(limelight2
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/limelight2_plus.mid")
+   (song_id 1005228)
+   (rank
+      (real_guitar 284)
+      (real_bass 230)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rb3_plus_author brandunce, JDK)
+)
