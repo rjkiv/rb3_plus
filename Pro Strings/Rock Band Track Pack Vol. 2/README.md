@@ -2,6 +2,7 @@
 
 | Song Title | Artist(s) | Pro G/B Tunings (In-Game) | Pro G/B Tunings (Real) |
 | :--------: | :-------: | :---------------: | :------------: |
+| Afterlife | Avenged Sevenfold | G: Drop D<br>B: Drop D | same as in-game |
 | Just What I Needed | The Cars | G: E Standard<br>B: E Standard | same as in-game |
 | Rio | Duran Duran | G: E Standard<br>B: E Standard | same as in-game |
 | The Perfect Drug | Nine Inch Nails | G: Drop D<br>B: Drop D | same as in-game |
