@@ -1,0 +1,12 @@
+(poison
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/poison_plus.mid")
+   (song_id 1005560)
+   (rank
+      (real_guitar 346)
+      (real_bass 248)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rb3_plus_author Xandy)
+)
