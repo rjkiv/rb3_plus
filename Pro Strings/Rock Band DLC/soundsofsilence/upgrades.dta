@@ -1,0 +1,12 @@
+(soundsofsilence
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/soundsofsilence_plus.mid")
+   (song_id 1005856)
+   (rank
+      (real_guitar 188)
+      (real_bass 141)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rb3_plus_author Xandy)
+)
