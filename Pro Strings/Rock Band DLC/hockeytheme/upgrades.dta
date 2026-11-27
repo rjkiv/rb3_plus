@@ -1,0 +1,12 @@
+(hockeytheme
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/hockeytheme_plus.mid")
+   (song_id 1005959)
+   (rank
+      (real_guitar 152)
+      (real_bass 235)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rb3_plus_author Xandy)
+)
