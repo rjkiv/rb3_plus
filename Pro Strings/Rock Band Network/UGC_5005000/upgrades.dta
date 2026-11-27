@@ -1,0 +1,13 @@
+; It's Complicated - A Day to Remember
+(UGC_5005000
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/ugc_5005000_plus.mid")
+   (song_id 5005000)
+   (rank
+      (real_guitar 215)
+      (real_bass 145)
+   )
+   (real_guitar_tuning (-2 0 0 0 0 0)) ;
+   (real_bass_tuning (-2 0 0 0)) ;
+   ;(rb3_plus_author CatWithAMustache)
+)
