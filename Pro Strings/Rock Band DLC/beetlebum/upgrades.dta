@@ -1,0 +1,12 @@
+(beetlebum
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/beetlebum_plus.mid")
+   (song_id 1005112)
+   (rank
+      (real_guitar 157)
+      (real_bass 278)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rb3_plus_author Xandy)
+)
