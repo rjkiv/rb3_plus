@@ -9,6 +9,7 @@
 | Ramblin' Man | The Allman Brothers Band | G: E Standard<br>B: E Standard | G: F Standard (E standard, capo on 1st fret)<br>B: F Standard (E standard, capo on 1st fret) |
 | Get Clean | Anarchy Club | G: Drop D<br>B: Drop D | same as in-game |
 | Almost Easy | Avenged Sevenfold | G: Drop D<br>B: Drop D | G: Eb Drop Db<br>B: Eb Drop Db |
+| Shooting Star | Bad Company | G: E Standard<br>B: E Standard | G: E Standard/Open A<br>B: E Standard |
 | So What'cha Want | Beastie Boys | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
 | E-Pro | Beck | G: E Standard<br>B: E Standard | same as in-game |
 | Rebel Girl | Bikini Kill | G: E Standard<br>B: E Standard | G: F Standard (E standard, capo on 1st fret)<br>B: F Standard (E standard, capo on 1st fret) |
