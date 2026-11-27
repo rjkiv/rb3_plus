@@ -32,6 +32,7 @@
 | Skullcrusher Mountain | Jonathan Coulton | G: E Standard<br>B: E Standard | same as in-game |
 | Don't Stop Believing | Journey | G: E Standard<br>B: E Standard | same as in-game |
 | A Dios Le Pido | Juanes | G: E Standard<br>B: E Standard | same as in-game |
+| Icarus - Borne on Wings of Steel (Live) | Kansas | G: E Standard<br>B: E Standard | same as in-game |
 | Mr. Brightside | The Killers | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
 | Darling Dear | Little Fish | G: E Standard<br>B: E Standard | same as in-game |
 | Livin' at the Corner of Dude & Catastrophe | MC Frontalot feat. Brad Sucks | G: E Standard<br>B: E Standard | same as in-game |
