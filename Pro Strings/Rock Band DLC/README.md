@@ -38,6 +38,7 @@
 | Dawn Patrol | Megadeth | B: E Standard | same as in-game |
 | Wake Up Dead | Megadeth | G: E Standard<br>B: E Standard | same as in-game |
 | Party in the U.S.A. | Miley Cyrus | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
+| Red Tandy | The Mother Hips | G: E Standard<br>B: E Standard | same as in-game |
 | Hysteria | Muse | G: E Standard<br>B: E Standard | same as in-game |
 | Use It | The New Pornographers | G: E Standard<br>B: E Standard | same as in-game |
 | Last | Nine Inch Nails | G: Drop D<br>B: Drop D | same as in-game |
