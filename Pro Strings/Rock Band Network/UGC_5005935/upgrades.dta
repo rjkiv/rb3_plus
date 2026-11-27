@@ -1,0 +1,13 @@
+; Andromeda - Veil of Illumination (Part 1)
+(UGC_5005935
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/ugc_5005935_plus.mid")
+   (song_id 5005935)
+   (rank
+      (real_guitar 548)
+      (real_bass 501)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rb3_plus_author MatthNerd)
+)
