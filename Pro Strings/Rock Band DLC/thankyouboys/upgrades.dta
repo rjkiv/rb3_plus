@@ -1,0 +1,12 @@
+(thankyouboys
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/thankyouboys_plus.mid")
+   (song_id 1005529)
+   (rank
+      (real_guitar 403)
+      (real_bass 216)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rb3_plus_author Xandy)
+)
