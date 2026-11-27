@@ -23,7 +23,7 @@
 | This Is a Call | Foo Fighters | G: E Standard<br>B: E Standard | same as in-game |
 | Science Genius Girl | Freezepop | G: E Standard<br>B: E Standard | same as in-game |
 | Our Lips Are Sealed | Go-Go's | G: E Standard<br>B: E Standard | same as in-game |
-| Feel Good Inc. | Gorillaz | G: E Standard<br>B: E Standard | G: E Standard<br> Eb Standard |
+| Feel Good Inc. | Gorillaz | G: E Standard<br>B: E Standard | G: E Standard<br>B: Eb Standard |
 | 21 Guns | Green Day | G: E Standard<br>B: E Standard | same as in-game |
 | This I Love | Guns N' Roses | G: Drop D<br>B: Drop D | G: Drop C#<br>B: Drop C# |
 | Countdown to Insanity | H-Blockx | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
@@ -32,6 +32,7 @@
 | Skullcrusher Mountain | Jonathan Coulton | G: E Standard<br>B: E Standard | same as in-game |
 | Don't Stop Believing | Journey | G: E Standard<br>B: E Standard | same as in-game |
 | A Dios Le Pido | Juanes | G: E Standard<br>B: E Standard | same as in-game |
+| Perfekte Welle | Juli | G: E Standard<br>B: E Standard | G: E Standard<br>B: Eb Standard |
 | Mr. Brightside | The Killers | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
 | Darling Dear | Little Fish | G: E Standard<br>B: E Standard | same as in-game |
 | Livin' at the Corner of Dude & Catastrophe | MC Frontalot feat. Brad Sucks | G: E Standard<br>B: E Standard | same as in-game |
