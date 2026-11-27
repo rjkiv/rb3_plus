@@ -7,6 +7,7 @@
 | Ironic | Alanis Morissette | G: E Standard<br>B: E Standard | G: A Standard (E Standard, capo on 4th fret)<br>B: same as in-game |
 | No Excuses | Alice in Chains | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
 | No Regrets | Authority Zero | G: E Standard<br>B: E Standard | same as in-game |
+| Bat Country | Avenged Sevenfold| G: Drop D<br>B: Drop D | same as in-game |
 | 21st Century (Digital Boy) | Bad Religion | G: E Standard<br>B: E Standard | same as in-game |
 | Mony Mony | Billy Idol | G: E Standard<br>B: E Standard | same as in-game |
 | What a Horrible Night to Have a Curse | The Black Dahlia Murder | G: E Standard<br>B: E Standard | G: C Standard<br>B: C Standard |
