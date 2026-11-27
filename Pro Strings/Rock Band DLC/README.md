@@ -14,6 +14,7 @@
 | The Diary of Jane | Breaking Benjamin | G: Drop D<br>B: Drop D | G: C Drop Bb<br>B: C Drop Bb |
 | Waking the Demon | Bullet for my Valentine | G: Drop D<br>B: Drop D | G: D Drop C<br>B: D Drop C |
 | Bounce | The Cab | G: E Standard<br>B: E Standard | same as in-game |
+| Guns of Summer | Coheed and Cambria | G: Drop D<br>B: Drop D | same as in-game |
 | Linger | The Cranberries | G: E Standard<br>B: E Standard | same as in-game |
 | Police Truck | Dead Kennedys | G: E Standard<br>B: E Standard | same as in-game |
 | Space Truckin' | Deep Purple | G: E Standard<br>B: E Standard | same as in-game |
