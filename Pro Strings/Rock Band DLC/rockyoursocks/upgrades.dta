@@ -1,0 +1,12 @@
+(rockyoursocks
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/rockyoursocks_plus.mid")
+   (song_id 1005618)
+   (rank
+      (real_guitar 444)
+      (real_bass 319)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rb3_plus_author Xandy)
+)
