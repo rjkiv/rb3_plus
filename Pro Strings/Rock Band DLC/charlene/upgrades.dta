@@ -1,0 +1,12 @@
+(charlene
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/charlene_plus.mid")
+   (song_id 1005207)
+   (rank
+      (real_guitar 326)
+      (real_bass 207)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rb3_plus_author Xandy)
+)
